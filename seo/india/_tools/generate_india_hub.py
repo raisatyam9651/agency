@@ -5,19 +5,33 @@ def generate_india_hub():
     out_file = "/Users/bp/Desktop/Tools/Website-ui-ux-designe-skill/agency/seo/india/index.html"
     
     states = [
+        ("arunachal-pradesh", "Arunachal Pradesh"),
+        ("assam", "Assam"),
         ("bihar", "Bihar"),
         ("chhattisgarh", "Chhattisgarh"),
+        ("goa", "Goa"),
         ("gujarat", "Gujarat"),
         ("haryana", "Haryana"),
+        ("himachal-pradesh", "Himachal Pradesh"),
+        ("jammu-and-kashmir", "Jammu and Kashmir"),
         ("jharkhand", "Jharkhand"),
         ("karnataka", "Karnataka"),
         ("kerala", "Kerala"),
+        ("lakshadweep", "Lakshadweep"),
         ("madhya-pradesh", "Madhya Pradesh"),
         ("maharashtra", "Maharashtra"),
+        ("manipur", "Manipur"),
+        ("meghalaya", "Meghalaya"),
+        ("mizoram", "Mizoram"),
+        ("nagaland", "Nagaland"),
         ("odisha", "Odisha"),
+        ("puducherry", "Puducherry"),
         ("punjab", "Punjab"),
         ("rajasthan", "Rajasthan"),
+        ("sikkim", "Sikkim"),
         ("telangana", "Telangana"),
+        ("tripura", "Tripura"),
+        ("uttarakhand", "Uttarakhand"),
         ("uttar-pradesh", "Uttar Pradesh"),
         ("west-bengal", "West Bengal")
     ]
@@ -47,7 +61,7 @@ def generate_india_hub():
 
   <!-- SEO: Primary meta -->
   <title>SEO Agency in India — NEXUS | Local, National & E-commerce SEO</title>
-  <meta name="description" content="NEXUS is a performance-driven SEO agency in India. We engineer local, national, and e-commerce SEO for Indian businesses — across 15+ states and all major districts. Real rankings. Real leads. Real ROI." />
+  <meta name="description" content="NEXUS is a performance-driven SEO agency in India. We engineer local, national, and e-commerce SEO for Indian businesses — across 29+ states and all major districts. Real rankings. Real leads. Real ROI." />
   <meta name="keywords" content="SEO agency India, SEO company India, India SEO services, local SEO India, e-commerce SEO India, multilingual SEO, Hindi SEO, technical SEO, content SEO, NEXUS SEO" />
   <meta name="author" content="NEXUS Studio" />
   <meta name="robots" content="index, follow, max-image-preview:large" />
@@ -163,7 +177,7 @@ def generate_india_hub():
         "name": "Which states in India do you serve?",
         "acceptedAnswer": {{
           "@type": "Answer",
-          "text": "We serve 15 active states across India, including Maharashtra, Gujarat, Karnataka, Haryana, Telangana, Uttar Pradesh, Rajasthan, West Bengal, Bihar, Punjab, Madhya Pradesh, Chhattisgarh, Odisha, Kerala, and Jharkhand, covering all major commercial hubs and districts."
+          "text": "We serve 29 active states across India, including Maharashtra, Gujarat, Karnataka, Haryana, Telangana, Uttar Pradesh, Rajasthan, West Bengal, Bihar, Punjab, Madhya Pradesh, Chhattisgarh, Odisha, Kerala, Jharkhand, Assam, Uttarakhand, Himachal Pradesh, Jammu and Kashmir, Goa, Arunachal Pradesh, Sikkim, Meghalaya, Mizoram, Manipur, Nagaland, Tripura, Lakshadweep, and Puducherry, covering all major commercial hubs and districts."
         }}
       }},
       {{
@@ -226,7 +240,7 @@ def generate_india_hub():
         <div class="hero-meta-left">
           <span class="eyebrow"><span class="dot"></span> Now booking Q3 2026</span>
           <div class="hero-meta-divider"></div>
-          <div class="hero-meta-info">IND · 15 states · 6 languages — 24/7</div>
+          <div class="hero-meta-info">IND · 29 states · 6 languages — 24/7</div>
         </div>
         <div class="hero-meta-info">/ 2026 / v.07</div>
       </div>
@@ -236,7 +250,7 @@ def generate_india_hub():
         <div class="word"><span class="char gradient-text">I</span><span class="char gradient-text">n</span><span class="char gradient-text">d</span><span class="char gradient-text">i</span><span class="char gradient-text">a</span><span class="char">.</span></div>
       </h1>
 
-      <p class="hero-sub">A performance-driven SEO studio for ambitious Indian brands. We blend technical SEO, content, and authority engineering to build organic growth that compounds — across 15+ states and all major districts of India.</p>
+      <p class="hero-sub">A performance-driven SEO studio for ambitious Indian brands. We blend technical SEO, content, and authority engineering to build organic growth that compounds — across 29+ states and all major districts of India.</p>
 
       <div class="hero-cta">
         <a href="../../contact.html" class="btn btn-primary" data-cursor-hover>
@@ -254,7 +268,7 @@ def generate_india_hub():
           <div class="hero-stat-label">Indian clients ranked</div>
         </div>
         <div class="hero-stat">
-          <div class="hero-stat-num"><span class="count" data-target="15">0</span></div>
+          <div class="hero-stat-num"><span class="count" data-target="29">0</span></div>
           <div class="hero-stat-label">States served</div>
         </div>
         <div class="hero-stat">
@@ -311,8 +325,7 @@ def generate_india_hub():
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
           </div>
           <h3>Local SEO</h3>
-          <p>Google Business Profile, citations, NAP consistency, and reviews. Built for regional search behaviour across 15 states and major districts.</p>
-          <div class="service-tags">
+          <p>Google Business Profile, citations, NAP consistency, and reviews. Built for regional search behaviour across 29 states and major districts.</p>          <div class="service-tags">
             <span class="service-tag">GBP</span>
             <span class="service-tag">Citations</span>
             <span class="service-tag">Reviews</span>
@@ -438,7 +451,7 @@ def generate_india_hub():
             <div class="stat-label">Average organic ROI multiplier for our clients.</div>
           </div>
           <div class="stat-card">
-            <div class="stat-num"><span class="grad">15</span></div>
+            <div class="stat-num"><span class="grad">29</span></div>
             <div class="stat-label">Active states with localized local SEO networks today.</div>
           </div>
           <div class="stat-card">
@@ -452,8 +465,7 @@ def generate_india_hub():
             <div class="pillar-num">/ 01</div>
             <div>
               <h4>Pan-India Local SEO Networks</h4>
-              <p>We deploy optimized Google Business Profiles and local landing pages across all major commercial hubs and districts in 15 active states.</p>
-            </div>
+              <p>We deploy optimized Google Business Profiles and local landing pages across all major commercial hubs and districts in 29 active states.</p>            </div>
           </div>
           <div class="pillar">
             <div class="pillar-num">/ 02</div>
@@ -623,7 +635,7 @@ def generate_india_hub():
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">We serve 15 active states across India, including Maharashtra, Gujarat, Karnataka, Haryana, Telangana, Uttar Pradesh, Rajasthan, West Bengal, Bihar, Punjab, Madhya Pradesh, Chhattisgarh, Odisha, Kerala, and Jharkhand.</div>
+            <div class="faq-a-inner">We serve 29 active states across India, including Maharashtra, Gujarat, Karnataka, Haryana, Telangana, Uttar Pradesh, Rajasthan, West Bengal, Bihar, Punjab, Madhya Pradesh, Chhattisgarh, Odisha, Kerala, Jharkhand, Assam, Uttarakhand, Himachal Pradesh, Jammu and Kashmir, Goa, Arunachal Pradesh, Sikkim, Meghalaya, Mizoram, Manipur, Nagaland, Tripura, Lakshadweep, and Puducherry.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -765,7 +777,7 @@ def generate_india_hub():
             <div class="logo-mark"></div>
             NEXUS
           </a>
-          <p>A premium SEO studio for ambitious Indian brands. Engineering organic growth across 15 active states and all major districts.</p>
+          <p>A premium SEO studio for ambitious Indian brands. Engineering organic growth across 29 active states and all major districts.</p>
         </div>
         <div class="footer-col">
           <h5>Capabilities</h5>
