@@ -1,0 +1,20 @@
+# ──────────────────────────────────────────────────────────────
+# rankfyno.com — robots.txt
+# ──────────────────────────────────────────────────────────────
+
+# Allow everything by default — search engines need full access
+User-agent: *
+Allow: /
+
+# Disallow crawl of tooling/utility directories (not part of public content)
+Disallow: /_sitemap/
+Disallow: /_tools/
+
+# Crawl-delay is a courtesy for polite crawlers (1 request per second)
+Crawl-delay: 1
+
+# ── Sitemap registrations ─────────────────────────────────────
+# The index file is the canonical entry point for search engines.
+# Add new <slug>-sitemap.xml entries here whenever you add a category
+# in generate_sitemaps.py — the script will pick them up automatically.
+Sitemap: https://rankfyno.com/sitemap-index.xml
