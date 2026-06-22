@@ -1,225 +1,206 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#0a0a0a" />
-
+<?php
+$base_path = '../../../../';
+$page_title = "SEO Agency in Lucknow — rankfyno Local SEO";
+$page_description = "rankfyno is a local SEO agency in Lucknow. We engineer GBP, citation, on-page and content SEO for Lucknow businesses — regional commercial hubs · university networks · professional service providers. Real rankings. Real leads.";
+$custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
-  <title>SEO Agency in Lucknow — rankfyno Local SEO</title>
-  <meta name="description" content="rankfyno is a local SEO agency in Lucknow. We engineer GBP, citation, on-page and content SEO for Lucknow businesses — regional commercial hubs · university networks · professional service providers. Real rankings. Real leads." />
-  <meta name="keywords" content="SEO agency Lucknow, SEO company Lucknow, Lucknow SEO services, local SEO Lucknow, technical SEO, content SEO, rankfyno SEO" />
-  <meta name="author" content="rankfyno" />
-  <meta name="robots" content="index, follow, max-image-preview:large" />
-  <link rel="canonical" href="https://rankfyno.com/seo/india/uttar-pradesh/lucknow/" />
-
+  <meta name=\"keywords\" content=\"SEO agency Lucknow, SEO company Lucknow, Lucknow SEO services, local SEO Lucknow, technical SEO, content SEO, rankfyno SEO\" />
+  <meta name=\"author\" content=\"rankfyno\" />
+  <meta name=\"robots\" content=\"index, follow, max-image-preview:large\" />
+  <link rel=\"canonical\" href=\"https://rankfyno.com/seo/india/uttar-pradesh/lucknow/\" />
   <!-- SEO: OpenGraph -->
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="rankfyno" />
-  <meta property="og:title" content="SEO Agency in Lucknow — rankfyno Local SEO" />
-  <meta property="og:description" content="Local SEO in Lucknow — engineered to rank your business on Google. Regional commercial hubs · university networks · professional service providers." />
-  <meta property="og:url" content="https://rankfyno.com/seo/india/uttar-pradesh/lucknow/" />
-  <meta property="og:locale" content="en_IN" />
-  <meta property="og:image" content="https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg" />
-  <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="675" />
-  <meta property="og:image:alt" content="rankfyno SEO Agency Lucknow — engineering organic growth" />
-
+  <meta property=\"og:type\" content=\"website\" />
+  <meta property=\"og:site_name\" content=\"rankfyno\" />
+  <meta property=\"og:title\" content=\"SEO Agency in Lucknow — rankfyno Local SEO\" />
+  <meta property=\"og:description\" content=\"Local SEO in Lucknow — engineered to rank your business on Google. Regional commercial hubs · university networks · professional service providers.\" />
+  <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/lucknow/\" />
+  <meta property=\"og:locale\" content=\"en_IN\" />
+  <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
+  <meta property=\"og:image:width\" content=\"1200\" />
+  <meta property=\"og:image:height\" content=\"675\" />
+  <meta property=\"og:image:alt\" content=\"rankfyno SEO Agency Lucknow — engineering organic growth\" />
   <!-- SEO: Twitter -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@rankfyno" />
-  <meta name="twitter:title" content="SEO Agency in Lucknow — rankfyno Local SEO" />
-  <meta name="twitter:description" content="Local SEO engineered for Lucknow businesses. GBP, citations, on-page, and Hindi-English bilingual content." />
-  <meta name="twitter:image" content="https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg" />
-
+  <meta name=\"twitter:card\" content=\"summary_large_image\" />
+  <meta name=\"twitter:site\" content=\"@rankfyno\" />
+  <meta name=\"twitter:title\" content=\"SEO Agency in Lucknow — rankfyno Local SEO\" />
+  <meta name=\"twitter:description\" content=\"Local SEO engineered for Lucknow businesses. GBP, citations, on-page, and Hindi-English bilingual content.\" />
+  <meta name=\"twitter:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
   <!-- SEO: Geo -->
-  <meta name="geo.region" content="IN-UP" />
-  <meta name="geo.placename" content="Lucknow" />
-  <meta name="geo.position" content="26.8467;80.9462" />
-  <meta name="ICBM" content="26.8467, 80.9462" />
-
+  <meta name=\"geo.region\" content=\"IN-UP\" />
+  <meta name=\"geo.placename\" content=\"Lucknow\" />
+  <meta name=\"geo.position\" content=\"26.8467;80.9462\" />
+  <meta name=\"ICBM\" content=\"26.8467, 80.9462\" />
   <!-- Performance: preconnect -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-
   <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
-
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="../../../../style.css" />
-
   <!-- JSON-LD Structured Data -->
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "rankfyno",
-    "alternateName": "rankfyno",
-    "url": "https://rankfyno.com/",
-    "logo": "https://rankfyno.com/logo.png",
-    "description": "Performance-driven SEO, content, and digital growth agency for ambitious brands across India and globally.",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "IN",
-      "addressRegion": "Uttar Pradesh",
-      "addressLocality": "Lucknow"
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"Organization\",
+    \"name\": \"rankfyno\",
+    \"alternateName\": \"rankfyno\",
+    \"url\": \"https://rankfyno.com/\",
+    \"logo\": \"https://rankfyno.com/logo.png\",
+    \"description\": \"Performance-driven SEO, content, and digital growth agency for ambitious brands across India and globally.\",
+    \"address\": {
+      \"@type\": \"PostalAddress\",
+      \"addressCountry\": \"IN\",
+      \"addressRegion\": \"Uttar Pradesh\",
+      \"addressLocality\": \"Lucknow\"
     }
   }
   </script>
-
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org",
-    "@type": "Service",
-    "serviceType": "Search Engine Optimization (SEO)",
-    "name": "rankfyno SEO Services in Lucknow",
-    "provider": {
-      "@type": "Organization",
-      "name": "rankfyno",
-      "url": "https://rankfyno.com/"
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"Service\",
+    \"serviceType\": \"Search Engine Optimization (SEO)\",
+    \"name\": \"rankfyno SEO Services in Lucknow\",
+    \"provider\": {
+      \"@type\": \"Organization\",
+      \"name\": \"rankfyno\",
+      \"url\": \"https://rankfyno.com/\"
     },
-    "areaServed": {
-      "@type": "City",
-      "name": "Lucknow",
-      "sameAs": "https://en.wikipedia.org/wiki/Lucknow"
+    \"areaServed\": {
+      \"@type\": \"City\",
+      \"name\": \"Lucknow\",
+      \"sameAs\": \"https://en.wikipedia.org/wiki/Lucknow\"
     },
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "rankfyno Lucknow SEO Plans",
-      "itemListElement": [
-        { "@type": "Offer", "name": "Local SEO Lucknow", "price": "30000", "priceCurrency": "INR" },
-        { "@type": "Offer", "name": "Growth SEO Lucknow", "price": "65000", "priceCurrency": "INR" },
-        { "@type": "Offer", "name": "Authority SEO Lucknow", "price": "150000", "priceCurrency": "INR" }
+    \"hasOfferCatalog\": {
+      \"@type\": \"OfferCatalog\",
+      \"name\": \"rankfyno Lucknow SEO Plans\",
+      \"itemListElement\": [
+        { \"@type\": \"Offer\", \"name\": \"Local SEO Lucknow\", \"price\": \"30000\", \"priceCurrency\": \"INR\" },
+        { \"@type\": \"Offer\", \"name\": \"Growth SEO Lucknow\", \"price\": \"65000\", \"priceCurrency\": \"INR\" },
+        { \"@type\": \"Offer\", \"name\": \"Authority SEO Lucknow\", \"price\": \"150000\", \"priceCurrency\": \"INR\" }
       ]
     }
   }
   </script>
-
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rankfyno.com/" },
-      { "@type": "ListItem", "position": 2, "name": "SEO in India", "item": "https://rankfyno.com/seo/india/" },
-      { "@type": "ListItem", "position": 3, "name": "Uttar Pradesh", "item": "https://rankfyno.com/seo/india/uttar-pradesh/" },
-      { "@type": "ListItem", "position": 4, "name": "Lucknow", "item": "https://rankfyno.com/seo/india/uttar-pradesh/lucknow/" }
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"BreadcrumbList\",
+    \"itemListElement\": [
+      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Home\", \"item\": \"https://rankfyno.com/\" },
+      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"SEO in India\", \"item\": \"https://rankfyno.com/seo/india/\" },
+      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Uttar Pradesh\", \"item\": \"https://rankfyno.com/seo/india/uttar-pradesh/\" },
+      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Lucknow\", \"item\": \"https://rankfyno.com/seo/india/uttar-pradesh/lucknow/\" }
     ]
   }
   </script>
-
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"FAQPage\",
+    \"mainEntity\": [
       {
-        "@type": "Question",
-        "name": "How do you target educational admissions queries?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "We build parent-focused content, implement school listings schemas, and manage localized maps optimization to capture course enrollment queries."
+        \"@type\": \"Question\",
+        \"name\": \"How do you target educational admissions queries?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We build parent-focused content, implement school listings schemas, and manage localized maps optimization to capture course enrollment queries.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "What is the cost of administrative center local SEO?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Our retainers start at ₹30,000/month for Local, ₹65,000/month for Growth, and custom for enterprise setups."
+        \"@type\": \"Question\",
+        \"name\": \"What is the cost of administrative center local SEO?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Our retainers start at ₹30,000/month for Local, ₹65,000/month for Growth, and custom for enterprise setups.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "How long does SEO take to show results in Lucknow?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Most Lucknow clients see measurable movement in local pack rankings within 30-60 days, and meaningful lead flow within 90-120 days."
+        \"@type\": \"Question\",
+        \"name\": \"How long does SEO take to show results in Lucknow?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Most Lucknow clients see measurable movement in local pack rankings within 30-60 days, and meaningful lead flow within 90-120 days.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "Can you rank my Lucknow business for specific local queries?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, we optimize your Google Business Profile and local landing pages for high-intent keywords in Lucknow to drive direct leads."
+        \"@type\": \"Question\",
+        \"name\": \"Can you rank my Lucknow business for specific local queries?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes, we optimize your Google Business Profile and local landing pages for high-intent keywords in Lucknow to drive direct leads.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "Do you work with businesses outside Lucknow?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes — we serve all of Uttar Pradesh, Delhi NCR, and pan-North India. The Lucknow-specific page is a deep-dive for clients in this market; if you're elsewhere, our main rankfyno page covers national service."
+        \"@type\": \"Question\",
+        \"name\": \"Do you work with businesses outside Lucknow?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes — we serve all of Uttar Pradesh, Delhi NCR, and pan-North India. The Lucknow-specific page is a deep-dive for clients in this market; if you're elsewhere, our main rankfyno page covers national service.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "Do you handle Google Business Profile for Lucknow shops?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. GBP setup, verification, category optimization, photo uploads, weekly Google Posts, and review-response workflows are all part of our Local and Growth plans for Lucknow clients."
+        \"@type\": \"Question\",
+        \"name\": \"Do you handle Google Business Profile for Lucknow shops?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes. GBP setup, verification, category optimization, photo uploads, weekly Google Posts, and review-response workflows are all part of our Local and Growth plans for Lucknow clients.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "What does SEO cost in Lucknow?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Our Lucknow retainers start at ₹30,000/month (Local), ₹65,000/month (Growth), and custom for Authority engagements. All plans are month-to-month with 30 days notice."
+        \"@type\": \"Question\",
+        \"name\": \"What does SEO cost in Lucknow?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Our Lucknow retainers start at ₹30,000/month (Local), ₹65,000/month (Growth), and custom for Authority engagements. All plans are month-to-month with 30 days notice.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "Do you do Hindi & English SEO for Lucknow?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. Lucknow search behaviour is bilingual — we map queries in both languages, build parallel content where it makes sense, and use hreflang-style signals so Google serves the right variant."
+        \"@type\": \"Question\",
+        \"name\": \"Do you do Hindi & English SEO for Lucknow?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes. Lucknow search behaviour is bilingual — we map queries in both languages, build parallel content where it makes sense, and use hreflang-style signals so Google serves the right variant.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "Can I see Lucknow SEO case studies?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. We've ranked Lucknow businesses in several local sectors. Request a relevant case study via our contact form."
+        \"@type\": \"Question\",
+        \"name\": \"Can I see Lucknow SEO case studies?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes. We've ranked Lucknow businesses in several local sectors. Request a relevant case study via our contact form.\"
         }
       }
     ]
   }
-  </script>
-</head>
-<body>
-  <div class="ambient" aria-hidden="true"></div>
-  <div class="grid-overlay" aria-hidden="true"></div>
-  <div class="cursor" id="cursor" aria-hidden="true"></div>
-  <div class="cursor-follower" id="cursor-follower" aria-hidden="true"></div>
+  </script>";
+$footer_brand_desc = "Local SEO engineered for Uttar Pradesh businesses. We rank Lucknow companies on page-1 of Google — measurably, predictably, and at a price that pays for itself.";
+$custom_footer_cols = "<div class=\"footer-col\">
+          <h5>Services</h5>
+          <ul>
+            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Local SEO</a></li>
+            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Technical SEO</a></li>
+            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Content &amp; Authority</a></li>
+            <li><a href=\"../../../../index.html#services\" data-cursor-hover>GBP Optimization</a></li>
+            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Link Acquisition</a></li>
+          </ul>
+        </div>
+        <div class=\"footer-col\">
+          <h5>Lucknow</h5>
+          <ul>
+            <li><a href=\"../\" data-cursor-hover>All Uttar Pradesh districts</a></li>
+            <li><a href=\"../../\" data-cursor-hover>SEO in India</a></li>
+            <li><a href=\"../../../../index.html#pricing\" data-cursor-hover>Pricing</a></li>
+            <li><a href=\"../../../../index.html#process\" data-cursor-hover>Process</a></li>
+          </ul>
+        </div>
+        <div class=\"footer-col\">
+          <h5>Studio</h5>
+          <ul>
+            <li><a href=\"../../../../index.html#work\" data-cursor-hover>Selected work</a></li>
+            <li><a href=\"../../../../index.html#faq\" data-cursor-hover>FAQ</a></li>
+            <li><a href=\"../../../../contact.php\" data-cursor-hover>Contact</a></li>
+          </ul>
+        </div>";
+include $base_path . 'header.php';
+?>
 
-  <!-- Navigation -->
-  <nav class="nav" id="nav">
-    <div class="container nav-inner">
-      <a href="../../../../" class="logo" data-cursor-hover>
-        <div class="logo-mark"></div>
-        rankfyno
-      </a>
-      <ul class="nav-links">
-        <li><a href="../../../../index.html#services" data-cursor-hover>Services</a></li>
-        <li><a href="../../../../index.html#work" data-cursor-hover>Work</a></li>
-        <li><a href="../../../../index.html#process" data-cursor-hover>Process</a></li>
-        <li><a href="../../../../index.html#pricing" data-cursor-hover>Pricing</a></li>
-        <li><a href="../" data-cursor-hover>Uttar Pradesh</a></li>
-        <li><a href="../../../../contact.php" data-cursor-hover>Contact</a></li>
-      </ul>
-      <div class="nav-divider"></div>
-      <div class="nav-cta">
-        <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
-          Start a project
-          <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-        </a>
-        <button class="menu-toggle" data-cursor-hover aria-label="Menu"><span></span></button>
-      </div>
-    </div>
-  </nav>
 
   <!-- Hero Section -->
   <header class="hero">
@@ -969,54 +950,6 @@
   </script>
 
   <!-- Footer -->
-  <footer class="footer">
-    <div class="container">
-      <div class="footer-grid">
-        <div class="footer-brand">
-          <a href="../../../../" class="logo" data-cursor-hover>
-            <div class="logo-mark"></div>
-            rankfyno
-          </a>
-          <p>Local SEO engineered for Uttar Pradesh businesses. We rank Lucknow companies on page-1 of Google — measurably, predictably, and at a price that pays for itself.</p>
-        </div>
-        <div class="footer-col">
-          <h5>Services</h5>
-          <ul>
-            <li><a href="../../../../index.html#services" data-cursor-hover>Local SEO</a></li>
-            <li><a href="../../../../index.html#services" data-cursor-hover>Technical SEO</a></li>
-            <li><a href="../../../../index.html#services" data-cursor-hover>Content &amp; Authority</a></li>
-            <li><a href="../../../../index.html#services" data-cursor-hover>GBP Optimization</a></li>
-            <li><a href="../../../../index.html#services" data-cursor-hover>Link Acquisition</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h5>Lucknow</h5>
-          <ul>
-            <li><a href="../" data-cursor-hover>All Uttar Pradesh districts</a></li>
-            <li><a href="../../" data-cursor-hover>SEO in India</a></li>
-            <li><a href="../../../../index.html#pricing" data-cursor-hover>Pricing</a></li>
-            <li><a href="../../../../index.html#process" data-cursor-hover>Process</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h5>Studio</h5>
-          <ul>
-            <li><a href="../../../../index.html#work" data-cursor-hover>Selected work</a></li>
-            <li><a href="../../../../index.html#faq" data-cursor-hover>FAQ</a></li>
-            <li><a href="../../../../contact.php" data-cursor-hover>Contact</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="footer-bottom">
-        <p>© 2026 rankfyno. All rights reserved.</p>
-        <div class="footer-bottom-links">
-          <a href="../../../../contact.php" data-cursor-hover>Contact</a>
-          <a href="../../../../" data-cursor-hover>Home</a>
-        </div>
-      </div>
-    </div>
-  </footer>
-
-  <script src="../../../../script.js"></script>
-</body>
-</html>
+  <?php
+include $base_path . 'footer.php';
+?>

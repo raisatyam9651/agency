@@ -1,48 +1,116 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="rankfyno — India's premium SEO agency. Technical SEO, content, and authority building for ambitious Indian brands. Hub-and-spoke across 28 states and 22 Haryana districts." />
-  <title>SEO Agency in India — rankfyno Performance-Driven Organic Growth</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="../style.css" />
-</head>
-<body>
-  <div class="ambient" aria-hidden="true"></div>
-  <div class="grid-overlay" aria-hidden="true"></div>
-  <div class="cursor" id="cursor" aria-hidden="true"></div>
-  <div class="cursor-follower" id="cursor-follower" aria-hidden="true"></div>
+<?php
+$base_path = '../';
+$page_title = "SEO Agency in India — rankfyno Performance-Driven Organic Growth";
+$page_description = "rankfyno — India's premium SEO agency. Technical SEO, content, and authority building for ambitious Indian brands. Hub-and-spoke across 28 states and 22 Haryana districts.";
+$footer_brand_desc = "A premium digital marketing studio for ambitious brands. Engineering organic growth across India and the world since 2018.";
+$custom_footer_cols = "<div class=\"footer-col\">
+          <h5>Capabilities</h5>
+          <ul>
+            <li><a href=\"#capabilities\" data-cursor-hover>Technical SEO</a></li>
+            <li><a href=\"#capabilities\" data-cursor-hover>Programmatic SEO</a></li>
+            <li><a href=\"#capabilities\" data-cursor-hover>Local SEO</a></li>
+            <li><a href=\"#capabilities\" data-cursor-hover>GEO · AI Search</a></li>
+          </ul>
+        </div>
+        <div class=\"footer-col\">
+          <h5>Markets</h5>
+          <ul>
+            <li><a href=\"../seo/india/\" data-cursor-hover>India</a></li>
+            <li><a href=\"../contact.php\" data-cursor-hover>United States (Q4 2026)</a></li>
+            <li><a href=\"../contact.php\" data-cursor-hover>United Kingdom (Q1 2027)</a></li>
+            <li><a href=\"../contact.php\" data-cursor-hover>UAE & Saudi Arabia</a></li>
+            <li><a href=\"../contact.php\" data-cursor-hover>SE Asia, AU/NZ</a></li>
+          </ul>
+        </div>
+        <div class=\"footer-col\">
+          <h5>Studio</h5>
+          <ul>
+            <li><a href=\"#case-studies\" data-cursor-hover>Case studies</a></li>
+            <li><a href=\"#process\" data-cursor-hover>Process</a></li>
+            <li><a href=\"#pricing\" data-cursor-hover>Pricing</a></li>
+            <li><a href=\"../contact.php\" data-cursor-hover>Contact</a></li>
+          </ul>
+        </div>
+        <div class=\"footer-col\">
+          <h5>Contact</h5>
+          <ul>
+            <li><a href=\"../contact.php\" data-cursor-hover>Start a project</a></li>
+            <li><a href=\"mailto:hello@rankfyno.com\" data-cursor-hover>hello@rankfyno.com</a></li>
+            <li><a href=\"tel:+14155550188\" data-cursor-hover>+1 (415) 555-0188</a></li>
+            <li><a href=\"#\" data-cursor-hover>SF · NYC · LDN</a></li>
+            <li><a href=\"#\" data-cursor-hover>Async-friendly</a></li>
+          </ul>
+        </div>";
+$custom_scripts = "<script>
+    // Re-initialize cursor, scroll, reveal, counters, testimonials, and FAQ for sub-page
+    document.addEventListener('DOMContentLoaded', () => {
+      // Cursor
+      if (window.matchMedia('(min-width: 769px)').matches) {
+        const cursor = document.getElementById('cursor');
+        const follower = document.getElementById('cursor-follower');
+        if (cursor && follower) {
+          let mx = 0, my = 0, fx = 0, fy = 0;
+          document.addEventListener('mousemove', (e) => { mx = e.clientX; my = e.clientY; cursor.style.left = mx + 'px'; cursor.style.top = my + 'px'; });
+          function loop() { fx += (mx - fx) * 0.15; fy += (my - fy) * 0.15; follower.style.left = fx + 'px'; follower.style.top = fy + 'px'; requestAnimationFrame(loop); }
+          loop();
+          document.querySelectorAll('[data-cursor-hover]').forEach(el => {
+            el.addEventListener('mouseenter', () => { cursor.classList.add('is-hover'); follower.classList.add('is-hover'); });
+            el.addEventListener('mouseleave', () => { cursor.classList.remove('is-hover'); follower.classList.remove('is-hover'); });
+          });
+        }
+      }
+      // Nav scrolled state
+      const nav = document.getElementById('nav');
+      if (nav) {
+        window.addEventListener('scroll', () => {
+          if (window.scrollY > 40) nav.classList.add('scrolled'); else nav.classList.remove('scrolled');
+        });
+      }
+      // Reveal on scroll
+      const io = new IntersectionObserver((entries) => {
+        entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('reveal-visible'); io.unobserve(e.target); } });
+      }, { threshold: 0.1 });
+      document.querySelectorAll('.reveal, .reveal-stagger').forEach(el => io.observe(el));
+      // Counters
+      const counters = document.querySelectorAll('.count');
+      const countIO = new IntersectionObserver((entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) {
+            const el = e.target; const target = parseInt(el.dataset.target || '0', 10); let cur = 0; const step = Math.max(1, target / 60);
+            const tick = () => { cur += step; if (cur >= target) { el.textContent = target.toLocaleString('en-IN'); return; } el.textContent = Math.floor(cur).toLocaleString('en-IN'); requestAnimationFrame(tick); };
+            tick(); countIO.unobserve(el);
+          }
+        });
+      }, { threshold: 0.4 });
+      counters.forEach(c => countIO.observe(c));
+      // Testimonial slider
+      const track = document.getElementById('testimonial-track');
+      const dots = document.querySelectorAll('#testimonial-dots .dot-btn');
+      const prev = document.getElementById('t-prev');
+      const next = document.getElementById('t-next');
+      if (track && dots.length) {
+        let idx = 0; const items = track.querySelectorAll('.testimonial');
+        function go(i) { idx = (i + items.length) % items.length; items.forEach((t, n) => t.classList.toggle('active', n === idx)); dots.forEach((d, n) => d.classList.toggle('active', n === idx)); }
+        dots.forEach((d, n) => d.addEventListener('click', () => go(n)));
+        if (prev) prev.addEventListener('click', () => go(idx - 1));
+        if (next) next.addEventListener('click', () => go(idx + 1));
+        setInterval(() => go(idx + 1), 7000);
+      }
+      // FAQ
+      document.querySelectorAll('.faq-item').forEach((item) => {
+        const q = item.querySelector('.faq-q');
+        if (!q) return;
+        q.addEventListener('click', () => {
+          const isOpen = item.classList.contains('open');
+          document.querySelectorAll('.faq-item').forEach((it) => it.classList.remove('open'));
+          if (!isOpen) item.classList.add('open');
+        });
+      });
+    });
+  </script>";
+include $base_path . 'header.php';
+?>
 
-  <!-- =========================
-       Navigation
-       ========================= -->
-  <nav class="nav" id="nav">
-    <div class="container nav-inner">
-      <a href="../" class="logo" data-cursor-hover>
-        <div class="logo-mark"></div>
-        rankfyno
-      </a>
-      <ul class="nav-links">
-        <li><a href="#capabilities" data-cursor-hover>Capabilities</a></li>
-        <li><a href="#proof" data-cursor-hover>Proof</a></li>
-        <li><a href="#process" data-cursor-hover>Process</a></li>
-        <li><a href="#pricing" data-cursor-hover>Pricing</a></li>
-        <li><a href="#markets" data-cursor-hover>Markets</a></li>
-        <li><a href="#faq" data-cursor-hover>FAQ</a></li>
-      </ul>
-      <div class="nav-divider"></div>
-      <div class="nav-cta">
-        <a href="../contact.php" class="btn btn-primary" data-cursor-hover>
-          Start a project
-          <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-        </a>
-        <button class="menu-toggle" data-cursor-hover aria-label="Menu"><span></span></button>
-      </div>
-    </div>
-  </nav>
 
   <!-- =========================
        Hero
@@ -755,144 +823,6 @@
   <!-- =========================
        Footer
        ========================= -->
-  <footer class="footer">
-    <div class="container">
-      <div class="footer-grid">
-        <div class="footer-brand">
-          <a href="../" class="logo">
-            <div class="logo-mark"></div>
-            rankfyno
-          </a>
-          <p>A premium digital marketing studio for ambitious brands. Engineering organic growth across India and the world since 2018.</p>
-          <div class="footer-socials">
-            <a href="#" class="footer-social" data-cursor-hover aria-label="X / Twitter">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-            </a>
-            <a href="#" class="footer-social" data-cursor-hover aria-label="LinkedIn">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"/></svg>
-            </a>
-            <a href="#" class="footer-social" data-cursor-hover aria-label="Instagram">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
-            </a>
-          </div>
-        </div>
-        <div class="footer-col">
-          <h5>Capabilities</h5>
-          <ul>
-            <li><a href="#capabilities" data-cursor-hover>Technical SEO</a></li>
-            <li><a href="#capabilities" data-cursor-hover>Programmatic SEO</a></li>
-            <li><a href="#capabilities" data-cursor-hover>Local SEO</a></li>
-            <li><a href="#capabilities" data-cursor-hover>GEO · AI Search</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h5>Markets</h5>
-          <ul>
-            <li><a href="../seo/india/" data-cursor-hover>India</a></li>
-            <li><a href="../contact.php" data-cursor-hover>United States (Q4 2026)</a></li>
-            <li><a href="../contact.php" data-cursor-hover>United Kingdom (Q1 2027)</a></li>
-            <li><a href="../contact.php" data-cursor-hover>UAE & Saudi Arabia</a></li>
-            <li><a href="../contact.php" data-cursor-hover>SE Asia, AU/NZ</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h5>Studio</h5>
-          <ul>
-            <li><a href="#case-studies" data-cursor-hover>Case studies</a></li>
-            <li><a href="#process" data-cursor-hover>Process</a></li>
-            <li><a href="#pricing" data-cursor-hover>Pricing</a></li>
-            <li><a href="../contact.php" data-cursor-hover>Contact</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h5>Contact</h5>
-          <ul>
-            <li><a href="../contact.php" data-cursor-hover>Start a project</a></li>
-            <li><a href="mailto:hello@rankfyno.com" data-cursor-hover>hello@rankfyno.com</a></li>
-            <li><a href="tel:+14155550188" data-cursor-hover>+1 (415) 555-0188</a></li>
-            <li><a href="#" data-cursor-hover>SF · NYC · LDN</a></li>
-            <li><a href="#" data-cursor-hover>Async-friendly</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="footer-bottom">
-        <p>© 2026 rankfyno. All rights reserved. · Engineering organic growth across markets</p>
-        <div class="footer-bottom-links">
-          <a href="#" data-cursor-hover>Privacy</a>
-          <a href="#" data-cursor-hover>Terms</a>
-          <a href="../seo/india/" data-cursor-hover>India</a>
-        </div>
-      </div>
-    </div>
-  </footer>
-
-  <script src="../script.js"></script>
-  <script>
-    // Re-initialize cursor, scroll, reveal, counters, testimonials, and FAQ for sub-page
-    document.addEventListener('DOMContentLoaded', () => {
-      // Cursor
-      if (window.matchMedia('(min-width: 769px)').matches) {
-        const cursor = document.getElementById('cursor');
-        const follower = document.getElementById('cursor-follower');
-        if (cursor && follower) {
-          let mx = 0, my = 0, fx = 0, fy = 0;
-          document.addEventListener('mousemove', (e) => { mx = e.clientX; my = e.clientY; cursor.style.left = mx + 'px'; cursor.style.top = my + 'px'; });
-          function loop() { fx += (mx - fx) * 0.15; fy += (my - fy) * 0.15; follower.style.left = fx + 'px'; follower.style.top = fy + 'px'; requestAnimationFrame(loop); }
-          loop();
-          document.querySelectorAll('[data-cursor-hover]').forEach(el => {
-            el.addEventListener('mouseenter', () => { cursor.classList.add('is-hover'); follower.classList.add('is-hover'); });
-            el.addEventListener('mouseleave', () => { cursor.classList.remove('is-hover'); follower.classList.remove('is-hover'); });
-          });
-        }
-      }
-      // Nav scrolled state
-      const nav = document.getElementById('nav');
-      if (nav) {
-        window.addEventListener('scroll', () => {
-          if (window.scrollY > 40) nav.classList.add('scrolled'); else nav.classList.remove('scrolled');
-        });
-      }
-      // Reveal on scroll
-      const io = new IntersectionObserver((entries) => {
-        entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('reveal-visible'); io.unobserve(e.target); } });
-      }, { threshold: 0.1 });
-      document.querySelectorAll('.reveal, .reveal-stagger').forEach(el => io.observe(el));
-      // Counters
-      const counters = document.querySelectorAll('.count');
-      const countIO = new IntersectionObserver((entries) => {
-        entries.forEach((e) => {
-          if (e.isIntersecting) {
-            const el = e.target; const target = parseInt(el.dataset.target || '0', 10); let cur = 0; const step = Math.max(1, target / 60);
-            const tick = () => { cur += step; if (cur >= target) { el.textContent = target.toLocaleString('en-IN'); return; } el.textContent = Math.floor(cur).toLocaleString('en-IN'); requestAnimationFrame(tick); };
-            tick(); countIO.unobserve(el);
-          }
-        });
-      }, { threshold: 0.4 });
-      counters.forEach(c => countIO.observe(c));
-      // Testimonial slider
-      const track = document.getElementById('testimonial-track');
-      const dots = document.querySelectorAll('#testimonial-dots .dot-btn');
-      const prev = document.getElementById('t-prev');
-      const next = document.getElementById('t-next');
-      if (track && dots.length) {
-        let idx = 0; const items = track.querySelectorAll('.testimonial');
-        function go(i) { idx = (i + items.length) % items.length; items.forEach((t, n) => t.classList.toggle('active', n === idx)); dots.forEach((d, n) => d.classList.toggle('active', n === idx)); }
-        dots.forEach((d, n) => d.addEventListener('click', () => go(n)));
-        if (prev) prev.addEventListener('click', () => go(idx - 1));
-        if (next) next.addEventListener('click', () => go(idx + 1));
-        setInterval(() => go(idx + 1), 7000);
-      }
-      // FAQ
-      document.querySelectorAll('.faq-item').forEach((item) => {
-        const q = item.querySelector('.faq-q');
-        if (!q) return;
-        q.addEventListener('click', () => {
-          const isOpen = item.classList.contains('open');
-          document.querySelectorAll('.faq-item').forEach((it) => it.classList.remove('open'));
-          if (!isOpen) item.classList.add('open');
-        });
-      });
-    });
-  </script>
-</body>
-</html>
+  <?php
+include $base_path . 'footer.php';
+?>

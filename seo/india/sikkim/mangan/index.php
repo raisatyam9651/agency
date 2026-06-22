@@ -1,96 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#0a0a0a" />
-  <title>SEO Agency in Mangan — rankfyno Local SEO</title>
-  <meta name="description" content="rankfyno is a local SEO agency in Mangan. We engineer GBP, citation, on-page and content SEO for Mangan businesses — gangtok resorts · rumtek monastery tours · organic farm tourism · boutique hospitality · heritage tourism · adventure activities. Real rankings. Real leads." />
-  <meta name="keywords" content="SEO agency Mangan, SEO company Mangan, Mangan SEO services, local SEO Mangan, technical SEO, content SEO, rankfyno SEO" />
-  <meta name="author" content="rankfyno" />
-  <meta name="robots" content="index, follow, max-image-preview:large" />
-  <link rel="canonical" href="https://rankfyno.com/seo/india/sikkim/mangan/" />
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="rankfyno" />
-  <meta property="og:title" content="SEO Agency in Mangan — rankfyno Local SEO" />
-  <meta property="og:description" content="Local SEO in Mangan — engineered to rank your business on Google. Gangtok resorts · Rumtek monastery tours · organic farm tourism · boutique hospitality · heritage tourism · adventure activities." />
-  <meta property="og:url" content="https://rankfyno.com/seo/india/sikkim/mangan/" />
-  <meta property="og:locale" content="en_IN" />
-  <meta property="og:image" content="https://rankfyno.com/seo/india/sikkim/images/hero.jpg" />
-  <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="675" />
-  <meta property="og:image:alt" content="rankfyno SEO Agency Mangan — engineering organic growth" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@rankfyno" />
-  <meta name="twitter:title" content="SEO Agency in Mangan — rankfyno Local SEO" />
-  <meta name="twitter:description" content="Local SEO engineered for Mangan businesses. GBP, citations, on-page, and bilingual content." />
-  <meta name="twitter:image" content="https://rankfyno.com/seo/india/sikkim/images/hero.jpg" />
-  <meta name="geo.region" content="IN-SK" />
-  <meta name="geo.placename" content="Mangan" />
-  <meta name="geo.position" content="27.5000;88.5300" />
-  <meta name="ICBM" content="27.5000, 88.5300" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="../../../../style.css" />
-  <script type="application/ld+json">
+<?php
+$base_path = '../../../../';
+$page_title = "SEO Agency in Mangan — rankfyno Local SEO";
+$page_description = "rankfyno is a local SEO agency in Mangan. We engineer GBP, citation, on-page and content SEO for Mangan businesses — gangtok resorts · rumtek monastery tours · organic farm tourism · boutique hospitality · heritage tourism · adventure activities. Real rankings. Real leads.";
+$custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
+  <meta name=\"keywords\" content=\"SEO agency Mangan, SEO company Mangan, Mangan SEO services, local SEO Mangan, technical SEO, content SEO, rankfyno SEO\" />
+  <meta name=\"author\" content=\"rankfyno\" />
+  <meta name=\"robots\" content=\"index, follow, max-image-preview:large\" />
+  <link rel=\"canonical\" href=\"https://rankfyno.com/seo/india/sikkim/mangan/\" />
+  <meta property=\"og:type\" content=\"website\" />
+  <meta property=\"og:site_name\" content=\"rankfyno\" />
+  <meta property=\"og:title\" content=\"SEO Agency in Mangan — rankfyno Local SEO\" />
+  <meta property=\"og:description\" content=\"Local SEO in Mangan — engineered to rank your business on Google. Gangtok resorts · Rumtek monastery tours · organic farm tourism · boutique hospitality · heritage tourism · adventure activities.\" />
+  <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/sikkim/mangan/\" />
+  <meta property=\"og:locale\" content=\"en_IN\" />
+  <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/sikkim/images/hero.jpg\" />
+  <meta property=\"og:image:width\" content=\"1200\" />
+  <meta property=\"og:image:height\" content=\"675\" />
+  <meta property=\"og:image:alt\" content=\"rankfyno SEO Agency Mangan — engineering organic growth\" />
+  <meta name=\"twitter:card\" content=\"summary_large_image\" />
+  <meta name=\"twitter:site\" content=\"@rankfyno\" />
+  <meta name=\"twitter:title\" content=\"SEO Agency in Mangan — rankfyno Local SEO\" />
+  <meta name=\"twitter:description\" content=\"Local SEO engineered for Mangan businesses. GBP, citations, on-page, and bilingual content.\" />
+  <meta name=\"twitter:image\" content=\"https://rankfyno.com/seo/india/sikkim/images/hero.jpg\" />
+  <meta name=\"geo.region\" content=\"IN-SK\" />
+  <meta name=\"geo.placename\" content=\"Mangan\" />
+  <meta name=\"geo.position\" content=\"27.5000;88.5300\" />
+  <meta name=\"ICBM\" content=\"27.5000, 88.5300\" />
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org", "@type": "Organization", "name": "rankfyno", "alternateName": "rankfyno", "url": "https://rankfyno.com/", "logo": "https://rankfyno.com/logo.png",
-    "description": "Performance-driven SEO, content, and digital growth agency for ambitious brands across India and globally.",
-    "address": { "@type": "PostalAddress", "addressCountry": "IN", "addressRegion": "Sikkim", "addressLocality": "Mangan" }
+    \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"rankfyno\", \"alternateName\": \"rankfyno\", \"url\": \"https://rankfyno.com/\", \"logo\": \"https://rankfyno.com/logo.png\",
+    \"description\": \"Performance-driven SEO, content, and digital growth agency for ambitious brands across India and globally.\",
+    \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"IN\", \"addressRegion\": \"Sikkim\", \"addressLocality\": \"Mangan\" }
   }
   </script>
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org", "@type": "Service", "serviceType": "Search Engine Optimization (SEO)", "name": "rankfyno SEO Services in Mangan",
-    "provider": { "@type": "Organization", "name": "rankfyno", "url": "https://rankfyno.com/" },
-    "areaServed": { "@type": "City", "name": "Mangan", "sameAs": "https://en.wikipedia.org/wiki/Mangan" },
-    "hasOfferCatalog": { "@type": "OfferCatalog", "name": "rankfyno Mangan SEO Plans", "itemListElement": [
-      { "@type": "Offer", "name": "Local SEO Mangan", "price": "30000", "priceCurrency": "INR" },
-      { "@type": "Offer", "name": "Growth SEO Mangan", "price": "65000", "priceCurrency": "INR" },
-      { "@type": "Offer", "name": "Authority SEO Mangan", "price": "150000", "priceCurrency": "INR" }
+    \"@context\": \"https://schema.org\", \"@type\": \"Service\", \"serviceType\": \"Search Engine Optimization (SEO)\", \"name\": \"rankfyno SEO Services in Mangan\",
+    \"provider\": { \"@type\": \"Organization\", \"name\": \"rankfyno\", \"url\": \"https://rankfyno.com/\" },
+    \"areaServed\": { \"@type\": \"City\", \"name\": \"Mangan\", \"sameAs\": \"https://en.wikipedia.org/wiki/Mangan\" },
+    \"hasOfferCatalog\": { \"@type\": \"OfferCatalog\", \"name\": \"rankfyno Mangan SEO Plans\", \"itemListElement\": [
+      { \"@type\": \"Offer\", \"name\": \"Local SEO Mangan\", \"price\": \"30000\", \"priceCurrency\": \"INR\" },
+      { \"@type\": \"Offer\", \"name\": \"Growth SEO Mangan\", \"price\": \"65000\", \"priceCurrency\": \"INR\" },
+      { \"@type\": \"Offer\", \"name\": \"Authority SEO Mangan\", \"price\": \"150000\", \"priceCurrency\": \"INR\" }
     ] }
   }
   </script>
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rankfyno.com/" },
-      { "@type": "ListItem", "position": 2, "name": "SEO in India", "item": "https://rankfyno.com/seo/india/" },
-      { "@type": "ListItem", "position": 3, "name": "Sikkim", "item": "https://rankfyno.com/seo/india/sikkim/" },
-      { "@type": "ListItem", "position": 4, "name": "Mangan", "item": "https://rankfyno.com/seo/india/sikkim/mangan/" }
+    \"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [
+      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Home\", \"item\": \"https://rankfyno.com/\" },
+      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"SEO in India\", \"item\": \"https://rankfyno.com/seo/india/\" },
+      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Sikkim\", \"item\": \"https://rankfyno.com/seo/india/sikkim/\" },
+      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Mangan\", \"item\": \"https://rankfyno.com/seo/india/sikkim/mangan/\" }
     ]
   }
   </script>
-  <script type="application/ld+json">
-  { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
-      { "@type": "Question", "name": "How does SEO help tourism businesses?", "acceptedAnswer": { "@type": "Answer", "text": "It captures tourists searching in real-time for rooms, heritage experiences, and guides — allowing them to book directly with you." } },\n      { "@type": "Question", "name": "Can you rank my hotel for heritage tourism queries?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, we design focused landing pages, optimize travel content, and manage local map rankings for tourism keywords." } },\n      { "@type": "Question", "name": "How long does SEO take to show results in Mangan?", "acceptedAnswer": { "@type": "Answer", "text": "Most Mangan clients see measurable movement in local pack rankings within 30-60 days." } },\n      { "@type": "Question", "name": "Can you rank my Mangan business for specific local queries?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, we optimize your Google Business Profile and local landing pages for high-intent keywords in Mangan." } },\n      { "@type": "Question", "name": "What does SEO cost in Mangan?", "acceptedAnswer": { "@type": "Answer", "text": "Our Mangan retainers start at ₹30,000/month (Local), ₹65,000/month (Growth), and custom for Authority engagements." } },\n      { "@type": "Question", "name": "Do you handle Google Business Profile for Mangan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. GBP setup, verification, category optimization, weekly Google Posts, and review-response workflows are included." } }
+  <script type=\"application/ld+json\">
+  { \"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [
+      { \"@type\": \"Question\", \"name\": \"How does SEO help tourism businesses?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"It captures tourists searching in real-time for rooms, heritage experiences, and guides — allowing them to book directly with you.\" } },\\n      { \"@type\": \"Question\", \"name\": \"Can you rank my hotel for heritage tourism queries?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes, we design focused landing pages, optimize travel content, and manage local map rankings for tourism keywords.\" } },\\n      { \"@type\": \"Question\", \"name\": \"How long does SEO take to show results in Mangan?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Most Mangan clients see measurable movement in local pack rankings within 30-60 days.\" } },\\n      { \"@type\": \"Question\", \"name\": \"Can you rank my Mangan business for specific local queries?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes, we optimize your Google Business Profile and local landing pages for high-intent keywords in Mangan.\" } },\\n      { \"@type\": \"Question\", \"name\": \"What does SEO cost in Mangan?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Our Mangan retainers start at ₹30,000/month (Local), ₹65,000/month (Growth), and custom for Authority engagements.\" } },\\n      { \"@type\": \"Question\", \"name\": \"Do you handle Google Business Profile for Mangan?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes. GBP setup, verification, category optimization, weekly Google Posts, and review-response workflows are included.\" } }
   ] }
-  </script>
-</head>
-<body>
-  <div class="ambient" aria-hidden="true"></div>
-  <div class="grid-overlay" aria-hidden="true"></div>
-  <div class="cursor" id="cursor" aria-hidden="true"></div>
-  <div class="cursor-follower" id="cursor-follower" aria-hidden="true"></div>
-  <nav class="nav" id="nav">
-    <div class="container nav-inner">
-      <a href="../../../../" class="logo" data-cursor-hover><div class="logo-mark"></div>rankfyno</a>
-      <ul class="nav-links">
-        <li><a href="../../../../index.html#services" data-cursor-hover>Services</a></li>
-        <li><a href="../../../../index.html#work" data-cursor-hover>Work</a></li>
-        <li><a href="../../../../index.html#process" data-cursor-hover>Process</a></li>
-        <li><a href="../../../../index.html#pricing" data-cursor-hover>Pricing</a></li>
-        <li><a href="../" data-cursor-hover>Sikkim</a></li>
-        <li><a href="../../../../contact.php" data-cursor-hover>Contact</a></li>
-      </ul>
-      <div class="nav-divider"></div>
-      <div class="nav-cta">
-        <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>Start a project <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg></a>
-        <button class="menu-toggle" data-cursor-hover aria-label="Menu"><span></span></button>
-      </div>
-    </div>
-  </nav>
+  </script>";
+$footer_brand_desc = "Local SEO engineered for Sikkim businesses. We rank Mangan companies on page-1 of Google — measurably, predictably, and at a price that pays for itself.";
+$custom_footer_cols = "<div class=\"footer-col\"><h5>Services</h5><ul><li><a href=\"../../../../index.html#services\" data-cursor-hover>Local SEO</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>Technical SEO</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>Content &amp; Authority</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>GBP Optimization</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>Link Acquisition</a></li></ul></div>
+        <div class=\"footer-col\"><h5>Sikkim</h5><ul><li><a href=\"../\" data-cursor-hover>All Sikkim districts</a></li><li><a href=\"../../\" data-cursor-hover>SEO in India</a></li><li><a href=\"../../../../index.html#pricing\" data-cursor-hover>Pricing</a></li><li><a href=\"../../../../index.html#process\" data-cursor-hover>Process</a></li></ul></div>
+        <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../../index.html#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../../index.html#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
+include $base_path . 'header.php';
+?>
+
   <header class="hero">
     <div class="container hero-inner">
       <div class="hero-image-wrap"><picture><img src="../images/hero.jpg" alt="Best SEO Company in Mangan — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" /></picture></div>
@@ -203,17 +179,6 @@
   </section>
   <style>.location-link-item {font-family:'Space Grotesk',sans-serif;font-size:16px;line-height:1.5;position:relative;padding-left:20px;margin-bottom:8px}.location-link-item::before {content:'•';position:absolute;left:0;color:var(--accent);font-size:18px;line-height:1.3;transition:transform .3s var(--ease)}.location-link-item:hover::before {transform:scale(1.3)}.location-link-item a {color:var(--ink-1);text-decoration:none;transition:color .3s}.location-link-item a:hover {color:var(--accent)}@media(max-width:900px){.locations-grid {max-height:none}.locations-grid ul {grid-template-columns:repeat(2,1fr)!important}}@media(max-width:600px){.locations-grid ul {grid-template-columns:1fr!important}}</style>
   <script>document.addEventListener('DOMContentLoaded',function(){const t=document.getElementById('locations-toggle-btn'),l=document.getElementById('locations-list-wrap');if(t&&l){t.addEventListener('click',function(){const o=l.classList.toggle('open');if(o){l.style.maxHeight=l.scrollHeight+'px';t.querySelector('.toggle-icon').style.transform='rotate(180deg)'}else{l.style.maxHeight='0';t.querySelector('.toggle-icon').style.transform='rotate(0deg)'}})}})</script>
-  <footer class="footer">
-    <div class="container">
-      <div class="footer-grid">
-        <div class="footer-brand"><a href="../../../../" class="logo" data-cursor-hover><div class="logo-mark"></div>rankfyno</a><p>Local SEO engineered for Sikkim businesses. We rank Mangan companies on page-1 of Google — measurably, predictably, and at a price that pays for itself.</p></div>
-        <div class="footer-col"><h5>Services</h5><ul><li><a href="../../../../index.html#services" data-cursor-hover>Local SEO</a></li><li><a href="../../../../index.html#services" data-cursor-hover>Technical SEO</a></li><li><a href="../../../../index.html#services" data-cursor-hover>Content &amp; Authority</a></li><li><a href="../../../../index.html#services" data-cursor-hover>GBP Optimization</a></li><li><a href="../../../../index.html#services" data-cursor-hover>Link Acquisition</a></li></ul></div>
-        <div class="footer-col"><h5>Sikkim</h5><ul><li><a href="../" data-cursor-hover>All Sikkim districts</a></li><li><a href="../../" data-cursor-hover>SEO in India</a></li><li><a href="../../../../index.html#pricing" data-cursor-hover>Pricing</a></li><li><a href="../../../../index.html#process" data-cursor-hover>Process</a></li></ul></div>
-        <div class="footer-col"><h5>Studio</h5><ul><li><a href="../../../../index.html#work" data-cursor-hover>Selected work</a></li><li><a href="../../../../index.html#faq" data-cursor-hover>FAQ</a></li><li><a href="../../../../contact.php" data-cursor-hover>Contact</a></li></ul></div>
-      </div>
-      <div class="footer-bottom"><p>© 2026 rankfyno. All rights reserved.</p><div class="footer-bottom-links"><a href="../../../../contact.php" data-cursor-hover>Contact</a><a href="../../../../" data-cursor-hover>Home</a></div></div>
-    </div>
-  </footer>
-  <script src="../../../../script.js"></script>
-</body>
-</html>
+  <?php
+include $base_path . 'footer.php';
+?>

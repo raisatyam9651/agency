@@ -1,217 +1,198 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#0a0a0a" />
-
+<?php
+$base_path = '../../../../';
+$page_title = "SEO Agency in Sheikhpura — rankfyno Local SEO";
+$page_description = "rankfyno is a local SEO agency in Sheikhpura. We engineer GBP, citation, on-page and content SEO for Sheikhpura businesses — private clinics & diagnostics · local manufacturing · education centers · stone quarries & construction. Real rankings. Real leads.";
+$custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
-  <title>SEO Agency in Sheikhpura — rankfyno Local SEO</title>
-  <meta name="description" content="rankfyno is a local SEO agency in Sheikhpura. We engineer GBP, citation, on-page and content SEO for Sheikhpura businesses — private clinics & diagnostics · local manufacturing · education centers · stone quarries & construction. Real rankings. Real leads." />
-  <meta name="keywords" content="SEO agency Sheikhpura, SEO company Sheikhpura, Sheikhpura SEO services, local SEO Sheikhpura, technical SEO, content SEO, rankfyno SEO" />
-  <meta name="author" content="rankfyno" />
-  <meta name="robots" content="index, follow, max-image-preview:large" />
-  <link rel="canonical" href="https://rankfyno.com/seo/india/bihar/sheikhpura/" />
-
+  <meta name=\"keywords\" content=\"SEO agency Sheikhpura, SEO company Sheikhpura, Sheikhpura SEO services, local SEO Sheikhpura, technical SEO, content SEO, rankfyno SEO\" />
+  <meta name=\"author\" content=\"rankfyno\" />
+  <meta name=\"robots\" content=\"index, follow, max-image-preview:large\" />
+  <link rel=\"canonical\" href=\"https://rankfyno.com/seo/india/bihar/sheikhpura/\" />
   <!-- SEO: OpenGraph -->
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="rankfyno" />
-  <meta property="og:title" content="SEO Agency in Sheikhpura — rankfyno Local SEO" />
-  <meta property="og:description" content="Local SEO in Sheikhpura — engineered to rank your business on Google. Private clinics & diagnostics · local manufacturing · education centers · stone quarries & construction." />
-  <meta property="og:url" content="https://rankfyno.com/seo/india/bihar/sheikhpura/" />
-  <meta property="og:locale" content="en_IN" />
-  <meta property="og:image" content="https://rankfyno.com/seo/india/bihar/images/hero.jpg" />
-  <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="675" />
-  <meta property="og:image:alt" content="rankfyno SEO Agency Sheikhpura — engineering organic growth" />
-
+  <meta property=\"og:type\" content=\"website\" />
+  <meta property=\"og:site_name\" content=\"rankfyno\" />
+  <meta property=\"og:title\" content=\"SEO Agency in Sheikhpura — rankfyno Local SEO\" />
+  <meta property=\"og:description\" content=\"Local SEO in Sheikhpura — engineered to rank your business on Google. Private clinics & diagnostics · local manufacturing · education centers · stone quarries & construction.\" />
+  <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/bihar/sheikhpura/\" />
+  <meta property=\"og:locale\" content=\"en_IN\" />
+  <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/bihar/images/hero.jpg\" />
+  <meta property=\"og:image:width\" content=\"1200\" />
+  <meta property=\"og:image:height\" content=\"675\" />
+  <meta property=\"og:image:alt\" content=\"rankfyno SEO Agency Sheikhpura — engineering organic growth\" />
   <!-- SEO: Twitter -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@rankfyno" />
-  <meta name="twitter:title" content="SEO Agency in Sheikhpura — rankfyno Local SEO" />
-  <meta name="twitter:description" content="Local SEO engineered for Sheikhpura businesses. GBP, citations, on-page, and bilingual content." />
-  <meta name="twitter:image" content="https://rankfyno.com/seo/india/bihar/images/hero.jpg" />
-
+  <meta name=\"twitter:card\" content=\"summary_large_image\" />
+  <meta name=\"twitter:site\" content=\"@rankfyno\" />
+  <meta name=\"twitter:title\" content=\"SEO Agency in Sheikhpura — rankfyno Local SEO\" />
+  <meta name=\"twitter:description\" content=\"Local SEO engineered for Sheikhpura businesses. GBP, citations, on-page, and bilingual content.\" />
+  <meta name=\"twitter:image\" content=\"https://rankfyno.com/seo/india/bihar/images/hero.jpg\" />
   <!-- SEO: Geo -->
-  <meta name="geo.region" content="IN-BR" />
-  <meta name="geo.placename" content="Sheikhpura" />
-  <meta name="geo.position" content="25.1400;85.8500" />
-  <meta name="ICBM" content="25.1400, 85.8500" />
-
+  <meta name=\"geo.region\" content=\"IN-BR\" />
+  <meta name=\"geo.placename\" content=\"Sheikhpura\" />
+  <meta name=\"geo.position\" content=\"25.1400;85.8500\" />
+  <meta name=\"ICBM\" content=\"25.1400, 85.8500\" />
   <!-- Performance: preconnect -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-
   <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
-
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="../../../../style.css" />
-
   <!-- JSON-LD Structured Data -->
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "rankfyno",
-    "alternateName": "rankfyno",
-    "url": "https://rankfyno.com/",
-    "logo": "https://rankfyno.com/logo.png",
-    "description": "Performance-driven SEO, content, and digital growth agency for ambitious brands across India and globally.",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "IN",
-      "addressRegion": "Bihar",
-      "addressLocality": "Sheikhpura"
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"Organization\",
+    \"name\": \"rankfyno\",
+    \"alternateName\": \"rankfyno\",
+    \"url\": \"https://rankfyno.com/\",
+    \"logo\": \"https://rankfyno.com/logo.png\",
+    \"description\": \"Performance-driven SEO, content, and digital growth agency for ambitious brands across India and globally.\",
+    \"address\": {
+      \"@type\": \"PostalAddress\",
+      \"addressCountry\": \"IN\",
+      \"addressRegion\": \"Bihar\",
+      \"addressLocality\": \"Sheikhpura\"
     }
   }
   </script>
-
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org",
-    "@type": "Service",
-    "serviceType": "Search Engine Optimization (SEO)",
-    "name": "rankfyno SEO Services in Sheikhpura",
-    "provider": {
-      "@type": "Organization",
-      "name": "rankfyno",
-      "url": "https://rankfyno.com/"
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"Service\",
+    \"serviceType\": \"Search Engine Optimization (SEO)\",
+    \"name\": \"rankfyno SEO Services in Sheikhpura\",
+    \"provider\": {
+      \"@type\": \"Organization\",
+      \"name\": \"rankfyno\",
+      \"url\": \"https://rankfyno.com/\"
     },
-    "areaServed": {
-      "@type": "City",
-      "name": "Sheikhpura",
-      "sameAs": "https://en.wikipedia.org/wiki/Sheikhpura"
+    \"areaServed\": {
+      \"@type\": \"City\",
+      \"name\": \"Sheikhpura\",
+      \"sameAs\": \"https://en.wikipedia.org/wiki/Sheikhpura\"
     },
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "rankfyno Sheikhpura SEO Plans",
-      "itemListElement": [
-        { "@type": "Offer", "name": "Local SEO Sheikhpura", "price": "30000", "priceCurrency": "INR" },
-        { "@type": "Offer", "name": "Growth SEO Sheikhpura", "price": "65000", "priceCurrency": "INR" },
-        { "@type": "Offer", "name": "Authority SEO Sheikhpura", "price": "150000", "priceCurrency": "INR" }
+    \"hasOfferCatalog\": {
+      \"@type\": \"OfferCatalog\",
+      \"name\": \"rankfyno Sheikhpura SEO Plans\",
+      \"itemListElement\": [
+        { \"@type\": \"Offer\", \"name\": \"Local SEO Sheikhpura\", \"price\": \"30000\", \"priceCurrency\": \"INR\" },
+        { \"@type\": \"Offer\", \"name\": \"Growth SEO Sheikhpura\", \"price\": \"65000\", \"priceCurrency\": \"INR\" },
+        { \"@type\": \"Offer\", \"name\": \"Authority SEO Sheikhpura\", \"price\": \"150000\", \"priceCurrency\": \"INR\" }
       ]
     }
   }
   </script>
-
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rankfyno.com/" },
-      { "@type": "ListItem", "position": 2, "name": "SEO in India", "item": "https://rankfyno.com/seo/india/" },
-      { "@type": "ListItem", "position": 3, "name": "Bihar", "item": "https://rankfyno.com/seo/india/bihar/" },
-      { "@type": "ListItem", "position": 4, "name": "Sheikhpura", "item": "https://rankfyno.com/seo/india/bihar/sheikhpura/" }
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"BreadcrumbList\",
+    \"itemListElement\": [
+      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Home\", \"item\": \"https://rankfyno.com/\" },
+      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"SEO in India\", \"item\": \"https://rankfyno.com/seo/india/\" },
+      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Bihar\", \"item\": \"https://rankfyno.com/seo/india/bihar/\" },
+      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Sheikhpura\", \"item\": \"https://rankfyno.com/seo/india/bihar/sheikhpura/\" }
     ]
   }
   </script>
-
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"FAQPage\",
+    \"mainEntity\": [
       {
-        "@type": "Question",
-        "name": "Is SEO worth it for small-town businesses in Bihar?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Absolutely. In smaller districts, competition is low — meaning faster rankings, lower cost, and disproportionately high returns from being the #1 local result."
+        \"@type\": \"Question\",
+        \"name\": \"Is SEO worth it for small-town businesses in Bihar?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Absolutely. In smaller districts, competition is low — meaning faster rankings, lower cost, and disproportionately high returns from being the #1 local result.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "How quickly can my clinic rank in a small Bihar district?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "In low-competition districts, GBP optimization alone can produce top-3 maps rankings within 30 days. Full organic results follow in 60-90 days."
+        \"@type\": \"Question\",
+        \"name\": \"How quickly can my clinic rank in a small Bihar district?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"In low-competition districts, GBP optimization alone can produce top-3 maps rankings within 30 days. Full organic results follow in 60-90 days.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "How long does SEO take to show results in Sheikhpura?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Most Sheikhpura clients see measurable movement in local pack rankings within 30-60 days, and meaningful lead flow within 90-120 days."
+        \"@type\": \"Question\",
+        \"name\": \"How long does SEO take to show results in Sheikhpura?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Most Sheikhpura clients see measurable movement in local pack rankings within 30-60 days, and meaningful lead flow within 90-120 days.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "Can you rank my Sheikhpura business for specific local queries?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, we optimize your Google Business Profile and local landing pages for high-intent keywords in Sheikhpura to drive direct leads."
+        \"@type\": \"Question\",
+        \"name\": \"Can you rank my Sheikhpura business for specific local queries?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes, we optimize your Google Business Profile and local landing pages for high-intent keywords in Sheikhpura to drive direct leads.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "Do you work with businesses outside Sheikhpura?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes — we serve all of Bihar, Jharkhand, UP, and pan-India. The Sheikhpura-specific page is a deep-dive for clients in this market."
+        \"@type\": \"Question\",
+        \"name\": \"Do you work with businesses outside Sheikhpura?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes — we serve all of Bihar, Jharkhand, UP, and pan-India. The Sheikhpura-specific page is a deep-dive for clients in this market.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "Do you handle Google Business Profile for Sheikhpura shops?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. GBP setup, verification, category optimization, weekly Google Posts, and review-response workflows are part of our engagements."
+        \"@type\": \"Question\",
+        \"name\": \"Do you handle Google Business Profile for Sheikhpura shops?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes. GBP setup, verification, category optimization, weekly Google Posts, and review-response workflows are part of our engagements.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "What does SEO cost in Sheikhpura?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Our Sheikhpura retainers start at ₹30,000/month (Local), ₹65,000/month (Growth), and custom for Authority engagements."
+        \"@type\": \"Question\",
+        \"name\": \"What does SEO cost in Sheikhpura?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Our Sheikhpura retainers start at ₹30,000/month (Local), ₹65,000/month (Growth), and custom for Authority engagements.\"
         }
       },
       {
-        "@type": "Question",
-        "name": "Do you do bilingual SEO for Sheikhpura?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. Sheikhpura search behavior is bilingual — we target queries in Hindi/Maithili & English, using structured markup for both variants."
+        \"@type\": \"Question\",
+        \"name\": \"Do you do bilingual SEO for Sheikhpura?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes. Sheikhpura search behavior is bilingual — we target queries in Hindi/Maithili & English, using structured markup for both variants.\"
         }
       }
     ]
   }
-  </script>
-</head>
-<body>
-  <div class="ambient" aria-hidden="true"></div>
-  <div class="grid-overlay" aria-hidden="true"></div>
-  <div class="cursor" id="cursor" aria-hidden="true"></div>
-  <div class="cursor-follower" id="cursor-follower" aria-hidden="true"></div>
+  </script>";
+$footer_brand_desc = "Local SEO engineered for Bihar businesses. We rank Sheikhpura companies on page-1 of Google — measurably, predictably, and at a price that pays for itself.";
+$custom_footer_cols = "<div class=\"footer-col\">
+          <h5>Services</h5>
+          <ul>
+            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Local SEO</a></li>
+            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Technical SEO</a></li>
+            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Content &amp; Authority</a></li>
+            <li><a href=\"../../../../index.html#services\" data-cursor-hover>GBP Optimization</a></li>
+            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Link Acquisition</a></li>
+          </ul>
+        </div>
+        <div class=\"footer-col\">
+          <h5>Bihar</h5>
+          <ul>
+            <li><a href=\"../\" data-cursor-hover>All Bihar districts</a></li>
+            <li><a href=\"../../\" data-cursor-hover>SEO in India</a></li>
+            <li><a href=\"../../../../index.html#pricing\" data-cursor-hover>Pricing</a></li>
+            <li><a href=\"../../../../index.html#process\" data-cursor-hover>Process</a></li>
+          </ul>
+        </div>
+        <div class=\"footer-col\">
+          <h5>Studio</h5>
+          <ul>
+            <li><a href=\"../../../../index.html#work\" data-cursor-hover>Selected work</a></li>
+            <li><a href=\"../../../../index.html#faq\" data-cursor-hover>FAQ</a></li>
+            <li><a href=\"../../../../contact.php\" data-cursor-hover>Contact</a></li>
+          </ul>
+        </div>";
+include $base_path . 'header.php';
+?>
 
-  <!-- Navigation -->
-  <nav class="nav" id="nav">
-    <div class="container nav-inner">
-      <a href="../../../../" class="logo" data-cursor-hover>
-        <div class="logo-mark"></div>
-        rankfyno
-      </a>
-      <ul class="nav-links">
-        <li><a href="../../../../index.html#services" data-cursor-hover>Services</a></li>
-        <li><a href="../../../../index.html#work" data-cursor-hover>Work</a></li>
-        <li><a href="../../../../index.html#process" data-cursor-hover>Process</a></li>
-        <li><a href="../../../../index.html#pricing" data-cursor-hover>Pricing</a></li>
-        <li><a href="../" data-cursor-hover>Bihar</a></li>
-        <li><a href="../../../../contact.php" data-cursor-hover>Contact</a></li>
-      </ul>
-      <div class="nav-divider"></div>
-      <div class="nav-cta">
-        <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
-          Start a project
-          <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-        </a>
-        <button class="menu-toggle" data-cursor-hover aria-label="Menu"><span></span></button>
-      </div>
-    </div>
-  </nav>
 
   <!-- Hero Section -->
   <header class="hero">
@@ -836,54 +817,6 @@
   </script>
 
   <!-- Footer -->
-  <footer class="footer">
-    <div class="container">
-      <div class="footer-grid">
-        <div class="footer-brand">
-          <a href="../../../../" class="logo" data-cursor-hover>
-            <div class="logo-mark"></div>
-            rankfyno
-          </a>
-          <p>Local SEO engineered for Bihar businesses. We rank Sheikhpura companies on page-1 of Google — measurably, predictably, and at a price that pays for itself.</p>
-        </div>
-        <div class="footer-col">
-          <h5>Services</h5>
-          <ul>
-            <li><a href="../../../../index.html#services" data-cursor-hover>Local SEO</a></li>
-            <li><a href="../../../../index.html#services" data-cursor-hover>Technical SEO</a></li>
-            <li><a href="../../../../index.html#services" data-cursor-hover>Content &amp; Authority</a></li>
-            <li><a href="../../../../index.html#services" data-cursor-hover>GBP Optimization</a></li>
-            <li><a href="../../../../index.html#services" data-cursor-hover>Link Acquisition</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h5>Bihar</h5>
-          <ul>
-            <li><a href="../" data-cursor-hover>All Bihar districts</a></li>
-            <li><a href="../../" data-cursor-hover>SEO in India</a></li>
-            <li><a href="../../../../index.html#pricing" data-cursor-hover>Pricing</a></li>
-            <li><a href="../../../../index.html#process" data-cursor-hover>Process</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h5>Studio</h5>
-          <ul>
-            <li><a href="../../../../index.html#work" data-cursor-hover>Selected work</a></li>
-            <li><a href="../../../../index.html#faq" data-cursor-hover>FAQ</a></li>
-            <li><a href="../../../../contact.php" data-cursor-hover>Contact</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="footer-bottom">
-        <p>© 2026 rankfyno. All rights reserved.</p>
-        <div class="footer-bottom-links">
-          <a href="../../../../contact.php" data-cursor-hover>Contact</a>
-          <a href="../../../../" data-cursor-hover>Home</a>
-        </div>
-      </div>
-    </div>
-  </footer>
-
-  <script src="../../../../script.js"></script>
-</body>
-</html>
+  <?php
+include $base_path . 'footer.php';
+?>

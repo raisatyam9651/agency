@@ -1,83 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#0a0a0a" />
-  <title>SEO Services Arunachal Pradesh — rankfyno | Premium SEO Agency</title>
-  <meta name="description" content="rankfyno is a performance-driven SEO agency in Arunachal Pradesh. We engineer local, national, and e-commerce SEO for Arunachal Pradesh businesses across all 25 districts including Itanagar, Pasighat, Namsai, and Tawang. Real rankings. Real leads." />
-  <meta name="keywords" content="SEO agency Arunachal Pradesh, SEO company Arunachal Pradesh, Arunachal Pradesh SEO services, local SEO Arunachal Pradesh, Itanagar SEO, technical SEO, content SEO, rankfyno SEO" />
-  <meta name="author" content="rankfyno" />
-  <meta name="robots" content="index, follow, max-image-preview:large" />
-  <link rel="canonical" href="https://rankfyno.com/seo/india/arunachal-pradesh/" />
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="rankfyno" />
-  <meta property="og:title" content="SEO Services Arunachal Pradesh — rankfyno" />
-  <meta property="og:description" content="Performance-driven SEO for Arunachal Pradesh businesses. Local, national, and e-commerce SEO across all 25 districts." />
-  <meta property="og:url" content="https://rankfyno.com/seo/india/arunachal-pradesh/" />
-  <meta property="og:locale" content="en_IN" />
-  <meta property="og:image" content="https://rankfyno.com/seo/india/arunachal-pradesh/images/hero.jpg" />
-  <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="675" />
-  <meta property="og:image:alt" content="rankfyno SEO Agency Arunachal Pradesh — engineering organic growth" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@rankfyno" />
-  <meta name="twitter:title" content="SEO Services Arunachal Pradesh — rankfyno" />
-  <meta name="twitter:description" content="Performance-driven SEO for Arunachal Pradesh businesses across all 25 districts." />
-  <meta name="twitter:image" content="https://rankfyno.com/seo/india/arunachal-pradesh/images/hero.jpg" />
-  <meta name="geo.region" content="IN-AR" />
-  <meta name="geo.placename" content="Arunachal Pradesh" />
-  <meta name="geo.position" content="27.1000;93.6200" />
-  <meta name="ICBM" content="27.1000, 93.6200" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="../../../style.css" />
-  <script type="application/ld+json">
+<?php
+$base_path = '../../../';
+$page_title = "SEO Services Arunachal Pradesh — rankfyno | Premium SEO Agency";
+$page_description = "rankfyno is a performance-driven SEO agency in Arunachal Pradesh. We engineer local, national, and e-commerce SEO for Arunachal Pradesh businesses across all 25 districts including Itanagar, Pasighat, Namsai, and Tawang. Real rankings. Real leads.";
+$custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
+  <meta name=\"keywords\" content=\"SEO agency Arunachal Pradesh, SEO company Arunachal Pradesh, Arunachal Pradesh SEO services, local SEO Arunachal Pradesh, Itanagar SEO, technical SEO, content SEO, rankfyno SEO\" />
+  <meta name=\"author\" content=\"rankfyno\" />
+  <meta name=\"robots\" content=\"index, follow, max-image-preview:large\" />
+  <link rel=\"canonical\" href=\"https://rankfyno.com/seo/india/arunachal-pradesh/\" />
+  <meta property=\"og:type\" content=\"website\" />
+  <meta property=\"og:site_name\" content=\"rankfyno\" />
+  <meta property=\"og:title\" content=\"SEO Services Arunachal Pradesh — rankfyno\" />
+  <meta property=\"og:description\" content=\"Performance-driven SEO for Arunachal Pradesh businesses. Local, national, and e-commerce SEO across all 25 districts.\" />
+  <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/arunachal-pradesh/\" />
+  <meta property=\"og:locale\" content=\"en_IN\" />
+  <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/arunachal-pradesh/images/hero.jpg\" />
+  <meta property=\"og:image:width\" content=\"1200\" />
+  <meta property=\"og:image:height\" content=\"675\" />
+  <meta property=\"og:image:alt\" content=\"rankfyno SEO Agency Arunachal Pradesh — engineering organic growth\" />
+  <meta name=\"twitter:card\" content=\"summary_large_image\" />
+  <meta name=\"twitter:site\" content=\"@rankfyno\" />
+  <meta name=\"twitter:title\" content=\"SEO Services Arunachal Pradesh — rankfyno\" />
+  <meta name=\"twitter:description\" content=\"Performance-driven SEO for Arunachal Pradesh businesses across all 25 districts.\" />
+  <meta name=\"twitter:image\" content=\"https://rankfyno.com/seo/india/arunachal-pradesh/images/hero.jpg\" />
+  <meta name=\"geo.region\" content=\"IN-AR\" />
+  <meta name=\"geo.placename\" content=\"Arunachal Pradesh\" />
+  <meta name=\"geo.position\" content=\"27.1000;93.6200\" />
+  <meta name=\"ICBM\" content=\"27.1000, 93.6200\" />
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org", "@type": "Organization", "name": "rankfyno", "alternateName": "rankfyno", "url": "https://rankfyno.com/", "logo": "https://rankfyno.com/logo.png",
-    "address": { "@type": "PostalAddress", "addressCountry": "IN", "addressRegion": "Arunachal Pradesh", "addressLocality": "Itanagar" }
+    \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"rankfyno\", \"alternateName\": \"rankfyno\", \"url\": \"https://rankfyno.com/\", \"logo\": \"https://rankfyno.com/logo.png\",
+    \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"IN\", \"addressRegion\": \"Arunachal Pradesh\", \"addressLocality\": \"Itanagar\" }
   }
   </script>
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rankfyno.com/" },
-      { "@type": "ListItem", "position": 2, "name": "SEO in India", "item": "https://rankfyno.com/seo/india/" },
-      { "@type": "ListItem", "position": 3, "name": "Arunachal Pradesh", "item": "https://rankfyno.com/seo/india/arunachal-pradesh/" }
+    \"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [
+      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Home\", \"item\": \"https://rankfyno.com/\" },
+      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"SEO in India\", \"item\": \"https://rankfyno.com/seo/india/\" },
+      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Arunachal Pradesh\", \"item\": \"https://rankfyno.com/seo/india/arunachal-pradesh/\" }
     ]
   }
   </script>
-  <script type="application/ld+json">
+  <script type=\"application/ld+json\">
   {
-    "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
-      { "@type": "Question", "name": "How much does SEO cost in Arunachal Pradesh?", "acceptedAnswer": { "@type": "Answer", "text": "rankfyno Arunachal Pradesh SEO retainers start at ₹30,000/month for Local SEO, ₹65,000/month for Growth, and custom pricing for national engagements. All plans are month-to-month with 30 days notice." } },
-      { "@type": "Question", "name": "Which districts in Arunachal Pradesh do you serve?", "acceptedAnswer": { "@type": "Answer", "text": "We serve all 25 districts of Arunachal Pradesh, including major hubs like Itanagar, Pasighat, Namsai, and Tawang, as well as tier-2 and tier-3 locations." } },
-      { "@type": "Question", "name": "How long does SEO take to show results in Arunachal Pradesh?", "acceptedAnswer": { "@type": "Answer", "text": "Local SEO and Google Business Profile optimizations typically produce visible ranking improvements within 30 to 60 days. National and e-commerce campaigns take 3 to 6 months." } }
+    \"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [
+      { \"@type\": \"Question\", \"name\": \"How much does SEO cost in Arunachal Pradesh?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"rankfyno Arunachal Pradesh SEO retainers start at ₹30,000/month for Local SEO, ₹65,000/month for Growth, and custom pricing for national engagements. All plans are month-to-month with 30 days notice.\" } },
+      { \"@type\": \"Question\", \"name\": \"Which districts in Arunachal Pradesh do you serve?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"We serve all 25 districts of Arunachal Pradesh, including major hubs like Itanagar, Pasighat, Namsai, and Tawang, as well as tier-2 and tier-3 locations.\" } },
+      { \"@type\": \"Question\", \"name\": \"How long does SEO take to show results in Arunachal Pradesh?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Local SEO and Google Business Profile optimizations typically produce visible ranking improvements within 30 to 60 days. National and e-commerce campaigns take 3 to 6 months.\" } }
     ]
   }
-  </script>
-</head>
-<body>
-  <div class="ambient" aria-hidden="true"></div>
-  <div class="grid-overlay" aria-hidden="true"></div>
-  <div class="cursor" id="cursor" aria-hidden="true"></div>
-  <div class="cursor-follower" id="cursor-follower" aria-hidden="true"></div>
-  <nav class="nav" id="nav">
-    <div class="container nav-inner">
-      <a href="../../../" class="logo" data-cursor-hover><div class="logo-mark"></div>rankfyno</a>
-      <ul class="nav-links">
-        <li><a href="#capabilities" data-cursor-hover>Capabilities</a></li>
-        <li><a href="#locations" data-cursor-hover>Locations</a></li>
-        <li><a href="#process" data-cursor-hover>Process</a></li>
-        <li><a href="#faq" data-cursor-hover>FAQ</a></li>
-        <li><a href="../" data-cursor-hover>India</a></li>
-        <li><a href="../../../contact.php" data-cursor-hover>Contact</a></li>
-      </ul>
-      <div class="nav-divider"></div>
-      <div class="nav-cta"><a href="../../../contact.php" class="btn btn-primary" data-cursor-hover>Start a project <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg></a><button class="menu-toggle" data-cursor-hover aria-label="Menu"><span></span></button></div>
-    </div>
-  </nav>
+  </script>";
+$footer_brand_desc = "A premium SEO studio for ambitious Arunachal Pradesh brands. Engineering organic growth across all 25 districts.";
+$custom_footer_cols = "<div class=\"footer-col\"><h5>Capabilities</h5><ul><li><a href=\"#capabilities\" data-cursor-hover>Local SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>National SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>E-commerce SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>Technical SEO</a></li></ul></div>
+    <div class=\"footer-col\"><h5>Arunachal Pradesh</h5><ul><li><a href=\"#\" data-cursor-hover>AR Hub</a></li><li><a href=\"../\" data-cursor-hover>SEO in India</a></li><li><a href=\"../../../index.html#pricing\" data-cursor-hover>Pricing</a></li></ul></div>
+    <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../index.html#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../index.html#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
+include $base_path . 'header.php';
+?>
+
   <header class="hero">
     <div class="container hero-inner">
       <div class="hero-meta"><div class="hero-meta-left"><span class="eyebrow"><span class="dot"></span> Now booking Q3 2026</span><div class="hero-meta-divider"></div><div class="hero-meta-info">IND · 25 districts · English · Hindi · Nyishi · Adi — 24/7</div></div><div class="hero-meta-info">/ 2026 / v.07</div></div>
@@ -153,12 +132,6 @@
   </div></section>
   <style>.location-link-item {font-family:'Space Grotesk',sans-serif;font-size:16px;line-height:1.5;position:relative;padding-left:20px;margin-bottom:8px}.location-link-item::before {content:'•';position:absolute;left:0;color:var(--accent);font-size:18px;line-height:1.3;transition:transform .3s var(--ease)}.location-link-item:hover::before {transform:scale(1.3)}.location-link-item a {color:var(--ink-1);text-decoration:none;transition:color .3s}.location-link-item a:hover {color:var(--accent)}@media(max-width:900px){.locations-grid {max-height:none}.locations-grid ul {grid-template-columns:repeat(2,1fr)!important}}@media(max-width:600px){.locations-grid ul {grid-template-columns:1fr!important}}</style>
   <script>document.addEventListener('DOMContentLoaded',function(){const t=document.getElementById('locations-toggle-btn'),l=document.getElementById('locations-list-wrap');if(t&&l){t.addEventListener('click',function(){const o=l.classList.toggle('open');if(o){l.style.maxHeight=l.scrollHeight+'px';t.querySelector('.toggle-icon').style.transform='rotate(180deg)'}else{l.style.maxHeight='0';t.querySelector('.toggle-icon').style.transform='rotate(0deg)'}})}})</script>
-  <footer class="footer"><div class="container"><div class="footer-grid">
-    <div class="footer-brand"><a href="../../../" class="logo" data-cursor-hover><div class="logo-mark"></div>rankfyno</a><p>A premium SEO studio for ambitious Arunachal Pradesh brands. Engineering organic growth across all 25 districts.</p></div>
-    <div class="footer-col"><h5>Capabilities</h5><ul><li><a href="#capabilities" data-cursor-hover>Local SEO</a></li><li><a href="#capabilities" data-cursor-hover>National SEO</a></li><li><a href="#capabilities" data-cursor-hover>E-commerce SEO</a></li><li><a href="#capabilities" data-cursor-hover>Technical SEO</a></li></ul></div>
-    <div class="footer-col"><h5>Arunachal Pradesh</h5><ul><li><a href="#" data-cursor-hover>AR Hub</a></li><li><a href="../" data-cursor-hover>SEO in India</a></li><li><a href="../../../index.html#pricing" data-cursor-hover>Pricing</a></li></ul></div>
-    <div class="footer-col"><h5>Studio</h5><ul><li><a href="../../../index.html#work" data-cursor-hover>Selected work</a></li><li><a href="../../../index.html#faq" data-cursor-hover>FAQ</a></li><li><a href="../../../contact.php" data-cursor-hover>Contact</a></li></ul></div>
-  </div><div class="footer-bottom"><p>© 2026 rankfyno. All rights reserved.</p><div class="footer-bottom-links"><a href="#" data-cursor-hover>Privacy</a><a href="#" data-cursor-hover>Terms</a></div></div></div></footer>
-  <script src="../../../script.js"></script>
-</body>
-</html>
+  <?php
+include $base_path . 'footer.php';
+?>

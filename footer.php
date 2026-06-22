@@ -12,7 +12,7 @@ $base_path = isset($base_path) ? $base_path : '';
             <div class="logo-mark"></div>
             rankfyno
           </a>
-          <p>A premium digital marketing studio for ambitious brands. Engineering growth since 2018.</p>
+          <p><?php echo isset($footer_brand_desc) ? $footer_brand_desc : 'A premium digital marketing studio for ambitious brands. Engineering growth since 2018.'; ?></p>
           <div class="footer-socials">
             <a href="#" class="footer-social" data-cursor-hover aria-label="X / Twitter">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
@@ -28,49 +28,53 @@ $base_path = isset($base_path) ? $base_path : '';
             </a>
           </div>
         </div>
-        <div class="footer-col">
-          <h5>Capabilities</h5>
-          <ul>
-            <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Performance Marketing</a></li>
-            <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>SEO &amp; Organic</a></li>
-            <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Brand &amp; Identity</a></li>
-            <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>AI Marketing</a></li>
-            <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Web &amp; Product</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h5>Locations</h5>
-          <ul>
-            <li><a href="<?php echo $base_path; ?>seo/india/" data-cursor-hover>SEO agency India</a></li>
-            <li><a href="<?php echo $base_path; ?>seo/india/" data-cursor-hover>All India services</a></li>
-            <li><a href="<?php echo $base_path; ?>seo/india/haryana/" data-cursor-hover>Haryana</a></li>
-            <li><a href="<?php echo $base_path; ?>seo/india/haryana/gurugram/" data-cursor-hover>Gurugram</a></li>
-            <li><a href="<?php echo $base_path; ?>seo/india/haryana/panipat/" data-cursor-hover>Panipat</a></li>
-            <li><a href="<?php echo $base_path; ?>seo/india/haryana/faridabad/" data-cursor-hover>Faridabad</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h5>Studio</h5>
-          <ul>
-            <li><a href="<?php echo ($base_path ?: './') . '#work'; ?>" data-cursor-hover>Selected work</a></li>
-            <li><a href="<?php echo ($base_path ?: './') . '#process'; ?>" data-cursor-hover>Process</a></li>
-            <li><a href="<?php echo ($base_path ?: './') . '#pricing'; ?>" data-cursor-hover>Pricing</a></li>
-            <li><a href="<?php echo $base_path; ?>contact.php" data-cursor-hover>Contact</a></li>
-            <li><a href="<?php echo $base_path; ?>team.php" data-cursor-hover>Team</a></li>
-            <li><a href="#" data-cursor-hover>Manifesto</a></li>
-            <li><a href="#" data-cursor-hover>Careers</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h5>Contact</h5>
-          <ul>
-            <li><a href="<?php echo $base_path; ?>contact.php" data-cursor-hover>Start a project</a></li>
-            <li><a href="mailto:hello@rankfyno.com" data-cursor-hover>hello@rankfyno.com</a></li>
-            <li><a href="mailto:press@rankfyno.com" data-cursor-hover>press@rankfyno.com</a></li>
-            <li><a href="tel:+14155550188" data-cursor-hover>+1 (415) 555-0188</a></li>
-            <li><a href="#" data-cursor-hover>SF · NYC · LDN</a></li>
-          </ul>
-        </div>
+        <?php if (isset($custom_footer_cols)): ?>
+          <?php echo $custom_footer_cols; ?>
+        <?php else: ?>
+          <div class="footer-col">
+            <h5>Capabilities</h5>
+            <ul>
+              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Performance Marketing</a></li>
+              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>SEO &amp; Organic</a></li>
+              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Brand &amp; Identity</a></li>
+              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>AI Marketing</a></li>
+              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Web &amp; Product</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h5>Locations</h5>
+            <ul>
+              <li><a href="<?php echo $base_path; ?>seo/india/" data-cursor-hover>SEO agency India</a></li>
+              <li><a href="<?php echo $base_path; ?>seo/india/" data-cursor-hover>All India services</a></li>
+              <li><a href="<?php echo $base_path; ?>seo/india/haryana/" data-cursor-hover>Haryana</a></li>
+              <li><a href="<?php echo $base_path; ?>seo/india/haryana/gurugram/" data-cursor-hover>Gurugram</a></li>
+              <li><a href="<?php echo $base_path; ?>seo/india/haryana/panipat/" data-cursor-hover>Panipat</a></li>
+              <li><a href="<?php echo $base_path; ?>seo/india/haryana/faridabad/" data-cursor-hover>Faridabad</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h5>Studio</h5>
+            <ul>
+              <li><a href="<?php echo ($base_path ?: './') . '#work'; ?>" data-cursor-hover>Selected work</a></li>
+              <li><a href="<?php echo ($base_path ?: './') . '#process'; ?>" data-cursor-hover>Process</a></li>
+              <li><a href="<?php echo ($base_path ?: './') . '#pricing'; ?>" data-cursor-hover>Pricing</a></li>
+              <li><a href="<?php echo $base_path; ?>contact.php" data-cursor-hover>Contact</a></li>
+              <li><a href="<?php echo $base_path; ?>team.php" data-cursor-hover>Team</a></li>
+              <li><a href="#" data-cursor-hover>Manifesto</a></li>
+              <li><a href="#" data-cursor-hover>Careers</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h5>Contact</h5>
+            <ul>
+              <li><a href="<?php echo $base_path; ?>contact.php" data-cursor-hover>Start a project</a></li>
+              <li><a href="mailto:hello@rankfyno.com" data-cursor-hover>hello@rankfyno.com</a></li>
+              <li><a href="mailto:press@rankfyno.com" data-cursor-hover>press@rankfyno.com</a></li>
+              <li><a href="tel:+14155550188" data-cursor-hover>+1 (415) 555-0188</a></li>
+              <li><a href="#" data-cursor-hover>SF · NYC · LDN</a></li>
+            </ul>
+          </div>
+        <?php endif; ?>
       </div>
       <div class="footer-bottom">
         <p>© 2026 rankfyno. All rights reserved.</p>
