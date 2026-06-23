@@ -36,8 +36,8 @@ $custom_footer_cols = "<div class=\"footer-col\">
           <ul>
             <li><a href=\"../contact.php\" data-cursor-hover>Start a project</a></li>
             <li><a href=\"mailto:hello@rankfyno.com\" data-cursor-hover>hello@rankfyno.com</a></li>
-            <li><a href=\"tel:+14155550188\" data-cursor-hover>+1 (415) 555-0188</a></li>
-            <li><a href=\"#\" data-cursor-hover>SF · NYC · LDN</a></li>
+            <li><a href=\"tel:+917317564794\" data-cursor-hover>+91 7317564794</a></li>
+            <li><a href=\"https://maps.google.com/?q=Ground+Floor+Cabin+12+Plot+84+SupremeWork+Sector+32+Gurugram+Haryana+122001\" target=\"_blank\" rel=\"noopener\" data-cursor-hover>Ground Floor, Cabin no 12, Plot 84, SupremeWork, Sector 32, Gurugram, Haryana 122001</a></li>
             <li><a href=\"#\" data-cursor-hover>Async-friendly</a></li>
           </ul>
         </div>";

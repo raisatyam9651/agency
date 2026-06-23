@@ -15,7 +15,7 @@ include __DIR__ . '/header.php';
         <div class="hero-meta-left">
           <span class="eyebrow"><span class="dot"></span> Now booking Q3 2026</span>
           <div class="hero-meta-divider"></div>
-          <div class="hero-meta-info">SFO · NYC · LDN — 24/7</div>
+          <div class="hero-meta-info">GUR · 24/7</div>
         </div>
         <div class="hero-meta-info">/ 2026 / v.07</div>
       </div>
@@ -590,7 +590,7 @@ include __DIR__ . '/header.php';
             Where is the team based?
             <span class="icon"></span>
           </button>
-          <div class="faq-a"><div class="faq-a-inner">San Francisco (HQ), New York, and London, with senior collaborators in Berlin, Singapore, and São Paulo. We work async-first with weekly syncs in your timezone.</div></div>
+          <div class="faq-a"><div class="faq-a-inner">Our studio is in Gurugram, Haryana, with on-the-ground coverage across India's 28 states and 8 union territories. We work async-first with weekly syncs in your timezone.</div></div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>

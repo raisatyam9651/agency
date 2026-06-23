@@ -16,7 +16,7 @@ include __DIR__ . '/header.php';
         <div class="hero-meta-left">
           <span class="eyebrow"><span class="dot"></span> Now booking Q3 2026</span>
           <div class="hero-meta-divider"></div>
-          <div class="hero-meta-info">SFO · NYC · LDN — 24/7</div>
+          <div class="hero-meta-info">GUR · 24/7</div>
         </div>
         <div class="hero-meta-info">/ contact / v.07</div>
       </div>
