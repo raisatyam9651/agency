@@ -67,6 +67,10 @@ $base_path = isset($base_path) ? $base_path : '';
       </div>
       <div class="footer-bottom">
         <p>© 2026 rankfyno. All rights reserved.</p>
+        <div class="footer-hours" aria-label="Business hours">
+          <span class="footer-hours-status" aria-hidden="true"><span class="dot"></span> Open now</span>
+          <span class="footer-hours-text">Mon–Sat · 09:30–19:30 IST</span>
+        </div>
         <div class="footer-citations">
           <span>Listed on:</span>
           <a href="https://www.justdial.com/Gurgaon/Rankfyno" target="_blank" rel="noopener" data-cursor-hover>Justdial</a>
