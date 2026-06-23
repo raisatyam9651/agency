@@ -61,15 +61,15 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   ] }
   </script>";
 $footer_brand_desc = "Local SEO engineered for Himachal Pradesh businesses. We rank Lahaul and Spiti companies on page-1 of Google — measurably, predictably, and at a price that pays for itself.";
-$custom_footer_cols = "<div class=\"footer-col\"><h5>Services</h5><ul><li><a href=\"../../../../index.html#services\" data-cursor-hover>Local SEO</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>Technical SEO</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>Content &amp; Authority</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>GBP Optimization</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>Link Acquisition</a></li></ul></div>
-        <div class=\"footer-col\"><h5>Himachal Pradesh</h5><ul><li><a href=\"../\" data-cursor-hover>All Himachal Pradesh districts</a></li><li><a href=\"../../\" data-cursor-hover>SEO in India</a></li><li><a href=\"../../../../index.html#pricing\" data-cursor-hover>Pricing</a></li><li><a href=\"../../../../index.html#process\" data-cursor-hover>Process</a></li></ul></div>
-        <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../../index.html#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../../index.html#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
+$custom_footer_cols = "<div class=\"footer-col\"><h5>Services</h5><ul><li><a href=\"../../../../index.php#services\" data-cursor-hover>Local SEO</a></li><li><a href=\"../../../../index.php#services\" data-cursor-hover>Technical SEO</a></li><li><a href=\"../../../../index.php#services\" data-cursor-hover>Content &amp; Authority</a></li><li><a href=\"../../../../index.php#services\" data-cursor-hover>GBP Optimization</a></li><li><a href=\"../../../../index.php#services\" data-cursor-hover>Link Acquisition</a></li></ul></div>
+        <div class=\"footer-col\"><h5>Himachal Pradesh</h5><ul><li><a href=\"../\" data-cursor-hover>All Himachal Pradesh districts</a></li><li><a href=\"../../\" data-cursor-hover>SEO in India</a></li><li><a href=\"../../../../index.php#pricing\" data-cursor-hover>Pricing</a></li><li><a href=\"../../../../index.php#process\" data-cursor-hover>Process</a></li></ul></div>
+        <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../../index.php#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../../index.php#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
 include $base_path . 'header.php';
 ?>
 
   <header class="hero">
     <div class="container hero-inner">
-      <div class="hero-image-wrap"><picture><img src="../images/hero.jpg" alt="Best SEO Company in Lahaul and Spiti — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" /></picture></div>
+      <div class="hero-image-wrap"><picture><picture><source srcset="../images/hero.webp" type="image/webp"><img src="../images/hero.jpg" alt="Best SEO Company in Lahaul and Spiti — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" />/></picture></picture></div>
       <div class="hero-meta"><div class="hero-meta-left"><span class="eyebrow"><span class="dot"></span> Lahaul and Spiti · Himachal Pradesh · SEO</span></div><div class="hero-meta-info">/ seo / himachal-pradesh / lahaul-and-spiti</div></div>
       <h1 class="display">
         <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>

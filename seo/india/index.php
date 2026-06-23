@@ -175,8 +175,8 @@ $custom_footer_cols = "<div class=\"footer-col\">
         <div class=\"footer-col\">
           <h5>Studio</h5>
           <ul>
-            <li><a href=\"../../index.html#work\" data-cursor-hover>Selected work</a></li>
-            <li><a href=\"../../index.html#faq\" data-cursor-hover>FAQ</a></li>
+            <li><a href=\"../../index.php#work\" data-cursor-hover>Selected work</a></li>
+            <li><a href=\"../../index.php#faq\" data-cursor-hover>FAQ</a></li>
             <li><a href=\"../../contact.php\" data-cursor-hover>Contact</a></li>
           </ul>
         </div>";

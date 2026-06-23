@@ -13,7 +13,7 @@ $custom_head = '
   <meta property="og:image" content="https://rankfyno.com/og-default.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"Article","headline":"How RankFyno Builds Websites That Generate Leads","datePublished":"2026-06-22","dateModified":"2026-06-22","author":{"@type":"Organization","name":"rankfyno"},"publisher":{"@type":"Organization","name":"rankfyno","logo":{"@type":"ImageObject","url":"https://rankfyno.com/Rankfyno.png"}},"mainEntityOfPage":"https://rankfyno.com/blog/how-rankfyno-builds-websites-that-generate-leads"}
+  {"@context":"https://schema.org","@type":"Article","headline":"How RankFyno Builds Websites That Generate Leads","datePublished":"2026-06-22","dateModified":"2026-06-22","author":{"@type":"Person","name":"rankfyno editorial team","jobTitle":"SEO Editorial","worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},"publisher":{"@type":"Organization","name":"rankfyno","logo":{"@type":"ImageObject","url":"https://rankfyno.com/Rankfyno.png"}},"mainEntityOfPage":"https://rankfyno.com/blog/how-rankfyno-builds-websites-that-generate-leads"}
   </script>
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[

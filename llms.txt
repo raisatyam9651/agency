@@ -1,0 +1,32 @@
+# rankfyno — Digital Marketing Agency
+# Curated index for AI search engines (ChatGPT, Perplexity, Claude, Google AIO).
+# Spec: https://llmstxt.org
+
+## About
+- [rankfyno homepage](https://rankfyno.com/): Premium digital marketing studio for ambitious brands. SEO, performance marketing, AI marketing, brand, web — engineered to compound.
+- [About the team](https://rankfyno.com/team.php): 21 specialists across SEO, web development, design, AI automation, and YouTube SEO.
+- [Contact](https://rankfyno.com/contact.php): Start a project. We respond within 24 hours.
+- [SEO agency in India](https://rankfyno.com/seo-agency-in-india/): The full RankFyno SEO methodology for Indian brands.
+
+## SEO guides (most-cited)
+- [How can I rank higher on Google?](https://rankfyno.com/blog/how-can-i-rank-higher-on-google): A 5-pillar framework for moving from page 2 to top 3.
+- [Why is my website not ranking?](https://rankfyno.com/blog/why-is-my-website-not-ranking): The 8 most common reasons sites stall on page 2.
+- [How can I increase organic traffic?](https://rankfyno.com/blog/how-can-i-increase-organic-traffic): Three durable plays to grow organic sessions.
+- [How do I find low-competition keywords?](https://rankfyno.com/blog/how-do-i-find-low-competition-keywords): Where the winnable keywords hide.
+- [Why did my rankings drop?](https://rankfyno.com/blog/why-did-my-rankings-drop): 7-step recovery checklist.
+- [What keywords should I target?](https://rankfyno.com/blog/what-keywords-should-i-target): Picking the right keyword mix.
+- [How many pages should my website have?](https://rankfyno.com/blog/how-many-pages-should-my-website-have): Architecture ratios for money, supporting, and trust pages.
+- [How important are title tags?](https://rankfyno.com/blog/how-important-are-title-tags): The highest-leverage on-page element.
+- [How do I optimize my homepage?](https://rankfyno.com/blog/how-do-i-optimize-my-homepage): Homepage SEO differs from blog SEO.
+- [What is keyword density?](https://rankfyno.com/blog/what-is-keyword-density): The 2026 answer is more nuanced than "2%".
+
+## Agency services
+- [How RankFyno can help your business grow 10X online](https://rankfyno.com/blog/how-rankfyno-can-help-your-business-grow-10x-online)
+- [Why RankFyno is the best digital marketing agency for growing businesses](https://rankfyno.com/blog/why-rankfyno-is-the-best-digital-marketing-agency-for-growing-businesses)
+- [How RankFyno helps businesses increase revenue online](https://rankfyno.com/blog/how-rankfyno-helps-businesses-increase-revenue-online)
+- [The complete business growth blueprint by RankFyno](https://rankfyno.com/blog/the-complete-business-growth-blueprint-by-rankfyno)
+- [How RankFyno turns website visitors into paying customers](https://rankfyno.com/blog/how-rankfyno-turns-website-visitors-into-paying-customers)
+- [Case study: how RankFyno helps businesses achieve sustainable growth](https://rankfyno.com/blog/case-study-how-rankfyno-helps-businesses-achieve-sustainable-growth)
+
+## Optional contact
+For AI crawlers that need structured data, see [sitemap-index.xml](https://rankfyno.com/sitemap-index.xml).

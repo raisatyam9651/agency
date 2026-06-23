@@ -403,7 +403,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card tl">
           <div class="team-photo">
-            <img src="team/photos/suraj-punia.jpg" alt="Suraj Punia" />
+            <picture><source srcset="team/photos/suraj-punia.webp" type="image/webp"><img src="team/photos/suraj-punia.jpg" alt="Suraj Punia" loading="lazy"/></picture>
                         <span class="initials">SP</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/mr-suraj-385071214/" class="team-linkedin" aria-label="Suraj Punia on LinkedIn" target="_blank" rel="noopener">
@@ -422,7 +422,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/satyam-rai.jpg" alt="Satyam Rai" />
+            <picture><source srcset="team/photos/satyam-rai.webp" type="image/webp"><img src="team/photos/satyam-rai.jpg" alt="Satyam Rai" loading="lazy"/></picture>
                         <span class="initials">SR</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/rai-satyam-rai/" class="team-linkedin" aria-label="Satyam Rai on LinkedIn" target="_blank" rel="noopener">
@@ -441,7 +441,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/amit-yadav.jpg" alt="Amit Yadav" />
+            <picture><source srcset="team/photos/amit-yadav.webp" type="image/webp"><img src="team/photos/amit-yadav.jpg" alt="Amit Yadav" loading="lazy"/></picture>
                         <span class="initials">AY</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/amit-yadav-6924172a4/?skipRedirect=true" class="team-linkedin" aria-label="Amit Yadav on LinkedIn" target="_blank" rel="noopener">
@@ -459,7 +459,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/shivant-chaurasiya.jpg" alt="Shivant Chaurasiya" />
+            <picture><source srcset="team/photos/shivant-chaurasiya.webp" type="image/webp"><img src="team/photos/shivant-chaurasiya.jpg" alt="Shivant Chaurasiya" loading="lazy"/></picture>
                         <span class="initials">SY</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/shivant-chaurasiya-b82000252/" class="team-linkedin" aria-label="Shivant Chaurasiya on LinkedIn" target="_blank" rel="noopener">
@@ -492,7 +492,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/abhishek-singh.jpg" alt="Abhishek Singh" />
+            <picture><source srcset="team/photos/abhishek-singh.webp" type="image/webp"><img src="team/photos/abhishek-singh.jpg" alt="Abhishek Singh" loading="lazy"/></picture>
                         <span class="initials">AY</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/abhishek-singh-47684b215/" class="team-linkedin" aria-label="Abhishek Singh on LinkedIn" target="_blank" rel="noopener">
@@ -510,7 +510,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/jaivijay-paswan.jpg" alt="Jaivijay Paswan" />
+            <picture><source srcset="team/photos/jaivijay-paswan.webp" type="image/webp"><img src="team/photos/jaivijay-paswan.jpg" alt="Jaivijay Paswan" loading="lazy"/></picture>
                         <span class="initials">JP</span>
                         <span class="photo-hint">add photo</span>
                         <a href="#" class="team-linkedin" aria-label="Jaivijay Paswan on LinkedIn" target="_blank" rel="noopener">
@@ -543,7 +543,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/bhanu-pratap.jpg" alt="Bhanu Pratap" />
+            <picture><source srcset="team/photos/bhanu-pratap.webp" type="image/webp"><img src="team/photos/bhanu-pratap.jpg" alt="Bhanu Pratap" loading="lazy"/></picture>
             <span class="initials">BP</span>
             <span class="photo-hint">add photo</span>
             <a href="https://www.linkedin.com/in/bhanu-pratap-61a7b72b6/" class="team-linkedin" aria-label="Bhanu Pratap on LinkedIn" target="_blank" rel="noopener">
@@ -577,7 +577,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card tl">
           <div class="team-photo">
-            <img src="team/photos/manish-kushwaha.jpg" alt="Manish Kushwaha" />
+            <picture><source srcset="team/photos/manish-kushwaha.webp" type="image/webp"><img src="team/photos/manish-kushwaha.jpg" alt="Manish Kushwaha" loading="lazy"/></picture>
                         <span class="initials">MK</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/manish-kushwahaa/" class="team-linkedin" aria-label="Manish Kushwaha on LinkedIn" target="_blank" rel="noopener">
@@ -596,7 +596,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/shivam-kumar.jpg" alt="Shivam Kumar" />
+            <picture><source srcset="team/photos/shivam-kumar.webp" type="image/webp"><img src="team/photos/shivam-kumar.jpg" alt="Shivam Kumar" loading="lazy"/></picture>
                         <span class="initials">SV</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/shivam-kumar-4b334b210/" class="team-linkedin" aria-label="Shivam Kumar on LinkedIn" target="_blank" rel="noopener">
@@ -615,7 +615,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/chitransh-saxena.jpg" alt="Chitransh Saxena" />
+            <picture><source srcset="team/photos/chitransh-saxena.webp" type="image/webp"><img src="team/photos/chitransh-saxena.jpg" alt="Chitransh Saxena" loading="lazy"/></picture>
                         <span class="initials">CT</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/chitransh-saxena-699414229/" class="team-linkedin" aria-label="Chitransh Saxena on LinkedIn" target="_blank" rel="noopener">
@@ -634,7 +634,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/nitest-agnihotri.jpg" alt="Nitest Agnihotri" />
+            <picture><source srcset="team/photos/nitest-agnihotri.webp" type="image/webp"><img src="team/photos/nitest-agnihotri.jpg" alt="Nitest Agnihotri" loading="lazy"/></picture>
                         <span class="initials">NA</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/nitesh-agnihotri/" class="team-linkedin" aria-label="Nitest Agnihotri on LinkedIn" target="_blank" rel="noopener">
@@ -652,7 +652,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/tanmay.jpg" alt="Tanmay" />
+            <picture><source srcset="team/photos/tanmay.webp" type="image/webp"><img src="team/photos/tanmay.jpg" alt="Tanmay" loading="lazy"/></picture>
                         <span class="initials">TM</span>
                         <span class="photo-hint">add photo</span>
                         <a href="#" class="team-linkedin" aria-label="Tanmay on LinkedIn" target="_blank" rel="noopener">
@@ -685,7 +685,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card hr">
           <div class="team-photo">
-            <img src="team/photos/priya-bisht.jpg" alt="Priya Bisht" />
+            <picture><source srcset="team/photos/priya-bisht.webp" type="image/webp"><img src="team/photos/priya-bisht.jpg" alt="Priya Bisht" loading="lazy"/></picture>
                         <span class="initials">PB</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/priya-bisht-b5ab3322a/" class="team-linkedin" aria-label="Priya Bisht on LinkedIn" target="_blank" rel="noopener">
@@ -718,7 +718,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/ranveer-jaiswal.jpg" alt="Ranveer Jaiswal" />
+            <picture><source srcset="team/photos/ranveer-jaiswal.webp" type="image/webp"><img src="team/photos/ranveer-jaiswal.jpg" alt="Ranveer Jaiswal" loading="lazy"/></picture>
                         <span class="initials">RJ</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/ranveer-jaiswal-966289238/" class="team-linkedin" aria-label="Ranveer Jaiswal on LinkedIn" target="_blank" rel="noopener">
@@ -752,7 +752,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/adit-singh.jpg" alt="Adit Singh" />
+            <picture><source srcset="team/photos/adit-singh.webp" type="image/webp"><img src="team/photos/adit-singh.jpg" alt="Adit Singh" loading="lazy"/></picture>
                         <span class="initials">AS</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/aditisingh2001/?skipRedirect=true" class="team-linkedin" aria-label="Adit Singh on LinkedIn" target="_blank" rel="noopener">
@@ -770,7 +770,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/om-nath-tripathi.jpg" alt="Om Nath Tripathi" />
+            <picture><source srcset="team/photos/om-nath-tripathi.webp" type="image/webp"><img src="team/photos/om-nath-tripathi.jpg" alt="Om Nath Tripathi" loading="lazy"/></picture>
                         <span class="initials">OT</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/om-nath-tripathi-693a10195/" class="team-linkedin" aria-label="Om Nath Tripathi on LinkedIn" target="_blank" rel="noopener">
@@ -788,7 +788,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/ichha-kumari.jpg" alt="Ichha Kumari" />
+            <picture><source srcset="team/photos/ichha-kumari.webp" type="image/webp"><img src="team/photos/ichha-kumari.jpg" alt="Ichha Kumari" loading="lazy"/></picture>
                         <span class="initials">IK</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/ichha-kumari/?skipRedirect=true" class="team-linkedin" aria-label="Ichha Kumari on LinkedIn" target="_blank" rel="noopener">
@@ -821,7 +821,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card manager">
           <div class="team-photo">
-            <img src="team/photos/himanshu-silori.jpg" alt="Himanshu Silori" />
+            <picture><source srcset="team/photos/himanshu-silori.webp" type="image/webp"><img src="team/photos/himanshu-silori.jpg" alt="Himanshu Silori" loading="lazy"/></picture>
                         <span class="initials">HS</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/himanshu-silori-570b821b1/" class="team-linkedin" aria-label="Himanshu Silori on LinkedIn" target="_blank" rel="noopener">
@@ -855,7 +855,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/kishan-yadav.jpg" alt="Kishan Yadav" />
+            <picture><source srcset="team/photos/kishan-yadav.webp" type="image/webp"><img src="team/photos/kishan-yadav.jpg" alt="Kishan Yadav" loading="lazy"/></picture>
                         <span class="initials">KY</span>
                         <span class="photo-hint">add photo</span>
                         <a href="#" class="team-linkedin" aria-label="Kishan Yadav on LinkedIn" target="_blank" rel="noopener">
@@ -874,7 +874,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <img src="team/photos/ansh-singh.jpg" alt="Ansh Singh" />
+            <picture><source srcset="team/photos/ansh-singh.webp" type="image/webp"><img src="team/photos/ansh-singh.jpg" alt="Ansh Singh" loading="lazy"/></picture>
                         <span class="initials">AS</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/ansh-singh-800760214/" class="team-linkedin" aria-label="Ansh Singh on LinkedIn" target="_blank" rel="noopener">

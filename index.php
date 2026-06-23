@@ -3,6 +3,108 @@ $base_path = '';
 $current_page = 'home';
 $page_title = 'rankfyno — Engineering Digital Growth';
 $page_description = "rankfyno — Engineering digital growth for the world's most ambitious brands. A premium 3D digital marketing agency.";
+$canonical_url = 'https://rankfyno.com/';
+$og_image = 'https://rankfyno.com/og-default.jpg';
+$custom_head = '
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["ProfessionalService", "LocalBusiness", "Organization"],
+  "@id": "https://rankfyno.com/#organization",
+  "name": "rankfyno",
+  "alternateName": "RankFyno",
+  "description": "A premium digital marketing studio for ambitious brands. SEO, performance marketing, AI marketing, brand, and web — engineered to compound.",
+  "url": "https://rankfyno.com/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rankfyno.com/Rankfyno.svg",
+    "width": 64,
+    "height": 64
+  },
+  "image": "https://rankfyno.com/og-default.jpg",
+  "telephone": "+91-7317564794",
+  "email": "hello@rankfyno.com",
+  "priceRange": "$$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ground Floor, Cabin no 12, Plot 84, SupremeWork, Sector 32",
+    "addressLocality": "Gurugram",
+    "addressRegion": "Haryana",
+    "postalCode": "122001",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 28.4455056,
+    "longitude": 77.0399408
+  },
+  "areaServed": [
+    {"@type": "Country", "name": "India"},
+    {"@type": "City", "name": "Mumbai"},
+    {"@type": "City", "name": "Bengaluru"},
+    {"@type": "City", "name": "Delhi"},
+    {"@type": "City", "name": "Gurugram"}
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+      "opens": "09:30",
+      "closes": "19:30"
+    }
+  ],
+  "sameAs": [
+    "https://twitter.com/rankfyno",
+    "https://www.linkedin.com/company/rankfyno",
+    "https://www.instagram.com/rankfyno"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Suraj Punia",
+    "jobTitle": "Founder & CEO"
+  },
+  "knowsAbout": [
+    "Search Engine Optimization",
+    "Performance Marketing",
+    "AI Marketing",
+    "Brand Strategy",
+    "Web Design",
+    "Content Marketing"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "47",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://rankfyno.com/#website",
+  "url": "https://rankfyno.com/",
+  "name": "rankfyno",
+  "description": "SEO guides and digital marketing services from rankfyno.",
+  "publisher": {"@id": "https://rankfyno.com/#organization"},
+  "inLanguage": "en-IN"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://rankfyno.com/#webpage",
+  "url": "https://rankfyno.com/",
+  "name": "rankfyno — Engineering Digital Growth",
+  "isPartOf": {"@id": "https://rankfyno.com/#website"},
+  "about": {"@id": "https://rankfyno.com/#organization"},
+  "inLanguage": "en-IN"
+}
+</script>
+';
 include __DIR__ . '/header.php';
 ?>
 

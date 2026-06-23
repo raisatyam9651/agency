@@ -52,8 +52,8 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   </script>";
 $footer_brand_desc = "A premium SEO studio for ambitious Jharkhand brands. Engineering organic growth across all 24 districts.";
 $custom_footer_cols = "<div class=\"footer-col\"><h5>Capabilities</h5><ul><li><a href=\"#capabilities\" data-cursor-hover>Local SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>National SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>E-commerce SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>Technical SEO</a></li></ul></div>
-    <div class=\"footer-col\"><h5>Jharkhand</h5><ul><li><a href=\"#\" data-cursor-hover>JH Hub</a></li><li><a href=\"../\" data-cursor-hover>SEO in India</a></li><li><a href=\"../../../index.html#pricing\" data-cursor-hover>Pricing</a></li></ul></div>
-    <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../index.html#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../index.html#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
+    <div class=\"footer-col\"><h5>Jharkhand</h5><ul><li><a href=\"#\" data-cursor-hover>JH Hub</a></li><li><a href=\"../\" data-cursor-hover>SEO in India</a></li><li><a href=\"../../../index.php#pricing\" data-cursor-hover>Pricing</a></li></ul></div>
+    <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../index.php#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../index.php#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
 include $base_path . 'header.php';
 ?>
 

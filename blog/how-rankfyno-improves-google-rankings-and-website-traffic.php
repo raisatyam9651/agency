@@ -13,7 +13,7 @@ $custom_head = '
   <meta property="og:image" content="https://rankfyno.com/og-default.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"Article","headline":"How RankFyno Improves Google Rankings and Website Traffic","datePublished":"2026-06-22","dateModified":"2026-06-22","author":{"@type":"Organization","name":"rankfyno"},"publisher":{"@type":"Organization","name":"rankfyno","logo":{"@type":"ImageObject","url":"https://rankfyno.com/Rankfyno.png"}},"mainEntityOfPage":"https://rankfyno.com/blog/how-rankfyno-improves-google-rankings-and-website-traffic"}
+  {"@context":"https://schema.org","@type":"Article","headline":"How RankFyno Improves Google Rankings and Website Traffic","datePublished":"2026-06-22","dateModified":"2026-06-22","author":{"@type":"Person","name":"rankfyno editorial team","jobTitle":"SEO Editorial","worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},"publisher":{"@type":"Organization","name":"rankfyno","logo":{"@type":"ImageObject","url":"https://rankfyno.com/Rankfyno.png"}},"mainEntityOfPage":"https://rankfyno.com/blog/how-rankfyno-improves-google-rankings-and-website-traffic"}
   </script>
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[

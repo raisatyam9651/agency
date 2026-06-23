@@ -26,8 +26,6 @@ BASE = "https://rankfyno.com"
 ROOT = Path(__file__).resolve().parent.parent  # agency/
 
 # Top-level pages that live at the root (outside any category folder).
-# Path is relative to ROOT. The URL path is the same as the file path with
-# index.php collapsed to trailing slash.
 ROOT_PAGES = [
     ("index.php",                       "/",                     "1.0", "weekly"),
     ("team.php",                        "/team.php",             "0.6", "monthly"),
@@ -35,28 +33,45 @@ ROOT_PAGES = [
     ("seo-agency-in-india/index.php",   "/seo-agency-in-india/", "0.9", "weekly"),
 ]
 
-# Category folders. Each one becomes its own <slug>-sitemap.xml.
-# slug   = output filename stem (no .xml)
-# folder = directory under ROOT, walked recursively for index.php
-# priority/changefreq = defaults applied to every URL in that sitemap
+# Category folders. walker_type = "directory" walks for index.php recursively
+# (used by state/city hubs). walker_type = "flat_files" walks for *.php files
+# directly inside the folder (used by blog where posts are sibling PHP files).
 CATEGORIES = [
     {
         "slug": "seo",
         "folder": "seo",
+        "walker_type": "directory",
         "changefreq": "monthly",
         "hub_priority": "0.9",
         "leaf_priority": "0.7",
         "leaf_changefreq": "monthly",
     },
-    # Future categories — uncomment / add as you ship:
-    # {"slug": "ppc",         "folder": "ppc",         "changefreq": "monthly", "hub_priority": "0.9", "leaf_priority": "0.7", "leaf_changefreq": "monthly"},
-    # {"slug": "web-design",  "folder": "web-design",  "changefreq": "monthly", "hub_priority": "0.9", "leaf_priority": "0.7", "leaf_changefreq": "monthly"},
-    # {"slug": "content",     "folder": "content",     "changefreq": "monthly", "hub_priority": "0.9", "leaf_priority": "0.7", "leaf_changefreq": "monthly"},
+    {
+        "slug": "seo-services",
+        "folder": "seo-services",
+        "walker_type": "directory",
+        "changefreq": "monthly",
+        "hub_priority": "0.8",
+        "leaf_priority": "0.6",
+        "leaf_changefreq": "monthly",
+    },
+    {
+        "slug": "blog",
+        "folder": "blog",
+        "walker_type": "flat_files",
+        "skip_files": ["index.php"],
+        "changefreq": "monthly",
+        "hub_priority": "0.9",
+        "leaf_priority": "0.7",
+        "leaf_changefreq": "monthly",
+    },
 ]
 
-# Folders that look like content but should never appear in a sitemap.
 SKIP_DIR_NAMES = {"_tools", "_build", "assets", "images", "team", "photos",
                   ".git", "node_modules", "vendor", "scratch"}
+
+NOINDEX_RE = re.compile(r'<meta\s+name="robots"\s+content="[^"]*noindex', re.IGNORECASE)
+CANONICAL_RE = re.compile(r'<link\s+rel="canonical"\s+href="([^"]+)"', re.IGNORECASE)
 
 TODAY = date.today().isoformat()
 
@@ -64,43 +79,57 @@ TODAY = date.today().isoformat()
 # Helpers
 # ---------------------------------------------------------------------------
 
-CANONICAL_RE = re.compile(
-    r'<link\s+rel="canonical"\s+href="([^"]+)"', re.IGNORECASE
-)
-
 
 def file_to_url_path(rel_to_root: Path) -> str:
-    """Convert a file path like 'seo/india/karnataka/index.php' to '/seo/india/karnataka/'."""
     parts = list(rel_to_root.parts)
-    # Collapse trailing index.php to a directory URL
     if parts[-1] == "index.php":
         parts = parts[:-1]
     else:
-        # keep .php as-is
         return "/" + "/".join(parts)
     if not parts:
         return "/"
     return "/" + "/".join(parts) + "/"
 
 
-def read_canonical(index_file: Path) -> str | None:
-    """Pull the canonical URL out of the <head> of an index.php (cheap scan)."""
+def read_canonical(file: Path) -> str | None:
     try:
-        with index_file.open("r", encoding="utf-8", errors="ignore") as fh:
-            head = fh.read(16_000)  # canonical is always in <head>
+        with file.open("r", encoding="utf-8", errors="ignore") as fh:
+            head = fh.read(16_000)
     except OSError:
         return None
     m = CANONICAL_RE.search(head)
     return m.group(1).strip() if m else None
 
 
-def walk_category(folder: Path) -> list[dict]:
-    """Return all index.php pages under a category folder, in deterministic order."""
-    pages: list[dict] = []
-    if not folder.exists():
-        return pages
+def is_noindex(file: Path) -> bool:
+    try:
+        with file.open("r", encoding="utf-8", errors="ignore") as fh:
+            head = fh.read(16_000)
+    except OSError:
+        return False
+    return bool(NOINDEX_RE.search(head))
 
-    # Hub page first (category root), then everything else alphabetically
+
+def file_lastmod_iso(file: Path) -> str:
+    """Use the file's actual mtime so Google sees real update signals."""
+    try:
+        import os
+        mtime = os.path.getmtime(file)
+        from datetime import datetime
+        return datetime.fromtimestamp(mtime).date().isoformat()
+    except OSError:
+        return TODAY
+
+
+# ---------------------------------------------------------------------------
+# Walkers
+# ---------------------------------------------------------------------------
+
+
+def walk_directory(folder: Path) -> list[dict]:
+    """Find every index.php recursively. Returns [{loc, depth, path}]."""
+    if not folder.exists():
+        return []
     candidates: list[Path] = []
     for p in folder.rglob("index.php"):
         rel = p.relative_to(folder)
@@ -109,17 +138,51 @@ def walk_category(folder: Path) -> list[dict]:
         candidates.append(p)
     candidates.sort(key=lambda p: (len(p.relative_to(folder).parts), str(p).lower()))
 
+    pages = []
     for p in candidates:
+        if is_noindex(p):
+            continue
         rel_to_root = p.relative_to(ROOT)
         url_path = file_to_url_path(rel_to_root)
         canonical = read_canonical(p)
         loc = canonical or (BASE + url_path)
-        # The hub is whichever page has the shortest URL path under this folder
-        # (the category's own index.php). State pages get leaf treatment; if a
-        # category is one-level deep its root index.php is the hub.
-        depth = len(rel_to_root.parts)
-        pages.append({"loc": loc, "depth": depth})
+        pages.append({
+            "loc": loc,
+            "depth": len(rel_to_root.parts),
+            "path": p,
+            "lastmod": file_lastmod_iso(p),
+        })
     return pages
+
+
+def walk_flat_files(folder: Path, skip: list[str]) -> list[dict]:
+    """Find every *.php directly inside folder. Returns [{loc, depth, path}]."""
+    if not folder.exists():
+        return []
+    skip_set = set(skip)
+    pages = []
+    for p in sorted(folder.glob("*.php")):
+        if p.name in skip_set:
+            continue
+        if is_noindex(p):
+            continue
+        rel_to_root = p.relative_to(ROOT)
+        url_path = file_to_url_path(rel_to_root)
+        canonical = read_canonical(p)
+        loc = canonical or (BASE + url_path)
+        pages.append({
+            "loc": loc,
+            "depth": len(rel_to_root.parts),
+            "path": p,
+            "lastmod": file_lastmod_iso(p),
+        })
+    return pages
+
+
+WALKERS = {
+    "directory": walk_directory,
+    "flat_files": lambda f: walk_flat_files(f, []),
+}
 
 
 # ---------------------------------------------------------------------------
@@ -130,10 +193,9 @@ URLSET_HEADER = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://w
 URLSET_FOOTER = "</urlset>\n"
 
 
-def write_urlset(path: Path, entries: list[tuple[str, str, str, str]]) -> None:
+def write_urlset(path: Path, entries: list[tuple]) -> None:
     """
     entries = list of (loc, lastmod, changefreq, priority).
-    Writes a sitemap urlset XML file.
     """
     lines = [URLSET_HEADER]
     for loc, lastmod, changefreq, priority in entries:
@@ -163,35 +225,43 @@ def write_sitemap_index(path: Path, sitemap_files: list[str]) -> None:
 # Main
 # ---------------------------------------------------------------------------
 
+
 def main() -> int:
     print(f"Generating sitemaps in {ROOT}  (base: {BASE})")
 
-    # 1. Main sitemap — top-level pages
+    # 1. Root sitemap
     root_entries = []
     for rel, url_path, prio, freq in ROOT_PAGES:
+        full_path = ROOT / rel
+        lastmod = file_lastmod_iso(full_path) if full_path.exists() else TODAY
         loc = BASE + url_path
-        root_entries.append((loc, TODAY, freq, prio))
+        root_entries.append((loc, lastmod, freq, prio))
     write_urlset(ROOT / "sitemap.xml", root_entries)
     print(f"  ✓ sitemap.xml          ({len(root_entries)} URLs)")
 
-    # 2. Per-category sitemaps + collect for index
+    # 2. Per-category sitemaps
     sitemap_index_entries: list[str] = ["sitemap.xml"]
     total_urls = len(root_entries)
 
     for cat in CATEGORIES:
         folder = ROOT / cat["folder"]
-        pages = walk_category(folder)
+        walker_fn = WALKERS.get(cat["walker_type"], walk_directory)
+        if cat["walker_type"] == "flat_files":
+            pages = walk_flat_files(folder, cat.get("skip_files", []))
+        else:
+            pages = walk_directory(folder)
+
         if not pages:
             print(f"  · skipping {cat['slug']} (no pages under {folder})")
             continue
 
         min_depth = min(p["depth"] for p in pages)
-        entries: list[tuple[str, str, str, str]] = []
+        entries: list[tuple] = []
         for p in pages:
             is_hub = (p["depth"] == min_depth)
             prio = cat["hub_priority"] if is_hub else cat["leaf_priority"]
             freq = cat["changefreq"] if is_hub else cat["leaf_changefreq"]
-            entries.append((p["loc"], TODAY, freq, prio))
+            entries.append((p["loc"], p["lastmod"], freq, prio))
 
         out_name = f"{cat['slug']}-sitemap.xml"
         write_urlset(ROOT / out_name, entries)

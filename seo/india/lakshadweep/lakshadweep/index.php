@@ -61,15 +61,15 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   ] }
   </script>";
 $footer_brand_desc = "Local SEO engineered for Lakshadweep businesses. We rank Lakshadweep companies on page-1 of Google — measurably, predictably, and at a price that pays for itself.";
-$custom_footer_cols = "<div class=\"footer-col\"><h5>Services</h5><ul><li><a href=\"../../../../index.html#services\" data-cursor-hover>Local SEO</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>Technical SEO</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>Content &amp; Authority</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>GBP Optimization</a></li><li><a href=\"../../../../index.html#services\" data-cursor-hover>Link Acquisition</a></li></ul></div>
-        <div class=\"footer-col\"><h5>Lakshadweep</h5><ul><li><a href=\"../\" data-cursor-hover>All Lakshadweep districts</a></li><li><a href=\"../../\" data-cursor-hover>SEO in India</a></li><li><a href=\"../../../../index.html#pricing\" data-cursor-hover>Pricing</a></li><li><a href=\"../../../../index.html#process\" data-cursor-hover>Process</a></li></ul></div>
-        <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../../index.html#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../../index.html#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
+$custom_footer_cols = "<div class=\"footer-col\"><h5>Services</h5><ul><li><a href=\"../../../../index.php#services\" data-cursor-hover>Local SEO</a></li><li><a href=\"../../../../index.php#services\" data-cursor-hover>Technical SEO</a></li><li><a href=\"../../../../index.php#services\" data-cursor-hover>Content &amp; Authority</a></li><li><a href=\"../../../../index.php#services\" data-cursor-hover>GBP Optimization</a></li><li><a href=\"../../../../index.php#services\" data-cursor-hover>Link Acquisition</a></li></ul></div>
+        <div class=\"footer-col\"><h5>Lakshadweep</h5><ul><li><a href=\"../\" data-cursor-hover>All Lakshadweep districts</a></li><li><a href=\"../../\" data-cursor-hover>SEO in India</a></li><li><a href=\"../../../../index.php#pricing\" data-cursor-hover>Pricing</a></li><li><a href=\"../../../../index.php#process\" data-cursor-hover>Process</a></li></ul></div>
+        <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../../index.php#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../../index.php#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
 include $base_path . 'header.php';
 ?>
 
   <header class="hero">
     <div class="container hero-inner">
-      <div class="hero-image-wrap"><picture><img src="../images/hero.jpg" alt="Best SEO Company in Lakshadweep — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" /></picture></div>
+      <div class="hero-image-wrap"><picture><picture><source srcset="../images/hero.webp" type="image/webp"><img src="../images/hero.jpg" alt="Best SEO Company in Lakshadweep — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" />/></picture></picture></div>
       <div class="hero-meta"><div class="hero-meta-left"><span class="eyebrow"><span class="dot"></span> Lakshadweep · Lakshadweep · SEO</span></div><div class="hero-meta-info">/ seo / lakshadweep / lakshadweep</div></div>
       <h1 class="display">
         <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>
@@ -133,12 +133,18 @@ include $base_path . 'header.php';
   </section>
   <section style="padding: 80px 0; border-top: 1px solid var(--border);">
     <div class="container">
-      <div class="section-head reveal"><div><span class="eyebrow"><span class="dot"></span> Other Lakshadweep districts</span><h2 class="display">Explore <span class="gradient-text">neighbouring markets.</span></h2></div><p class="lede">Expand your digital footprint. We cover all major commercial hubs and districts across Lakshadweep.</p></div>
-      <div class="pricing-grid reveal-stagger" style="margin-top: 60px;">        <a href="../lakshadweep/" class="price-card" data-tilt data-cursor-hover style="padding:36px 28px;min-height:200px;display:flex;flex-direction:column;justify-content:space-between;"><div><span class="price-name">/ 01</span><h3 style="margin-top:12px;margin-bottom:8px;">Lakshadweep</h3><p class="price-desc" style="margin-bottom:0;">Bangaram & Agatti coral reef resorts · water sports & scuba diving packages · boutique hospitality · heritage tourism · adventure activities</p></div><span class="btn-ghost" style="display:inline-flex;align-items:center;gap:8px;font-size:12px;padding:8px 16px;border-radius:100px;width:fit-content;margin-top:16px;">Explore →</span></a>
-        <a href="../lakshadweep/" class="price-card" data-tilt data-cursor-hover style="padding:36px 28px;min-height:200px;display:flex;flex-direction:column;justify-content:space-between;"><div><span class="price-name">/ 02</span><h3 style="margin-top:12px;margin-bottom:8px;">Lakshadweep</h3><p class="price-desc" style="margin-bottom:0;">Bangaram & Agatti coral reef resorts · water sports & scuba diving packages · boutique hospitality · heritage tourism · adventure activities</p></div><span class="btn-ghost" style="display:inline-flex;align-items:center;gap:8px;font-size:12px;padding:8px 16px;border-radius:100px;width:fit-content;margin-top:16px;">Explore →</span></a>
-        <a href="../lakshadweep/" class="price-card" data-tilt data-cursor-hover style="padding:36px 28px;min-height:200px;display:flex;flex-direction:column;justify-content:space-between;"><div><span class="price-name">/ 03</span><h3 style="margin-top:12px;margin-bottom:8px;">Lakshadweep</h3><p class="price-desc" style="margin-bottom:0;">Bangaram & Agatti coral reef resorts · water sports & scuba diving packages · boutique hospitality · heritage tourism · adventure activities</p></div><span class="btn-ghost" style="display:inline-flex;align-items:center;gap:8px;font-size:12px;padding:8px 16px;border-radius:100px;width:fit-content;margin-top:16px;">Explore →</span></a>
-        <a href="../lakshadweep/" class="price-card" data-tilt data-cursor-hover style="padding:36px 28px;min-height:200px;display:flex;flex-direction:column;justify-content:space-between;"><div><span class="price-name">/ 04</span><h3 style="margin-top:12px;margin-bottom:8px;">Lakshadweep</h3><p class="price-desc" style="margin-bottom:0;">Bangaram & Agatti coral reef resorts · water sports & scuba diving packages · boutique hospitality · heritage tourism · adventure activities</p></div><span class="btn-ghost" style="display:inline-flex;align-items:center;gap:8px;font-size:12px;padding:8px 16px;border-radius:100px;width:fit-content;margin-top:16px;">Explore →</span></a></div>
-      <div style="text-align: center; margin-top: 50px;"><a href="../" class="btn btn-ghost" data-cursor-hover>View all Lakshadweep districts <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg></a></div>
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow"><span class="dot"></span> Lakshadweep coverage</span>
+          <h2 class="display">Single-district <span class="gradient-text">territory.</span></h2>
+        </div>
+        <p class="lede">Lakshadweep has one major commercial district. RankFyno covers it end-to-end — from coral reef resort SEO to Agatti and Bangaram hospitality digital marketing.</p>
+      </div>
+      <div style="text-align: center; margin-top: 50px;">
+        <a href="../" class="btn btn-ghost" data-cursor-hover>Back to Lakshadweep overview
+          <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+        </a>
+      </div>
     </div>
   </section>
   <section id="faq" style="padding: 80px 0; border-top: 1px solid var(--border);">

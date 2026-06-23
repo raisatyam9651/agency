@@ -166,11 +166,11 @@ $footer_brand_desc = "Local SEO engineered for Bihar businesses. We rank Sheikhp
 $custom_footer_cols = "<div class=\"footer-col\">
           <h5>Services</h5>
           <ul>
-            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Local SEO</a></li>
-            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Technical SEO</a></li>
-            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Content &amp; Authority</a></li>
-            <li><a href=\"../../../../index.html#services\" data-cursor-hover>GBP Optimization</a></li>
-            <li><a href=\"../../../../index.html#services\" data-cursor-hover>Link Acquisition</a></li>
+            <li><a href=\"../../../../index.php#services\" data-cursor-hover>Local SEO</a></li>
+            <li><a href=\"../../../../index.php#services\" data-cursor-hover>Technical SEO</a></li>
+            <li><a href=\"../../../../index.php#services\" data-cursor-hover>Content &amp; Authority</a></li>
+            <li><a href=\"../../../../index.php#services\" data-cursor-hover>GBP Optimization</a></li>
+            <li><a href=\"../../../../index.php#services\" data-cursor-hover>Link Acquisition</a></li>
           </ul>
         </div>
         <div class=\"footer-col\">
@@ -178,15 +178,15 @@ $custom_footer_cols = "<div class=\"footer-col\">
           <ul>
             <li><a href=\"../\" data-cursor-hover>All Bihar districts</a></li>
             <li><a href=\"../../\" data-cursor-hover>SEO in India</a></li>
-            <li><a href=\"../../../../index.html#pricing\" data-cursor-hover>Pricing</a></li>
-            <li><a href=\"../../../../index.html#process\" data-cursor-hover>Process</a></li>
+            <li><a href=\"../../../../index.php#pricing\" data-cursor-hover>Pricing</a></li>
+            <li><a href=\"../../../../index.php#process\" data-cursor-hover>Process</a></li>
           </ul>
         </div>
         <div class=\"footer-col\">
           <h5>Studio</h5>
           <ul>
-            <li><a href=\"../../../../index.html#work\" data-cursor-hover>Selected work</a></li>
-            <li><a href=\"../../../../index.html#faq\" data-cursor-hover>FAQ</a></li>
+            <li><a href=\"../../../../index.php#work\" data-cursor-hover>Selected work</a></li>
+            <li><a href=\"../../../../index.php#faq\" data-cursor-hover>FAQ</a></li>
             <li><a href=\"../../../../contact.php\" data-cursor-hover>Contact</a></li>
           </ul>
         </div>";
@@ -199,7 +199,7 @@ include $base_path . 'header.php';
     <div class="container hero-inner">
       <div class="hero-image-wrap">
         <picture>
-          <img src="../images/hero.jpg" alt="Best SEO Company in Sheikhpura — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" />
+          <picture><source srcset="../images/hero.webp" type="image/webp"><img src="../images/hero.jpg" alt="Best SEO Company in Sheikhpura — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" />/></picture>
         </picture>
       </div>
 
