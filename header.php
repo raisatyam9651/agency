@@ -40,7 +40,6 @@ $is_home = ($current_page === 'home');
         <li><a href="<?php echo $is_home ? '#services' : ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Services</a></li>
         <li><a href="<?php echo $is_home ? '#work' : ($base_path ?: './') . '#work'; ?>" data-cursor-hover>Work</a></li>
         <li><a href="<?php echo $is_home ? '#process' : ($base_path ?: './') . '#process'; ?>" data-cursor-hover>Process</a></li>
-        <li><a href="<?php echo $is_home ? '#pricing' : ($base_path ?: './') . '#pricing'; ?>" data-cursor-hover>Pricing</a></li>
         <li><a href="<?php echo $is_home ? '#faq' : ($base_path ?: './') . '#faq'; ?>" data-cursor-hover>FAQ</a></li>
         <li><a href="<?php echo $base_path; ?>team.php" class="<?php echo ($current_page === 'team') ? 'active' : ''; ?>" data-cursor-hover>Team</a></li>
         <li><a href="<?php echo $base_path; ?>blog" class="<?php echo ($current_page === 'blog') ? 'active' : ''; ?>" data-cursor-hover>Blog</a></li>

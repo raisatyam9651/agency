@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../../../';
-$page_title = "SEO Agency in Jaipur Rural — rankfyno Local SEO";
+$page_title = "Local SEO agency in Jaipur Rural - Rankfyno";
 $page_description = "rankfyno is a local SEO agency in Jaipur Rural. We engineer GBP, citation, on-page and content SEO for Jaipur Rural businesses — modern corporate hubs · tech start-ups · professional consultancies · bpo centers. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
@@ -186,7 +186,7 @@ $custom_footer_cols = "<div class=\"footer-col\">
           <ul>
             <li><a href=\"../\" data-cursor-hover>All Rajasthan districts</a></li>
             <li><a href=\"../../\" data-cursor-hover>SEO in India</a></li>
-            <li><a href=\"../../../../index.php#pricing\" data-cursor-hover>Pricing</a></li>
+            
             <li><a href=\"../../../../index.php#process\" data-cursor-hover>Process</a></li>
           </ul>
         </div>
@@ -219,9 +219,12 @@ include $base_path . 'header.php';
       </div>
 
       <h1 class="display">
+        <div class="word"><span class="char">L</span><span class="char">o</span><span class="char">c</span><span class="char">a</span><span class="char">l</span></div>
         <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>
-        <div class="word"><span class="char gradient-text">i</span><span class="char gradient-text">n</span></div>
-        <div class="word"><span class="char outline-text">J</span><span class="char outline-text">a</span><span class="char outline-text">i</span><span class="char outline-text">p</span><span class="char outline-text">u</span><span class="char outline-text">r</span> <span class="char outline-text">R</span><span class="char outline-text">u</span><span class="char outline-text">r</span><span class="char outline-text">a</span><span class="char outline-text">l</span></div>
+        <div class="word"><span class="char gradient-text">a</span><span class="char gradient-text">g</span><span class="char gradient-text">e</span><span class="char gradient-text">n</span><span class="char gradient-text">c</span><span class="char gradient-text">y</span></div>
+        <div class="word"><span class="char">i</span><span class="char">n</span></div>
+        <div class="word"><span class="char outline-text">J</span><span class="char outline-text">a</span><span class="char outline-text">i</span><span class="char outline-text">p</span><span class="char outline-text">u</span><span class="char outline-text">r</span></div>
+        <div class="word"><span class="char outline-text">R</span><span class="char outline-text">u</span><span class="char outline-text">r</span><span class="char outline-text">a</span><span class="char outline-text">l</span></div>
       </h1>
 
       <p class="hero-sub">Rajasthan local SEO — engineered to rank your business in Jaipur Rural on Google for high-intent local searches. Modern corporate hubs · tech start-ups · professional consultancies · BPO centers.</p>
@@ -478,114 +481,7 @@ include $base_path . 'header.php';
   </section>
 
   <!-- Pricing Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Pricing</span>
-          <h2 class="display">Plans for <span class="gradient-text">Jaipur Rural.</span></h2>
-        </div>
-        <p class="lede">Transparent monthly retainers. No lock-ins. Cancel any time with 30 days notice.</p>
-      </div>
-
-      <div class="pricing-grid reveal-stagger" style="margin-top: 60px;">
-        <div class="price-card" data-tilt data-cursor-hover>
-          <span class="price-name">Local</span>
-          <div class="price-amount">
-            <span class="num">₹30K</span>
-            <span class="unit">/mo</span>
-          </div>
-          <p class="price-desc">For local software consulting setups and early-stage tech teams.</p>
-          <div class="price-features">
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>Technical + on-page audit</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>GBP setup &amp; optimization</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>20 local citations</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>4 localized service pages</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>Monthly reporting &amp; mapping</span>
-            </div>
-          </div>
-          <a href="../../../../contact.php" class="btn btn-ghost" data-cursor-hover>Start a project</a>
-        </div>
-
-        <div class="price-card featured" data-tilt data-cursor-hover>
-          <span class="price-name">Growth</span>
-          <div class="price-amount">
-            <span class="num">₹65K</span>
-            <span class="unit">/mo</span>
-          </div>
-          <p class="price-desc">For expanding SaaS startups and regional corporate consultancies.</p>
-          <div class="price-features">
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>Everything in Local</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>12 content pieces / month</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>8 niche edits + digital PR</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>Multi-location GBP strategy</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>Conversion tracking &amp; CRO</span>
-            </div>
-          </div>
-          <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>Start a project</a>
-        </div>
-
-        <div class="price-card" data-tilt data-cursor-hover>
-          <span class="price-name">Authority</span>
-          <div class="price-amount">
-            <span class="num">Custom</span>
-          </div>
-          <p class="price-desc">For enterprise technology brands, BPO centers, and VC-funded startups.</p>
-          <div class="price-features">
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>Everything in Growth</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>Dedicated SEO strategist</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>Full content + design team support</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>Aggressive digital PR &amp; link build</span>
-            </div>
-            <div class="price-feature">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span>Weekly executive reports &amp; dashboards</span>
-            </div>
-          </div>
-          <a href="../../../../contact.php" class="btn btn-ghost" data-cursor-hover>Talk to us</a>
-        </div>
-      </div>
-    </div>
-  </section>
+  
 
   <!-- Siblings Section -->
   <section style="padding: 80px 0; border-top: 1px solid var(--border);">

@@ -1,6 +1,6 @@
 <?php
 $base_path = '../';
-$page_title = "SEO Agency in India — rankfyno Performance-Driven Organic Growth";
+$page_title = "Local SEO agency in India - Rankfyno";
 $page_description = "rankfyno — India's premium SEO agency. Technical SEO, content, and authority building for ambitious Indian brands. Hub-and-spoke across 28 states and 22 Haryana districts.";
 $footer_brand_desc = "A premium digital marketing studio for ambitious brands. Engineering organic growth across India and the world since 2018.";
 $custom_footer_cols = "<div class=\"footer-col\">
@@ -27,7 +27,7 @@ $custom_footer_cols = "<div class=\"footer-col\">
           <ul>
             <li><a href=\"#case-studies\" data-cursor-hover>Case studies</a></li>
             <li><a href=\"#process\" data-cursor-hover>Process</a></li>
-            <li><a href=\"#pricing\" data-cursor-hover>Pricing</a></li>
+            
             <li><a href=\"../contact.php\" data-cursor-hover>Contact</a></li>
           </ul>
         </div>
@@ -127,9 +127,11 @@ include $base_path . 'header.php';
       </div>
 
       <h1 class="display">
+        <div class="word"><span class="char">L</span><span class="char">o</span><span class="char">c</span><span class="char">a</span><span class="char">l</span></div>
         <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>
         <div class="word"><span class="char gradient-text">a</span><span class="char gradient-text">g</span><span class="char gradient-text">e</span><span class="char gradient-text">n</span><span class="char gradient-text">c</span><span class="char gradient-text">y</span></div>
-        <div class="word"><span class="char outline-text">i</span><span class="char outline-text">n</span> <span class="char outline-text">I</span><span class="char outline-text">n</span><span class="char outline-text">d</span><span class="char outline-text">i</span><span class="char outline-text">a</span><span class="char">.</span></div>
+        <div class="word"><span class="char">i</span><span class="char">n</span></div>
+        <div class="word"><span class="char outline-text">I</span><span class="char outline-text">n</span><span class="char outline-text">d</span><span class="char outline-text">i</span><span class="char outline-text">a</span></div>
       </h1>
 
       <p class="hero-sub">Performance-driven organic growth for India's most ambitious brands. We engineer technical SEO, content, and authority that compounds — across 28 states, 8 union territories, and 22 official languages.</p>
@@ -593,78 +595,7 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- =========================
-       Pricing
-       ========================= -->
-  <section id="pricing">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Engagement</span>
-          <h2 class="display">Three ways<br/><span class="gradient-text">to work with us in India.</span></h2>
-        </div>
-        <p class="lede">All engagements are senior-team only, with a 90-day minimum so we have time to ship something that compounds in the Indian market.</p>
-      </div>
-
-      <div class="pricing-grid reveal-stagger">
-        <div class="price-card" data-tilt>
-          <div class="price-name">/ Foundation</div>
-          <div class="price-amount">
-            <span class="num">₹85k</span>
-            <span class="unit">/ month</span>
-          </div>
-          <div class="price-desc">For early-stage startups and small businesses entering organic search for the first time.</div>
-          <div class="price-features">
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Technical audit & fixes</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Up to 30 optimized pages</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>4 content pieces / month</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>4 digital PR links / month</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Monthly Looker Studio report</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Slack + monthly call</div>
-          </div>
-          <a href="../contact.php" class="btn btn-ghost" data-cursor-hover>Get started</a>
-        </div>
-
-        <div class="price-card featured" data-tilt>
-          <div class="price-name">/ Growth</div>
-          <div class="price-amount">
-            <span class="num">₹1.85L</span>
-            <span class="unit">/ month</span>
-          </div>
-          <div class="price-desc">For scale-ups and mid-market brands serious about organic as a primary growth channel in India.</div>
-          <div class="price-features">
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Everything in Foundation</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Up to 150 optimized pages</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>8 content pieces / month</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>12 digital PR links / month</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Programmatic SEO sprint (quarterly)</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Bi-weekly strategy calls</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Dedicated SEO lead</div>
-          </div>
-          <a href="../contact.php" class="btn btn-primary" data-cursor-hover>Start Growth engagement</a>
-        </div>
-
-        <div class="price-card" data-tilt>
-          <div class="price-name">/ Authority</div>
-          <div class="price-amount">
-            <span class="num">Custom</span>
-            <span class="unit">/ engagement</span>
-          </div>
-          <div class="price-desc">For enterprises, multi-location brands, and category leaders. 1000+ page sites, multi-lingual, multi-region.</div>
-          <div class="price-features">
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Everything in Growth</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Unlimited pages</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Multi-lingual (EN + 3 Indic)</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Multi-region / multi-domain</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Custom analytics stack</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Embedded SEO team (2–4 people)</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Quarterly executive review</div>
-          </div>
-          <a href="../contact.php" class="btn btn-ghost" data-cursor-hover>Talk to sales</a>
-        </div>
-      </div>
-    </div>
-  </section>
+  
 
   <!-- =========================
        Markets we serve

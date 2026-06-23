@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../../';
-$page_title = "SEO Services West Bengal — rankfyno | Premium SEO Agency";
+$page_title = "Local SEO agency in West Bengal - Rankfyno";
 $page_description = "rankfyno is a performance-driven SEO agency in West Bengal. We engineer local, national, and e-commerce SEO for West Bengal businesses across all 23 districts including Kolkata, Howrah, Darjeeling, and Asansol. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"keywords\" content=\"SEO agency West Bengal, SEO company West Bengal, West Bengal SEO services, local SEO West Bengal, Kolkata SEO, technical SEO, content SEO, rankfyno SEO\" />
@@ -52,7 +52,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   </script>";
 $footer_brand_desc = "A premium SEO studio for ambitious West Bengal brands. Engineering organic growth across all 23 districts.";
 $custom_footer_cols = "<div class=\"footer-col\"><h5>Capabilities</h5><ul><li><a href=\"#capabilities\" data-cursor-hover>Local SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>National SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>E-commerce SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>Technical SEO</a></li></ul></div>
-    <div class=\"footer-col\"><h5>West Bengal</h5><ul><li><a href=\"#\" data-cursor-hover>WB Hub</a></li><li><a href=\"../\" data-cursor-hover>SEO in India</a></li><li><a href=\"../../../index.php#pricing\" data-cursor-hover>Pricing</a></li></ul></div>
+    <div class=\"footer-col\"><h5>West Bengal</h5><ul><li><a href=\"#\" data-cursor-hover>WB Hub</a></li><li><a href=\"../\" data-cursor-hover>SEO in India</a></li></ul></div>
     <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../index.php#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../index.php#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
 include $base_path . 'header.php';
 ?>
@@ -61,8 +61,12 @@ include $base_path . 'header.php';
     <div class="container hero-inner">
       <div class="hero-meta"><div class="hero-meta-left"><span class="eyebrow"><span class="dot"></span> Now booking Q3 2026</span><div class="hero-meta-divider"></div><div class="hero-meta-info">IND · 23 districts · Bengali · English · Hindi — 24/7</div></div><div class="hero-meta-info">/ 2026 / v.07</div></div>
       <h1 class="display">
+        <div class="word"><span class="char">L</span><span class="char">o</span><span class="char">c</span><span class="char">a</span><span class="char">l</span></div>
         <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>
-        <div class="word"><span class="char gradient-text">W</span><span class="char gradient-text">e</span><span class="char gradient-text">s</span><span class="char gradient-text">t</span> <span class="char gradient-text">B</span><span class="char gradient-text">e</span><span class="char gradient-text">n</span><span class="char gradient-text">g</span><span class="char gradient-text">a</span><span class="char gradient-text">l</span><span class="char">.</span></div>
+        <div class="word"><span class="char gradient-text">a</span><span class="char gradient-text">g</span><span class="char gradient-text">e</span><span class="char gradient-text">n</span><span class="char gradient-text">c</span><span class="char gradient-text">y</span></div>
+        <div class="word"><span class="char">i</span><span class="char">n</span></div>
+        <div class="word"><span class="char outline-text">W</span><span class="char outline-text">e</span><span class="char outline-text">s</span><span class="char outline-text">t</span></div>
+        <div class="word"><span class="char outline-text">B</span><span class="char outline-text">e</span><span class="char outline-text">n</span><span class="char outline-text">g</span><span class="char outline-text">a</span><span class="char outline-text">l</span></div>
       </h1>
       <p class="hero-sub">A performance-driven SEO studio for ambitious West Bengal brands. We blend technical SEO, content, and authority engineering to build organic growth that compounds — across all 23 districts of West Bengal.</p>
       <div class="hero-cta"><a href="../../../contact.php" class="btn btn-primary" data-cursor-hover>Start a project <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg></a><a href="#locations" class="btn btn-ghost" data-cursor-hover>View all 23 districts</a></div>

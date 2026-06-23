@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../../';
-$page_title = "SEO Services Uttar Pradesh — rankfyno | Premium SEO Agency";
+$page_title = "Local SEO agency in Uttar Pradesh - Rankfyno";
 $page_description = "rankfyno is a performance-driven SEO agency in Uttar Pradesh. We engineer local, national, and e-commerce SEO for UP businesses across all 75 districts including Lucknow, Noida, Kanpur, and Agra. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
@@ -145,7 +145,7 @@ $custom_footer_cols = "<div class=\"footer-col\">
           <ul>
             <li><a href=\"#\" data-cursor-hover>UP Hub</a></li>
             <li><a href=\"../\" data-cursor-hover>SEO in India</a></li>
-            <li><a href=\"../../../index.php#pricing\" data-cursor-hover>Pricing</a></li>
+            
             <li><a href=\"../../../index.php#process\" data-cursor-hover>Process</a></li>
           </ul>
         </div>
@@ -174,9 +174,12 @@ include $base_path . 'header.php';
       </div>
 
       <h1 class="display">
+        <div class="word"><span class="char">L</span><span class="char">o</span><span class="char">c</span><span class="char">a</span><span class="char">l</span></div>
         <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>
-        <div class="word"><span class="char gradient-text">U</span><span class="char gradient-text">t</span><span class="char gradient-text">t</span><span class="char gradient-text">a</span><span class="char gradient-text">r</span></div>
-        <div class="word"><span class="char gradient-text">P</span><span class="char gradient-text">r</span><span class="char gradient-text">a</span><span class="char gradient-text">d</span><span class="char gradient-text">e</span><span class="char gradient-text">s</span><span class="char gradient-text">h</span><span class="char">.</span></div>
+        <div class="word"><span class="char gradient-text">a</span><span class="char gradient-text">g</span><span class="char gradient-text">e</span><span class="char gradient-text">n</span><span class="char gradient-text">c</span><span class="char gradient-text">y</span></div>
+        <div class="word"><span class="char">i</span><span class="char">n</span></div>
+        <div class="word"><span class="char outline-text">U</span><span class="char outline-text">t</span><span class="char outline-text">t</span><span class="char outline-text">a</span><span class="char outline-text">r</span></div>
+        <div class="word"><span class="char outline-text">P</span><span class="char outline-text">r</span><span class="char outline-text">a</span><span class="char outline-text">d</span><span class="char outline-text">e</span><span class="char outline-text">s</span><span class="char outline-text">h</span></div>
       </h1>
 
       <p class="hero-sub">A performance-driven SEO studio for ambitious Uttar Pradesh brands. We blend technical SEO, content, and authority engineering to build organic growth that compounds — across all 75 districts of Uttar Pradesh.</p>

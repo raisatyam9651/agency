@@ -2014,9 +2014,9 @@ h3 { font-size: clamp(22px, 2.2vw, 32px); font-family: 'Space Grotesk', sans-ser
    Accreditations & Partnerships Footer Styles
    ========================================== */
 .footer-accreditations {
-  margin: 60px 0 80px;
-  padding-top: 60px;
-  border-top: 1px solid var(--line);
+  margin: 0 0 60px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid var(--line);
 }
 .accreditations-title {
   font-family: 'JetBrains Mono', monospace;
@@ -2059,11 +2059,13 @@ h3 { font-size: clamp(22px, 2.2vw, 32px); font-family: 'Space Grotesk', sans-ser
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
-  filter: grayscale(1) opacity(0.55);
+  filter: none;
+  opacity: 0.9;
   transition: all 0.35s var(--ease);
 }
 .accreditation-item:hover .accreditation-logo img {
-  filter: grayscale(0) opacity(1);
+  opacity: 1;
+  transform: scale(1.05);
 }
 .accreditation-info {
   display: flex;
@@ -2106,8 +2108,8 @@ h3 { font-size: clamp(22px, 2.2vw, 32px); font-family: 'Space Grotesk', sans-ser
     gap: 12px;
   }
   .footer-accreditations {
-    margin: 40px 0 60px;
-    padding-top: 40px;
+    margin: 0 0 40px;
+    padding-bottom: 30px;
   }
 }
 

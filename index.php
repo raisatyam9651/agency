@@ -579,76 +579,7 @@ include __DIR__ . '/header.php';
     </div>
   </section>
 
-  <!-- =========================
-       Pricing
-       ========================= -->
-  <section id="pricing">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Engagement</span>
-          <h2 class="display">Three ways<br/><span class="gradient-text">to work together.</span></h2>
-        </div>
-        <p class="lede">All engagements are senior-team only, with a 90-day minimum so we have time to ship something that compounds.</p>
-      </div>
-
-      <div class="pricing-grid reveal-stagger">
-        <div class="price-card" data-tilt>
-          <div class="price-name">/ Sprint</div>
-          <div class="price-amount">
-            <span class="num">$18k</span>
-            <span class="unit">/ project</span>
-          </div>
-          <div class="price-desc">A 30-day deep dive on a single problem. Strategy, creative, or measurement.</div>
-          <div class="price-features">
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Senior team, embedded</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>One focused outcome</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>40-page strategy report</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Asset library &amp; playbook</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>30-day delivery</div>
-          </div>
-          <a href="#cta" class="btn btn-ghost" data-cursor-hover>Start a sprint</a>
-        </div>
-
-        <div class="price-card featured" data-tilt>
-          <div class="price-name">/ Growth</div>
-          <div class="price-amount">
-            <span class="num">$32k</span>
-            <span class="unit">/ month</span>
-          </div>
-          <div class="price-desc">The full rankfyno operating system on a 90-day rolling basis.</div>
-          <div class="price-features">
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Everything in Sprint</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Performance media buying</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Content production (4/mo)</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Web &amp; product design</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Weekly experiments</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Live measurement dashboard</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Quarterly compounding plan</div>
-          </div>
-          <a href="#cta" class="btn btn-primary" data-cursor-hover>Start growing</a>
-        </div>
-
-        <div class="price-card" data-tilt>
-          <div class="price-name">/ Enterprise</div>
-          <div class="price-amount">
-            <span class="num">Custom</span>
-          </div>
-          <div class="price-desc">A multi-team, multi-region engagement for category leaders.</div>
-          <div class="price-features">
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Everything in Growth</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Dedicated 4–6 person pod</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Custom AI tooling</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Multi-region campaigns</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Executive strategy offsite</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>SOC2 + security review</div>
-            <div class="price-feature"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>Named partner on account</div>
-          </div>
-          <a href="#cta" class="btn btn-ghost" data-cursor-hover>Talk to us</a>
-        </div>
-      </div>
-    </div>
-  </section>
+  
 
   <!-- =========================
        FAQ

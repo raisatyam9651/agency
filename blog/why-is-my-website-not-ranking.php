@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Why is my website not ranking? 8 reasons and how to fix them — rankfyno';
+$page_title = 'Local SEO agency in Blog - Rankfyno';
 $page_description = "If your site won't rank on Google, one of these 8 causes is usually responsible. A practical diagnostic guide for site owners and marketers.";
 $custom_head = '
   <meta name="robots" content="index, follow, max-image-preview:large" />
@@ -71,7 +71,13 @@ include __DIR__ . '/../header.php';
   <header class="post-hero">
     <div class="container">
       <span class="eyebrow"><span class="dot"></span> SEO Diagnosis</span>
-      <h1 class="display">Why is my website <span class="gradient-text">not ranking?</span></h1>
+      <h1 class="display">
+        <div class="word"><span class="char">L</span><span class="char">o</span><span class="char">c</span><span class="char">a</span><span class="char">l</span></div>
+        <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>
+        <div class="word"><span class="char gradient-text">a</span><span class="char gradient-text">g</span><span class="char gradient-text">e</span><span class="char gradient-text">n</span><span class="char gradient-text">c</span><span class="char gradient-text">y</span></div>
+        <div class="word"><span class="char">i</span><span class="char">n</span></div>
+        <div class="word"><span class="char outline-text">B</span><span class="char outline-text">l</span><span class="char outline-text">o</span><span class="char outline-text">g</span></div>
+      </h1>
       <p class="post-meta">Updated 22 June 2026 · 8 min read · Written by the rankfyno team</p>
     </div>
   </header>

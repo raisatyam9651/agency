@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../';
-$page_title = "SaaS SEO Agency — rankfyno | B2B SaaS SEO That Compounds";
+$page_title = "Local SEO agency in Saas Seo - Rankfyno";
 $page_description = "rankfyno is a SaaS SEO agency built for B2B software companies. We engineer product-led, PLG-aware, intent-driven organic growth that turns trials, demos, and signups into a compounding pipeline.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"keywords\" content=\"SaaS SEO agency, B2B SaaS SEO, SaaS SEO services, product-led SEO, PLG SEO, programmatic SEO, SaaS content marketing, B2B SEO, rankfyno SaaS\" />
@@ -100,7 +100,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   </script>";
 $footer_brand_desc = "rankfyno's SaaS SEO practice engineers product-led, PLG-aware organic growth for B2B software companies. Built around your ICP, mapped to your funnel, measured in pipeline.";
 $custom_footer_cols = "<div class=\"footer-col\"><h5>Capabilities</h5><ul><li><a href=\"#capabilities\" data-cursor-hover>Product-led keyword research</a></li><li><a href=\"#capabilities\" data-cursor-hover>Topical authority</a></li><li><a href=\"#capabilities\" data-cursor-hover>Programmatic SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>Technical for JS frameworks</a></li><li><a href=\"#capabilities\" data-cursor-hover>Editorial systems</a></li><li><a href=\"#capabilities\" data-cursor-hover>Digital PR &amp; backlinks</a></li></ul></div>
-    <div class=\"footer-col\"><h5>For SaaS</h5><ul><li><a href=\"#process\" data-cursor-hover>Our process</a></li><li><a href=\"#metrics\" data-cursor-hover>Metrics we move</a></li><li><a href=\"#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../index.php#pricing\" data-cursor-hover>Pricing</a></li></ul></div>
+    <div class=\"footer-col\"><h5>For SaaS</h5><ul><li><a href=\"#process\" data-cursor-hover>Our process</a></li><li><a href=\"#metrics\" data-cursor-hover>Metrics we move</a></li><li><a href=\"#faq\" data-cursor-hover>FAQ</a></li></ul></div>
     <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../team.php\" data-cursor-hover>Team</a></li><li><a href=\"../../blog/\" data-cursor-hover>Blog</a></li><li><a href=\"../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
 include $base_path . 'header.php';
 ?>
@@ -109,8 +109,12 @@ include $base_path . 'header.php';
     <div class="container hero-inner">
       <div class="hero-meta"><div class="hero-meta-left"><span class="eyebrow"><span class="dot"></span> SaaS SEO practice</span><div class="hero-meta-divider"></div><div class="hero-meta-info">B2B SOFTWARE · PLG · SLG · ENTERPRISE</div></div><div class="hero-meta-info">/ 2026 / v.01</div></div>
       <h1 class="display">
-        <div class="word"><span class="char">S</span><span class="char">a</span><span class="char">a</span><span class="char">S</span></div>
-        <div class="word"><span class="char gradient-text">S</span><span class="char gradient-text">E</span><span class="char gradient-text">O</span><span class="char">.</span></div>
+        <div class="word"><span class="char">L</span><span class="char">o</span><span class="char">c</span><span class="char">a</span><span class="char">l</span></div>
+        <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>
+        <div class="word"><span class="char gradient-text">a</span><span class="char gradient-text">g</span><span class="char gradient-text">e</span><span class="char gradient-text">n</span><span class="char gradient-text">c</span><span class="char gradient-text">y</span></div>
+        <div class="word"><span class="char">i</span><span class="char">n</span></div>
+        <div class="word"><span class="char outline-text">S</span><span class="char outline-text">a</span><span class="char outline-text">a</span><span class="char outline-text">s</span></div>
+        <div class="word"><span class="char outline-text">S</span><span class="char outline-text">e</span><span class="char outline-text">o</span></div>
       </h1>
       <p class="hero-sub">Engineering organic growth for B2B software. We design search engines into PLG funnels — so product-led companies compound trials, demos, and signups without renting traffic.</p>
       <div class="hero-cta"><a href="../../contact.php" class="btn btn-primary" data-cursor-hover>Book a SaaS audit <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg></a><a href="#capabilities" class="btn btn-ghost" data-cursor-hover>What's inside</a></div>

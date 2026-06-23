@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'The Future of Digital Marketing: How RankFyno Stays Ahead — rankfyno';
+$page_title = 'Local SEO agency in Blog - Rankfyno';
 $page_description = "Where digital marketing is heading — AI search, zero-click content, signal-rich SEO — and how RankFyno is built for the future.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/the-future-of-digital-marketing-how-rankfyno-stays-ahead" />
@@ -50,7 +50,13 @@ include __DIR__ . '/../header.php';
   <header class="post-hero">
     <div class="container">
       <span class="eyebrow"><span class="dot"></span> Future of Marketing</span>
-      <h1 class="display">The future of digital marketing: <span class="gradient-text">how RankFyno stays ahead</span></h1>
+      <h1 class="display">
+        <div class="word"><span class="char">L</span><span class="char">o</span><span class="char">c</span><span class="char">a</span><span class="char">l</span></div>
+        <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>
+        <div class="word"><span class="char gradient-text">a</span><span class="char gradient-text">g</span><span class="char gradient-text">e</span><span class="char gradient-text">n</span><span class="char gradient-text">c</span><span class="char gradient-text">y</span></div>
+        <div class="word"><span class="char">i</span><span class="char">n</span></div>
+        <div class="word"><span class="char outline-text">B</span><span class="char outline-text">l</span><span class="char outline-text">o</span><span class="char outline-text">g</span></div>
+      </h1>
       <p class="post-meta">Updated 22 June 2026 · 7 min read · Written by the rankfyno team</p>
     </div>
   </header>

@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../';
-$page_title = "SEO Agency in India — rankfyno | Local, National & E-commerce SEO";
+$page_title = "Local SEO agency in India - Rankfyno";
 $page_description = "rankfyno is a performance-driven SEO agency in India. We engineer local, national, and e-commerce SEO for Indian businesses — across 29+ states and all major districts. Real rankings. Real leads. Real ROI.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
@@ -197,8 +197,11 @@ include $base_path . 'header.php';
       </div>
 
       <h1 class="display">
+        <div class="word"><span class="char">L</span><span class="char">o</span><span class="char">c</span><span class="char">a</span><span class="char">l</span></div>
         <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>
-        <div class="word"><span class="char gradient-text">I</span><span class="char gradient-text">n</span><span class="char gradient-text">d</span><span class="char gradient-text">i</span><span class="char gradient-text">a</span><span class="char">.</span></div>
+        <div class="word"><span class="char gradient-text">a</span><span class="char gradient-text">g</span><span class="char gradient-text">e</span><span class="char gradient-text">n</span><span class="char gradient-text">c</span><span class="char gradient-text">y</span></div>
+        <div class="word"><span class="char">i</span><span class="char">n</span></div>
+        <div class="word"><span class="char outline-text">I</span><span class="char outline-text">n</span><span class="char outline-text">d</span><span class="char outline-text">i</span><span class="char outline-text">a</span></div>
       </h1>
 
       <p class="hero-sub">A performance-driven SEO studio for ambitious Indian brands. We blend technical SEO, content, and authority engineering to build organic growth that compounds — across 29+ states and all major districts of India.</p>
