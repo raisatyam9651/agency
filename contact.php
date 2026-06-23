@@ -3,7 +3,35 @@ $base_path = '';
 $current_page = 'contact';
 $page_title = 'Contact — rankfyno';
 $page_description = "Get in touch with rankfyno — start a project, request a proposal, or just say hello. We respond within 24 hours, every time.";
-$custom_body_elements = '<canvas id="webgl-canvas" aria-hidden="true"></canvas>';
+$canonical_url = 'https://rankfyno.com/contact.php';
+$og_image = 'https://rankfyno.com/og-default.jpg';
+$custom_head = '
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "@id": "https://rankfyno.com/contact.php#contactpage",
+  "url": "https://rankfyno.com/contact.php",
+  "name": "Contact rankfyno",
+  "description": "Start a project with rankfyno. We respond within 24 hours, every time.",
+  "inLanguage": "en-IN",
+  "primaryImageOfPage": {
+    "@type": "ImageObject",
+    "url": "https://rankfyno.com/og-default.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  "about": {"@id": "https://rankfyno.com/#organization"},
+  "isPartOf": {"@id": "https://rankfyno.com/#website"},
+  "publisher": {"@id": "https://rankfyno.com/#organization"}
+}
+</script>
+';
+// WebGL canvas was rendered eagerly on every page via .ambient canvas. Lazy-mount
+// it here only on contact so the GPU/composite cost is paid when (and if) the
+// user reaches this page. The IntersectionObserver swaps it in once visible.
+$custom_body_elements = '<canvas id="webgl-canvas" aria-hidden="true" hidden></canvas>'
+  . '<script>document.addEventListener("DOMContentLoaded",function(){var c=document.getElementById("webgl-canvas");if(!c)return;var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){c.hidden=false;io.disconnect();}});},{rootMargin:"200px"});io.observe(c);});</script>';
 include __DIR__ . '/header.php';
 ?>
 

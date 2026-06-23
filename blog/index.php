@@ -32,6 +32,26 @@ if ($page_num > $total_pages) $page_num = $total_pages;
 $offset = ($page_num - 1) * $per_page;
 $page_posts = array_slice($posts, $offset, $per_page);
 
+// ItemList schema for current page's posts
+$itemlist_items = [];
+foreach ($page_posts as $i => $p) {
+    $slug = $p['slug'];
+    $title = isset($meta[$slug]) ? $meta[$slug][1] : ucwords(str_replace('-', ' ', $slug));
+    $itemlist_items[] = [
+        "@type" => "ListItem",
+        "position" => $i + 1,
+        "url" => "https://rankfyno.com/blog/" . $slug,
+        "name" => $title,
+    ];
+}
+$itemlist_schema = [
+    "@context" => "https://schema.org",
+    "@type" => "ItemList",
+    "itemListElement" => $itemlist_items,
+];
+$itemlist_json = json_encode($itemlist_schema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+$itemlist_script = '<script type="application/ld+json">' . $itemlist_json . '</script>';
+
 // --- Card metadata (tag + title + blurb) for the slug list ---
 $meta = [
   'why-is-my-website-not-ranking'                              => ['Diagnosis', 'Why is my website not ranking?', 'The 8 most common reasons sites stall on page 2 — and the diagnostic steps to find which one is holding you back.'],
@@ -154,6 +174,7 @@ $custom_head = '
   </style>
 ';
 
+$custom_head .= "\n" . $itemlist_script;
 include __DIR__ . '/../header.php';
 ?>
 

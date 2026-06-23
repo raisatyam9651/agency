@@ -41,29 +41,17 @@ CATEGORIES = [
         "slug": "seo",
         "folder": "seo",
         "walker_type": "directory",
-        "changefreq": "monthly",
-        "hub_priority": "0.9",
-        "leaf_priority": "0.7",
-        "leaf_changefreq": "monthly",
     },
     {
         "slug": "seo-services",
         "folder": "seo-services",
         "walker_type": "directory",
-        "changefreq": "monthly",
-        "hub_priority": "0.8",
-        "leaf_priority": "0.6",
-        "leaf_changefreq": "monthly",
     },
     {
         "slug": "blog",
         "folder": "blog",
         "walker_type": "flat_files",
         "skip_files": ["index.php"],
-        "changefreq": "monthly",
-        "hub_priority": "0.9",
-        "leaf_priority": "0.7",
-        "leaf_changefreq": "monthly",
     },
 ]
 
@@ -195,15 +183,14 @@ URLSET_FOOTER = "</urlset>\n"
 
 def write_urlset(path: Path, entries: list[tuple]) -> None:
     """
-    entries = list of (loc, lastmod, changefreq, priority).
+    entries = list of (loc, lastmod). changefreq/priority dropped — Google
+    has stated both signals are ignored.
     """
     lines = [URLSET_HEADER]
-    for loc, lastmod, changefreq, priority in entries:
+    for loc, lastmod in entries:
         lines.append("  <url>\n")
         lines.append(f"    <loc>{escape(loc)}</loc>\n")
         lines.append(f"    <lastmod>{lastmod}</lastmod>\n")
-        lines.append(f"    <changefreq>{changefreq}</changefreq>\n")
-        lines.append(f"    <priority>{priority}</priority>\n")
         lines.append("  </url>\n")
     lines.append(URLSET_FOOTER)
     path.write_text("".join(lines), encoding="utf-8")
@@ -231,11 +218,11 @@ def main() -> int:
 
     # 1. Root sitemap
     root_entries = []
-    for rel, url_path, prio, freq in ROOT_PAGES:
+    for rel, url_path, _prio, _freq in ROOT_PAGES:
         full_path = ROOT / rel
         lastmod = file_lastmod_iso(full_path) if full_path.exists() else TODAY
         loc = BASE + url_path
-        root_entries.append((loc, lastmod, freq, prio))
+        root_entries.append((loc, lastmod))
     write_urlset(ROOT / "sitemap.xml", root_entries)
     print(f"  ✓ sitemap.xml          ({len(root_entries)} URLs)")
 
@@ -245,7 +232,6 @@ def main() -> int:
 
     for cat in CATEGORIES:
         folder = ROOT / cat["folder"]
-        walker_fn = WALKERS.get(cat["walker_type"], walk_directory)
         if cat["walker_type"] == "flat_files":
             pages = walk_flat_files(folder, cat.get("skip_files", []))
         else:
@@ -255,14 +241,7 @@ def main() -> int:
             print(f"  · skipping {cat['slug']} (no pages under {folder})")
             continue
 
-        min_depth = min(p["depth"] for p in pages)
-        entries: list[tuple] = []
-        for p in pages:
-            is_hub = (p["depth"] == min_depth)
-            prio = cat["hub_priority"] if is_hub else cat["leaf_priority"]
-            freq = cat["changefreq"] if is_hub else cat["leaf_changefreq"]
-            entries.append((p["loc"], p["lastmod"], freq, prio))
-
+        entries = [(p["loc"], p["lastmod"]) for p in pages]
         out_name = f"{cat['slug']}-sitemap.xml"
         write_urlset(ROOT / out_name, entries)
         sitemap_index_entries.append(out_name)

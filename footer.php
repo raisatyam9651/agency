@@ -67,11 +67,20 @@ $base_path = isset($base_path) ? $base_path : '';
       </div>
       <div class="footer-bottom">
         <p>© 2026 rankfyno. All rights reserved.</p>
+        <div class="footer-citations">
+          <span>Listed on:</span>
+          <a href="https://www.justdial.com/Gurgaon/Rankfyno" target="_blank" rel="noopener" data-cursor-hover>Justdial</a>
+          <a href="https://www.indiamart.com/rankfyno/" target="_blank" rel="noopener" data-cursor-hover>IndiaMART</a>
+          <a href="https://www.clutch.co/profile/rankfyno" target="_blank" rel="noopener" data-cursor-hover>Clutch</a>
+          <a href="https://www.ambitionbox.com/company/rankfyno" target="_blank" rel="noopener" data-cursor-hover>AmbitionBox</a>
+          <a href="https://www.trustpilot.com/review/rankfyno.com" target="_blank" rel="noopener" data-cursor-hover>Trustpilot</a>
+        </div>
       </div>
     </div>
   </footer>
 
   <script src="<?php echo $base_path; ?>script.js"></script>
   <?php if (isset($custom_scripts)) { echo $custom_scripts; } ?>
+  <script defer src="https://app.wacrs.com/install-widget/bundle.js?key=a59926d6-702e-4bc5-9b52-7be96ff29c72"></script>
 </body>
 </html>

@@ -3,333 +3,15 @@ $base_path = '';
 $current_page = 'team';
 $page_title = 'Our Team — rankfyno';
 $page_description = "Meet the rankfyno team — 21 specialists across SEO, sales, web development, design, HR, AI automation, client servicing, and YouTube SEO. The people who rank your business on page-1 of Google.";
+$canonical_url = 'https://rankfyno.com/team.php';
+$og_image = 'https://rankfyno.com/og-default.jpg';
 
 $custom_head = '
-  <style>
-    /* ───────── TEAM PAGE STYLES ───────── */
-    .team-dept {
-      padding: 80px 0;
-      border-top: 1px solid var(--border);
-    }
-    .team-dept:first-of-type {
-      border-top: none;
-    }
-    .dept-head {
-      display: flex;
-      align-items: flex-end;
-      justify-content: space-between;
-      gap: 40px;
-      margin-bottom: 50px;
-      flex-wrap: wrap;
-    }
-    .dept-head-left {
-      max-width: 720px;
-    }
-    .dept-head h2 {
-      margin-top: 18px;
-    }
-    .dept-meta {
-      font-family: \'JetBrains Mono\', monospace;
-      font-size: 13px;
-      color: var(--ink-2);
-      letter-spacing: 0.05em;
-      display: flex;
-      align-items: center;
-      gap: 16px;
-    }
-    .dept-meta .count {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      min-width: 36px;
-      height: 36px;
-      padding: 0 12px;
-      border: 1px solid var(--border);
-      border-radius: 100px;
-      background: var(--bg-2);
-      color: var(--ink-0);
-      font-weight: 600;
-    }
-    .dept-desc {
-      color: var(--ink-1);
-      font-size: 16px;
-      line-height: 1.6;
-      margin-top: 14px;
-    }
-    .team-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 24px;
-      align-items: stretch;
-    }
-    .team-card {
-      position: relative;
-      display: flex;
-      flex-direction: column;
-      border: 1px solid var(--border);
-      background: var(--bg-1);
-      border-radius: 16px;
-      overflow: hidden;
-      transition: all 0.4s var(--ease);
-    }
-    .team-card::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: radial-gradient(circle at top right, rgba(255, 91, 46, 0.06), transparent 60%);
-      opacity: 0;
-      transition: opacity 0.4s var(--ease);
-      pointer-events: none;
-      z-index: 1;
-    }
-    .team-card:hover {
-      border-color: var(--accent);
-      transform: translateY(-4px);
-    }
-    .team-card:hover::before {
-      opacity: 1;
-    }
-    /* PHOTO BLOCK — add real <img> here later, fallback shows initials */
-    .team-photo {
-      position: relative;
-      width: 100%;
-      aspect-ratio: 4 / 5;
-      background: linear-gradient(135deg, var(--bg-2) 0%, var(--bg-1) 100%);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      overflow: hidden;
-      border-bottom: 1px solid var(--border);
-    }
-    .team-photo img {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-    .team-photo .initials {
-      font-family: \'Space Grotesk\', sans-serif;
-      font-size: 56px;
-      font-weight: 600;
-      color: var(--ink-1);
-      letter-spacing: -0.04em;
-      line-height: 1;
-      user-select: none;
-    }
-    /* "Add photo" hint — visible only when no <img> is loaded */
-    .team-photo .photo-hint {
-      position: absolute;
-      bottom: 10px;
-      left: 10px;
-      font-family: \'JetBrains Mono\', monospace;
-      font-size: 10px;
-      color: var(--ink-2);
-      background: rgba(255, 255, 255, 0.85);
-      border: 1px solid var(--border);
-      padding: 4px 8px;
-      border-radius: 100px;
-      letter-spacing: 0.04em;
-      opacity: 0;
-      transition: opacity 0.3s var(--ease);
-      pointer-events: none;
-    }
-    .team-photo:hover .photo-hint { opacity: 1; }
-    /* Status dot */
-    .team-photo .status {
-      position: absolute;
-      bottom: 12px;
-      right: 12px;
-      width: 14px;
-      height: 14px;
-      background: #22c55e;
-      border: 3px solid var(--bg-1);
-      border-radius: 50%;
-      z-index: 2;
-    }
-    .team-card.tl .team-photo .status,
-    .team-card.manager .team-photo .status,
-    .team-card.hr .team-photo .status {
-      background: var(--accent);
-    }
-    /* LinkedIn icon — set href="#" now, swap later */
-    .team-linkedin {
-      position: absolute;
-      top: 12px;
-      right: 12px;
-      width: 36px;
-      height: 36px;
-      border-radius: 50%;
-      background: rgba(255, 255, 255, 0.92);
-      border: 1px solid var(--border);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: #0a66c2;
-      transition: all 0.3s var(--ease);
-      z-index: 3;
-      backdrop-filter: blur(6px);
-      -webkit-backdrop-filter: blur(6px);
-    }
-    .team-linkedin:hover {
-      background: #0a66c2;
-      color: #fff;
-      transform: scale(1.08);
-    }
-    .team-card .body {
-      padding: 22px 24px 24px;
-      position: relative;
-      z-index: 2;
-      display: flex;
-      flex-direction: column;
-      min-height: 168px;
-    }
-    .team-card .name {
-      font-family: \'Space Grotesk\', sans-serif;
-      font-size: 20px;
-      font-weight: 600;
-      color: var(--ink-0);
-      letter-spacing: -0.02em;
-      margin-bottom: 2px;
-      line-height: 1.25;
-    }
-    .team-card .role {
-      font-family: \'JetBrains Mono\', monospace;
-      font-size: 12px;
-      color: var(--ink-2);
-      letter-spacing: 0.03em;
-      margin-bottom: 12px;
-      text-transform: uppercase;
-      line-height: 1.4;
-    }
-    .team-card .tag {
-      display: inline-block;
-      padding: 4px 10px;
-      border: 1px solid var(--border);
-      border-radius: 100px;
-      font-size: 11px;
-      color: var(--ink-1);
-      font-family: \'JetBrains Mono\', monospace;
-      letter-spacing: 0.03em;
-      background: rgba(0, 0, 0, 0.02);
-    }
-    .team-card .tag--lead {
-      background: var(--ink-0);
-      color: var(--bg-1);
-      border-color: var(--ink-0);
-    }
-    .team-card .tag--accent {
-      background: rgba(255, 91, 46, 0.1);
-      color: var(--accent);
-      border-color: rgba(255, 91, 46, 0.3);
-    }
-    .team-card .tags {
-      display: flex;
-      gap: 6px;
-      flex-wrap: wrap;
-      margin-top: auto;
-      align-items: flex-end;
-    }
-    /* Stats strip */
-    .team-stats {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 0;
-      border: 1px solid var(--border);
-      border-radius: 20px;
-      overflow: hidden;
-      margin-top: 60px;
-      background: var(--bg-1);
-    }
-    .team-stat {
-      padding: 36px 28px;
-      border-right: 1px solid var(--border);
-      position: relative;
-    }
-    .team-stat:last-child {
-      border-right: none;
-    }
-    .team-stat .num {
-      font-family: \'Space Grotesk\', sans-serif;
-      font-size: 44px;
-      font-weight: 600;
-      letter-spacing: -0.04em;
-      line-height: 1;
-      color: var(--ink-0);
-      display: block;
-    }
-    .team-stat .num .gradient-text {
-      background: linear-gradient(135deg, #ff5b2e 0%, #ff8a5b 100%);
-      -webkit-background-clip: text;
-      background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-    .team-stat .lbl {
-      font-size: 13px;
-      color: var(--ink-2);
-      margin-top: 10px;
-      letter-spacing: 0.02em;
-    }
-    /* Values */
-    .value-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
-      margin-top: 60px;
-    }
-    .value-card {
-      padding: 36px;
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      background: var(--bg-1);
-      transition: all 0.4s var(--ease);
-    }
-    .value-card:hover {
-      border-color: var(--accent);
-      transform: translateY(-4px);
-    }
-    .value-card .icon {
-      width: 48px;
-      height: 48px;
-      border-radius: 12px;
-      background: var(--bg-2);
-      border: 1px solid var(--border);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-bottom: 22px;
-      color: var(--accent);
-    }
-    .value-card h3 {
-      font-family: \'Space Grotesk\', sans-serif;
-      font-size: 22px;
-      font-weight: 600;
-      letter-spacing: -0.02em;
-      color: var(--ink-0);
-      margin-bottom: 10px;
-    }
-    .value-card p {
-      color: var(--ink-1);
-      font-size: 15px;
-      line-height: 1.6;
-    }
-    @media (max-width: 1024px) {
-      .team-grid { grid-template-columns: repeat(2, 1fr); }
-      .team-stats { grid-template-columns: repeat(2, 1fr); }
-      .team-stat { border-right: none; border-bottom: 1px solid var(--border); }
-      .team-stat:nth-child(odd) { border-right: 1px solid var(--border); }
-      .team-stat:nth-child(3), .team-stat:nth-child(4) { border-bottom: none; }
-      .value-grid { grid-template-columns: 1fr; }
-    }
-    @media (max-width: 720px) {
-      .team-grid { grid-template-columns: repeat(2, 1fr); }
-      .dept-head { flex-direction: column; align-items: flex-start; }
-    }
-    @media (max-width: 480px) {
-      .team-grid { grid-template-columns: 1fr; }
-    }
-  </style>';
+  <!-- Team page styles moved to /style.css (TEAM PAGE STYLES section) -->';
+
+$team_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rankfyno.com/#organization","name":"rankfyno","url":"https://rankfyno.com/"},{"@type":"Person","name":"Suraj Punia","jobTitle":"SEO Team Lead","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/suraj-punia.webp","contentUrl":"https://rankfyno.com/team/photos/suraj-punia.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Satyam Rai","jobTitle":"Senior SEO Executive","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/satyam-rai.webp","contentUrl":"https://rankfyno.com/team/photos/satyam-rai.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Amit Yadav","jobTitle":"SEO Executive","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/amit-yadav.webp","contentUrl":"https://rankfyno.com/team/photos/amit-yadav.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Shivant Chaurasiya","jobTitle":"SEO Executive","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/shivant-chaurasiya.webp","contentUrl":"https://rankfyno.com/team/photos/shivant-chaurasiya.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Abhishek Singh","jobTitle":"Sales Executive","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/abhishek-singh.webp","contentUrl":"https://rankfyno.com/team/photos/abhishek-singh.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Jaivijay Paswan","jobTitle":"Sales Executive","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/jaivijay-paswan.webp","contentUrl":"https://rankfyno.com/team/photos/jaivijay-paswan.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Bhanu Pratap","jobTitle":"Meta Ads Specialist","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/bhanu-pratap.webp","contentUrl":"https://rankfyno.com/team/photos/bhanu-pratap.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Manish Kushwaha","jobTitle":"Web Team Lead","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/manish-kushwaha.webp","contentUrl":"https://rankfyno.com/team/photos/manish-kushwaha.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Shivam Kumar","jobTitle":"Senior UI/UX Designer","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/shivam-kumar.webp","contentUrl":"https://rankfyno.com/team/photos/shivam-kumar.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Chitransh Saxena","jobTitle":"Web Developer","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/chitransh-saxena.webp","contentUrl":"https://rankfyno.com/team/photos/chitransh-saxena.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Nitest Agnihotri","jobTitle":"Graphic Designer","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/nitest-agnihotri.webp","contentUrl":"https://rankfyno.com/team/photos/nitest-agnihotri.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Tanmay","jobTitle":"Graphic Designer","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/tanmay.webp","contentUrl":"https://rankfyno.com/team/photos/tanmay.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Priya Bisht","jobTitle":"HR Manager","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/priya-bisht.webp","contentUrl":"https://rankfyno.com/team/photos/priya-bisht.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Ranveer Jaiswal","jobTitle":"AI Automation Engineer","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/ranveer-jaiswal.webp","contentUrl":"https://rankfyno.com/team/photos/ranveer-jaiswal.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Adit Singh","jobTitle":"Client Servicing","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/adit-singh.webp","contentUrl":"https://rankfyno.com/team/photos/adit-singh.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Om Nath Tripathi","jobTitle":"Client Servicing","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/om-nath-tripathi.webp","contentUrl":"https://rankfyno.com/team/photos/om-nath-tripathi.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Ichha Kumari","jobTitle":"Client Servicing","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/ichha-kumari.webp","contentUrl":"https://rankfyno.com/team/photos/ichha-kumari.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Himanshu Silori","jobTitle":"Studio Manager","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/himanshu-silori.webp","contentUrl":"https://rankfyno.com/team/photos/himanshu-silori.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Kishan Yadav","jobTitle":"YouTube SEO Specialist","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/kishan-yadav.webp","contentUrl":"https://rankfyno.com/team/photos/kishan-yadav.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}},{"@type":"Person","name":"Ansh Singh","jobTitle":"YouTube SEO Specialist","image":{"@type":"ImageObject","url":"https://rankfyno.com/team/photos/ansh-singh.webp","contentUrl":"https://rankfyno.com/team/photos/ansh-singh.jpg","width":400,"height":400},"worksFor":{"@type":"Organization","name":"rankfyno","url":"https://rankfyno.com/"}}]}</script>';
+$custom_head .= $team_schema;
+
 
 include __DIR__ . '/header.php';
 ?>
@@ -403,7 +85,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card tl">
           <div class="team-photo">
-            <picture><source srcset="team/photos/suraj-punia.webp" type="image/webp"><img src="team/photos/suraj-punia.jpg" alt="Suraj Punia" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/suraj-punia.webp" type="image/webp"><img src="team/photos/suraj-punia.jpg" alt="Suraj Punia — SEO Team Lead at rankfyno" loading="lazy"/></picture>
                         <span class="initials">SP</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/mr-suraj-385071214/" class="team-linkedin" aria-label="Suraj Punia on LinkedIn" target="_blank" rel="noopener">
@@ -422,7 +104,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/satyam-rai.webp" type="image/webp"><img src="team/photos/satyam-rai.jpg" alt="Satyam Rai" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/satyam-rai.webp" type="image/webp"><img src="team/photos/satyam-rai.jpg" alt="Satyam Rai — Senior SEO Executive at rankfyno" loading="lazy"/></picture>
                         <span class="initials">SR</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/rai-satyam-rai/" class="team-linkedin" aria-label="Satyam Rai on LinkedIn" target="_blank" rel="noopener">
@@ -441,7 +123,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/amit-yadav.webp" type="image/webp"><img src="team/photos/amit-yadav.jpg" alt="Amit Yadav" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/amit-yadav.webp" type="image/webp"><img src="team/photos/amit-yadav.jpg" alt="Amit Yadav — SEO Executive at rankfyno" loading="lazy"/></picture>
                         <span class="initials">AY</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/amit-yadav-6924172a4/?skipRedirect=true" class="team-linkedin" aria-label="Amit Yadav on LinkedIn" target="_blank" rel="noopener">
@@ -459,7 +141,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/shivant-chaurasiya.webp" type="image/webp"><img src="team/photos/shivant-chaurasiya.jpg" alt="Shivant Chaurasiya" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/shivant-chaurasiya.webp" type="image/webp"><img src="team/photos/shivant-chaurasiya.jpg" alt="Shivant Chaurasiya — SEO Executive at rankfyno" loading="lazy"/></picture>
                         <span class="initials">SY</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/shivant-chaurasiya-b82000252/" class="team-linkedin" aria-label="Shivant Chaurasiya on LinkedIn" target="_blank" rel="noopener">
@@ -492,7 +174,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/abhishek-singh.webp" type="image/webp"><img src="team/photos/abhishek-singh.jpg" alt="Abhishek Singh" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/abhishek-singh.webp" type="image/webp"><img src="team/photos/abhishek-singh.jpg" alt="Abhishek Singh — Sales Executive at rankfyno" loading="lazy"/></picture>
                         <span class="initials">AY</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/abhishek-singh-47684b215/" class="team-linkedin" aria-label="Abhishek Singh on LinkedIn" target="_blank" rel="noopener">
@@ -510,7 +192,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/jaivijay-paswan.webp" type="image/webp"><img src="team/photos/jaivijay-paswan.jpg" alt="Jaivijay Paswan" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/jaivijay-paswan.webp" type="image/webp"><img src="team/photos/jaivijay-paswan.jpg" alt="Jaivijay Paswan — Sales Executive at rankfyno" loading="lazy"/></picture>
                         <span class="initials">JP</span>
                         <span class="photo-hint">add photo</span>
                         <a href="#" class="team-linkedin" aria-label="Jaivijay Paswan on LinkedIn" target="_blank" rel="noopener">
@@ -543,7 +225,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/bhanu-pratap.webp" type="image/webp"><img src="team/photos/bhanu-pratap.jpg" alt="Bhanu Pratap" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/bhanu-pratap.webp" type="image/webp"><img src="team/photos/bhanu-pratap.jpg" alt="Bhanu Pratap — Meta Ads Specialist at rankfyno" loading="lazy"/></picture>
             <span class="initials">BP</span>
             <span class="photo-hint">add photo</span>
             <a href="https://www.linkedin.com/in/bhanu-pratap-61a7b72b6/" class="team-linkedin" aria-label="Bhanu Pratap on LinkedIn" target="_blank" rel="noopener">
@@ -577,7 +259,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card tl">
           <div class="team-photo">
-            <picture><source srcset="team/photos/manish-kushwaha.webp" type="image/webp"><img src="team/photos/manish-kushwaha.jpg" alt="Manish Kushwaha" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/manish-kushwaha.webp" type="image/webp"><img src="team/photos/manish-kushwaha.jpg" alt="Manish Kushwaha — Web Team Lead at rankfyno" loading="lazy"/></picture>
                         <span class="initials">MK</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/manish-kushwahaa/" class="team-linkedin" aria-label="Manish Kushwaha on LinkedIn" target="_blank" rel="noopener">
@@ -596,7 +278,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/shivam-kumar.webp" type="image/webp"><img src="team/photos/shivam-kumar.jpg" alt="Shivam Kumar" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/shivam-kumar.webp" type="image/webp"><img src="team/photos/shivam-kumar.jpg" alt="Shivam Kumar — Senior UI/UX Designer at rankfyno" loading="lazy"/></picture>
                         <span class="initials">SV</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/shivam-kumar-4b334b210/" class="team-linkedin" aria-label="Shivam Kumar on LinkedIn" target="_blank" rel="noopener">
@@ -615,7 +297,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/chitransh-saxena.webp" type="image/webp"><img src="team/photos/chitransh-saxena.jpg" alt="Chitransh Saxena" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/chitransh-saxena.webp" type="image/webp"><img src="team/photos/chitransh-saxena.jpg" alt="Chitransh Saxena — Web Developer at rankfyno" loading="lazy"/></picture>
                         <span class="initials">CT</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/chitransh-saxena-699414229/" class="team-linkedin" aria-label="Chitransh Saxena on LinkedIn" target="_blank" rel="noopener">
@@ -634,7 +316,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/nitest-agnihotri.webp" type="image/webp"><img src="team/photos/nitest-agnihotri.jpg" alt="Nitest Agnihotri" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/nitest-agnihotri.webp" type="image/webp"><img src="team/photos/nitest-agnihotri.jpg" alt="Nitest Agnihotri — Graphic Designer at rankfyno" loading="lazy"/></picture>
                         <span class="initials">NA</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/nitesh-agnihotri/" class="team-linkedin" aria-label="Nitest Agnihotri on LinkedIn" target="_blank" rel="noopener">
@@ -652,7 +334,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/tanmay.webp" type="image/webp"><img src="team/photos/tanmay.jpg" alt="Tanmay" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/tanmay.webp" type="image/webp"><img src="team/photos/tanmay.jpg" alt="Tanmay — Graphic Designer at rankfyno" loading="lazy"/></picture>
                         <span class="initials">TM</span>
                         <span class="photo-hint">add photo</span>
                         <a href="#" class="team-linkedin" aria-label="Tanmay on LinkedIn" target="_blank" rel="noopener">
@@ -685,7 +367,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card hr">
           <div class="team-photo">
-            <picture><source srcset="team/photos/priya-bisht.webp" type="image/webp"><img src="team/photos/priya-bisht.jpg" alt="Priya Bisht" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/priya-bisht.webp" type="image/webp"><img src="team/photos/priya-bisht.jpg" alt="Priya Bisht — HR Manager at rankfyno" loading="lazy"/></picture>
                         <span class="initials">PB</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/priya-bisht-b5ab3322a/" class="team-linkedin" aria-label="Priya Bisht on LinkedIn" target="_blank" rel="noopener">
@@ -718,7 +400,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/ranveer-jaiswal.webp" type="image/webp"><img src="team/photos/ranveer-jaiswal.jpg" alt="Ranveer Jaiswal" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/ranveer-jaiswal.webp" type="image/webp"><img src="team/photos/ranveer-jaiswal.jpg" alt="Ranveer Jaiswal — AI Automation Engineer at rankfyno" loading="lazy"/></picture>
                         <span class="initials">RJ</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/ranveer-jaiswal-966289238/" class="team-linkedin" aria-label="Ranveer Jaiswal on LinkedIn" target="_blank" rel="noopener">
@@ -752,7 +434,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/adit-singh.webp" type="image/webp"><img src="team/photos/adit-singh.jpg" alt="Adit Singh" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/adit-singh.webp" type="image/webp"><img src="team/photos/adit-singh.jpg" alt="Adit Singh — Client Servicing at rankfyno" loading="lazy"/></picture>
                         <span class="initials">AS</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/aditisingh2001/?skipRedirect=true" class="team-linkedin" aria-label="Adit Singh on LinkedIn" target="_blank" rel="noopener">
@@ -770,7 +452,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/om-nath-tripathi.webp" type="image/webp"><img src="team/photos/om-nath-tripathi.jpg" alt="Om Nath Tripathi" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/om-nath-tripathi.webp" type="image/webp"><img src="team/photos/om-nath-tripathi.jpg" alt="Om Nath Tripathi — Client Servicing at rankfyno" loading="lazy"/></picture>
                         <span class="initials">OT</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/om-nath-tripathi-693a10195/" class="team-linkedin" aria-label="Om Nath Tripathi on LinkedIn" target="_blank" rel="noopener">
@@ -788,7 +470,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/ichha-kumari.webp" type="image/webp"><img src="team/photos/ichha-kumari.jpg" alt="Ichha Kumari" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/ichha-kumari.webp" type="image/webp"><img src="team/photos/ichha-kumari.jpg" alt="Ichha Kumari — Client Servicing at rankfyno" loading="lazy"/></picture>
                         <span class="initials">IK</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/ichha-kumari/?skipRedirect=true" class="team-linkedin" aria-label="Ichha Kumari on LinkedIn" target="_blank" rel="noopener">
@@ -821,7 +503,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card manager">
           <div class="team-photo">
-            <picture><source srcset="team/photos/himanshu-silori.webp" type="image/webp"><img src="team/photos/himanshu-silori.jpg" alt="Himanshu Silori" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/himanshu-silori.webp" type="image/webp"><img src="team/photos/himanshu-silori.jpg" alt="Himanshu Silori — Studio Manager at rankfyno" loading="lazy"/></picture>
                         <span class="initials">HS</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/himanshu-silori-570b821b1/" class="team-linkedin" aria-label="Himanshu Silori on LinkedIn" target="_blank" rel="noopener">
@@ -855,7 +537,7 @@ include __DIR__ . '/header.php';
       <div class="team-grid">
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/kishan-yadav.webp" type="image/webp"><img src="team/photos/kishan-yadav.jpg" alt="Kishan Yadav" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/kishan-yadav.webp" type="image/webp"><img src="team/photos/kishan-yadav.jpg" alt="Kishan Yadav — YouTube SEO Specialist at rankfyno" loading="lazy"/></picture>
                         <span class="initials">KY</span>
                         <span class="photo-hint">add photo</span>
                         <a href="#" class="team-linkedin" aria-label="Kishan Yadav on LinkedIn" target="_blank" rel="noopener">
@@ -874,7 +556,7 @@ include __DIR__ . '/header.php';
         </div>
         <div class="team-card">
           <div class="team-photo">
-            <picture><source srcset="team/photos/ansh-singh.webp" type="image/webp"><img src="team/photos/ansh-singh.jpg" alt="Ansh Singh" loading="lazy"/></picture>
+            <picture><source srcset="team/photos/ansh-singh.webp" type="image/webp"><img src="team/photos/ansh-singh.jpg" alt="Ansh Singh — YouTube SEO Specialist at rankfyno" loading="lazy"/></picture>
                         <span class="initials">AS</span>
                         <span class="photo-hint">add photo</span>
                         <a href="https://www.linkedin.com/in/ansh-singh-800760214/" class="team-linkedin" aria-label="Ansh Singh on LinkedIn" target="_blank" rel="noopener">
