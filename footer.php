@@ -69,12 +69,14 @@ $base_path = isset($base_path) ? $base_path : '';
             <ul>
               <li><a href="<?php echo $base_path; ?>contact.php" data-cursor-hover>Start a project</a></li>
               <li><a href="mailto:hello@rankfyno.com" data-cursor-hover>hello@rankfyno.com</a></li>
-              <li><a href="mailto:press@rankfyno.com" data-cursor-hover>press@rankfyno.com</a></li>
-              <li><a href="tel:+14155550188" data-cursor-hover>+1 (415) 555-0188</a></li>
-              <li><a href="#" data-cursor-hover>SF · NYC · LDN</a></li>
+              <li><a href="tel:+917317564794" data-cursor-hover>+91 7317564794</a></li>
+              <li><a href="https://maps.google.com/?q=Ground+Floor+Cabin+12+Plot+84+SupremeWork+Sector+32+Gurugram+Haryana+122001" target="_blank" rel="noopener" data-cursor-hover>Ground Floor, Cabin no 12, Plot 84, SupremeWork, Sector 32, Gurugram, Haryana 122001</a></li>
             </ul>
           </div>
         <?php endif; ?>
+      </div>
+      <div class="footer-map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3709.116323810718!2d77.03994080000001!3d28.445505599999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d19448cf31c3d%3A0xcc37d1bd76d90887!2sRankfyno!5e1!3m2!1sen!2sin!4v1782195027075!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
       <div class="footer-bottom">
         <p>© 2026 rankfyno. All rights reserved.</p>
