@@ -121,19 +121,11 @@ include __DIR__ . '/header.php';
           </div>
 
           <div class="contact-card">
-            <h5>Studios</h5>
+            <h5>Studio</h5>
             <div class="contact-locations">
               <div>
-                <strong>San Francisco</strong>
-                <p>548 Market St, CA 94104</p>
-              </div>
-              <div>
-                <strong>New York</strong>
-                <p>125 W 25th St, NY 10001</p>
-              </div>
-              <div>
-                <strong>London</strong>
-                <p>3rd Floor, 80 Strand, WC2N 5LR</p>
+                <strong>Gurugram</strong>
+                <p>Ground Floor, Cabin no 12, Plot 84, SupremeWork, Sector 32, Gurugram, Haryana 122001</p>
               </div>
             </div>
           </div>
