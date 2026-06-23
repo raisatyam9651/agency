@@ -62,6 +62,92 @@ $base_path = isset($base_path) ? $base_path : '';
           </div>
         <?php endif; ?>
       </div>
+      <div class="footer-accreditations">
+        <h5 class="accreditations-title">Accreditations &amp; partnerships</h5>
+        <div class="accreditations-grid">
+          <div class="accreditation-item" data-cursor-hover>
+            <div class="accreditation-logo">
+              <img src="<?php echo $base_path; ?>images/partners/google-partner.svg" alt="Google Premier Partner logo" loading="lazy" width="40" height="40" />
+            </div>
+            <div class="accreditation-info">
+              <span class="partner-name">Google</span>
+              <span class="partner-status">PREMIER PARTNER</span>
+            </div>
+          </div>
+          <div class="accreditation-item" data-cursor-hover>
+            <div class="accreditation-logo">
+              <img src="<?php echo $base_path; ?>images/partners/meta-partner.svg" alt="Meta Business Partner logo" loading="lazy" width="40" height="40" />
+            </div>
+            <div class="accreditation-info">
+              <span class="partner-name">Meta</span>
+              <span class="partner-status">BUSINESS PARTNER</span>
+            </div>
+          </div>
+          <div class="accreditation-item" data-cursor-hover>
+            <div class="accreditation-logo">
+              <img src="<?php echo $base_path; ?>images/partners/linkedin-partner.svg" alt="LinkedIn Marketing Partner logo" loading="lazy" width="40" height="40" />
+            </div>
+            <div class="accreditation-info">
+              <span class="partner-name">LinkedIn</span>
+              <span class="partner-status">MARKETING PARTNER</span>
+            </div>
+          </div>
+          <div class="accreditation-item" data-cursor-hover>
+            <div class="accreditation-logo">
+              <img src="<?php echo $base_path; ?>images/partners/microsoft-partner.svg" alt="Microsoft Advertising Select Partner logo" loading="lazy" width="40" height="40" />
+            </div>
+            <div class="accreditation-info">
+              <span class="partner-name">Microsoft Advertising</span>
+              <span class="partner-status">SELECT PARTNER</span>
+            </div>
+          </div>
+          <div class="accreditation-item" data-cursor-hover>
+            <div class="accreditation-logo">
+              <img src="<?php echo $base_path; ?>images/partners/hubspot-partner.svg" alt="HubSpot Solutions Partner logo" loading="lazy" width="40" height="40" />
+            </div>
+            <div class="accreditation-info">
+              <span class="partner-name">HubSpot</span>
+              <span class="partner-status">SOLUTIONS PARTNER</span>
+            </div>
+          </div>
+          <div class="accreditation-item" data-cursor-hover>
+            <div class="accreditation-logo">
+              <img src="<?php echo $base_path; ?>images/partners/iso-certified.svg" alt="ISO 27001 Information Security Certified logo" loading="lazy" width="40" height="40" />
+            </div>
+            <div class="accreditation-info">
+              <span class="partner-name">ISO 27001</span>
+              <span class="partner-status">INFORMATION SECURITY<br>CERTIFIED · 2024</span>
+            </div>
+          </div>
+          <div class="accreditation-item" data-cursor-hover>
+            <div class="accreditation-logo">
+              <img src="<?php echo $base_path; ?>images/partners/hipaa-aware.svg" alt="HIPAA Aware US Health Privacy logo" loading="lazy" width="40" height="40" />
+            </div>
+            <div class="accreditation-info">
+              <span class="partner-name">HIPAA Aware</span>
+              <span class="partner-status">US HEALTH PRIVACY<br>BAA-READY WORKFLOWS</span>
+            </div>
+          </div>
+          <div class="accreditation-item" data-cursor-hover>
+            <div class="accreditation-logo">
+              <img src="<?php echo $base_path; ?>images/partners/nabh-aligned.svg" alt="NABH Aligned Hospital Standards logo" loading="lazy" width="40" height="40" />
+            </div>
+            <div class="accreditation-info">
+              <span class="partner-name">NABH-Aligned</span>
+              <span class="partner-status">QUALITY COUNCIL · INDIA<br>HOSPITAL STANDARDS</span>
+            </div>
+          </div>
+          <div class="accreditation-item" data-cursor-hover>
+            <div class="accreditation-logo">
+              <img src="<?php echo $base_path; ?>images/partners/msme-india.svg" alt="MSME India Udyam Registered logo" loading="lazy" width="40" height="40" />
+            </div>
+            <div class="accreditation-info">
+              <span class="partner-name">MSME · India</span>
+              <span class="partner-status">UDYAM REGISTERED<br>GOI · MINISTRY OF MSME</span>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="footer-map">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3709.116323810718!2d77.03994080000001!3d28.445505599999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d19448cf31c3d%3A0xcc37d1bd76d90887!2sRankfyno!5e1!3m2!1sen!2sin!4v1782195027075!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>

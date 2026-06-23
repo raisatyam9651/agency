@@ -2009,4 +2009,105 @@ h3 { font-size: clamp(22px, 2.2vw, 32px); font-family: 'Space Grotesk', sans-ser
     @media (max-width: 480px) {
       .team-grid { grid-template-columns: 1fr; }
     }
-  
+
+/* ==========================================
+   Accreditations & Partnerships Footer Styles
+   ========================================== */
+.footer-accreditations {
+  margin: 60px 0 80px;
+  padding-top: 60px;
+  border-top: 1px solid var(--line);
+}
+.accreditations-title {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-2);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+}
+.accreditations-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+.accreditation-item {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 24px;
+  background: var(--bg-1);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  transition: all 0.35s var(--ease);
+}
+.accreditation-item:hover {
+  background: var(--bg-1);
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: 0 16px 40px -12px rgba(15, 15, 20, 0.08);
+}
+.accreditation-logo {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.accreditation-logo img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  filter: grayscale(1) opacity(0.55);
+  transition: all 0.35s var(--ease);
+}
+.accreditation-item:hover .accreditation-logo img {
+  filter: grayscale(0) opacity(1);
+}
+.accreditation-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.partner-name {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink-0);
+  line-height: 1.25;
+}
+.partner-status {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.04em;
+  color: var(--ink-2);
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+@media (max-width: 1200px) {
+  .accreditations-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 900px) {
+  .accreditations-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+  .accreditation-item {
+    padding: 14px 20px;
+  }
+}
+@media (max-width: 550px) {
+  .accreditations-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  .footer-accreditations {
+    margin: 40px 0 60px;
+    padding-top: 40px;
+  }
+}
+
