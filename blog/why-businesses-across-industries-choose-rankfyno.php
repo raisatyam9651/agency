@@ -66,7 +66,7 @@ include __DIR__ . '/../header.php';
     <p>For regulated industries — healthcare, fintech, legal — compliance isn&apos;t optional. We work with HIPAA-aware content production, vetted medical reviewers, compliance teams on claims and disclaimers. The same rigor applies to GDPR, SOC 2, and other frameworks relevant to your category.</p>
 
     <h2>The economics are the same</h2>
-    <p>Whether you&apos;re selling $50/month SaaS, $5K enterprise software, or $50K consulting engagements, the math works the same way: lower CAC, higher conversion, higher LTV. The tactics scale; the principles don&apos;t change. See <a href="<?php echo $base_path; ?>blog/how-rankfyno-helps-businesses-increase-revenue-online">how we grow online revenue</a>.</p>
+    <p>Whether you&apos;re selling low-touch SaaS, mid-market software, or high-ticket consulting engagements, the math works the same way: lower CAC, higher conversion, higher LTV. The tactics scale; the principles don&apos;t change. See <a href="<?php echo $base_path; ?>blog/how-rankfyno-helps-businesses-increase-revenue-online">how we grow online revenue</a>.</p>
 
     <h2>What cross-industry work teaches us</h2>
     <p>Patterns we&apos;ve seen across industries: top 1-2 channels per category carry 80% of pipeline value; brand investment compounds faster than tactical spend; senior strategy beats junior execution. We bring these patterns to every engagement.</p>

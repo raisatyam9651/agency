@@ -17,7 +17,7 @@ $custom_head = '
   </script>
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-    {"@type":"Question","name":"At what stage should a startup hire RankFyno?","acceptedAnswer":{"@type":"Answer","text":"Most of our startup clients engage us post-PMF and pre-Series-B — typically with $500K-$5M ARR, a clear ICP, and a marketing budget of $5K-$30K/month. Earlier, we work as advisors; later, we complement in-house teams."}},
+    {"@type":"Question","name":"At what stage should a startup hire RankFyno?","acceptedAnswer":{"@type":"Answer","text":"Most of our startup clients engage us post-PMF and pre-Series-B — typically with an established revenue base, a clear ICP, and a meaningful monthly marketing budget. Earlier, we work as advisors; later, we complement in-house teams."}},
     {"@type":"Question","name":"Does RankFyno understand startup growth metrics?","acceptedAnswer":{"@type":"Answer","text":"Yes. We report on CAC payback period, LTV/CAC, organic contribution to pipeline, and growth multiplier on marketing spend. We tie everything to the metrics your board and investors care about."}},
     {"@type":"Question","name":"Can RankFyno serve as the full marketing function for an early-stage startup?","acceptedAnswer":{"@type":"Answer","text":"Yes — we often act as the fractional CMO + execution team for seed-to-Series-B startups. You get senior strategy and the technical capacity to actually ship, without the cost of a full in-house team."}},
     {"@type":"Question","name":"How does RankFyno help with fundraising narrative?","acceptedAnswer":{"@type":"Answer","text":"Strong organic growth is one of the most powerful fundraising signals. We help startups build the organic + brand motion that becomes a core slide in your Series B and C decks — showing 5-10x organic growth over 18 months."}}
@@ -57,7 +57,7 @@ include __DIR__ . '/../header.php';
     <p>Startups don't have the luxury of slow marketing. You need users now, growth now, signal for the next round — and you need it without burning runway on an in-house team you can't yet afford. That's where RankFyno fits.</p>
 
     <h2>Fractional CMO + execution team</h2>
-    <p>Most early-stage startups can't justify a $200K/year CMO. But they also can't afford to make the marketing mistakes that cost 6 months and $200K to fix. RankFyno acts as your fractional CMO and the execution team beneath them — strategy, content, SEO, paid, all integrated, all senior.</p>
+    <p>Most early-stage startups can't justify a full-time senior CMO. But they also can't afford to make the marketing mistakes that cost months of runway to fix. RankFyno acts as your fractional CMO and the execution team beneath them — strategy, content, SEO, paid, all integrated, all senior.</p>
 
     <h2>Speed to traction</h2>
     <p>Our startup engagements focus on the highest-leverage channels first: SEO for compounding demand, performance marketing for near-term pipeline. We get you to first 100 users in 8-12 weeks, then scale. See our guide on <a href="<?php echo $base_path; ?>blog/how-do-i-find-low-competition-keywords">finding low-competition keywords</a> for the SEO targeting work that drives early traction.</p>
@@ -69,12 +69,12 @@ include __DIR__ . '/../header.php';
     <p>We report on CAC payback period, LTV/CAC, magic number, and organic contribution to pipeline — the same metrics your board reviews. Marketing is a revenue function, not a cost center. We make sure the dashboard shows it.</p>
 
     <h2>What we've built for other startups</h2>
-    <p>Series A fintech: 0 to 12,000 monthly organic sessions in 14 months, 4.5x reduction in blended CAC. Series B SaaS: $1.2M to $6.8M ARR contribution from organic in 18 months. The pattern is the same: senior strategy, integrated execution, board-ready reporting.</p>
+    <p>Series A fintech: 0 to 12,000 monthly organic sessions in 14 months, 4.5x reduction in blended CAC. Series B SaaS: meaningful multi-million ARR contribution from organic in 18 months. The pattern is the same: senior strategy, integrated execution, board-ready reporting.</p>
   </article>
 
   <section class="container post-faq">
     <h2>Frequently asked questions</h2>
-    <div class="faq-item"><h3>At what stage should a startup hire RankFyno?</h3><p>Most clients engage us post-PMF and pre-Series-B — typically $500K-$5M ARR, clear ICP, $5K-$30K/month marketing budget.</p></div>
+    <div class="faq-item"><h3>At what stage should a startup hire RankFyno?</h3><p>Most clients engage us post-PMF and pre-Series-B — typically an established revenue base, clear ICP, and a meaningful monthly marketing budget.</p></div>
     <div class="faq-item"><h3>Does RankFyno understand startup growth metrics?</h3><p>Yes — CAC payback, LTV/CAC, organic pipeline contribution, growth multiplier on spend.</p></div>
     <div class="faq-item"><h3>Can RankFyno serve as the full marketing function?</h3><p>Yes — fractional CMO + execution team for seed-to-Series-B startups.</p></div>
     <div class="faq-item"><h3>How does RankFyno help with fundraising narrative?</h3><p>Strong organic growth is one of the most powerful fundraising signals — we build the motion that becomes your Series B slide.</p></div>

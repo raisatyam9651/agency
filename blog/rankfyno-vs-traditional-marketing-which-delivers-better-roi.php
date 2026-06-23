@@ -57,7 +57,7 @@ include __DIR__ . '/../header.php';
     <p>Traditional marketing has its place — but when measured on the only metric that matters (revenue per dollar spent), digital-first approaches like RankFyno's win almost every time. Here's the breakdown.</p>
 
     <h2>Digital marketing wins on measurability</h2>
-    <p>Every digital channel gives you a clear line from spend to outcome: this $5K in Google Ads produced 47 leads, 11 SQLs, 3 closed deals, $84K ARR. Traditional channels (TV, print, radio, billboards) rarely offer that precision. Without attribution, you can't optimize — and unoptimized spend is wasted spend.</p>
+    <p>Every digital channel gives you a clear line from spend to outcome: a modest Google Ads budget produced 47 leads, 11 SQLs, 3 closed deals, and meaningful ARR. Traditional channels (TV, print, radio, billboards) rarely offer that precision. Without attribution, you can't optimize — and unoptimized spend is wasted spend.</p>
 
     <h2>Digital marketing wins on speed</h2>
     <p>You can launch a paid search campaign today and have data by tomorrow. A TV spot takes 6 weeks from planning to air and gives you almost no granular feedback. For businesses that need to learn and adapt fast, digital is the only channel that fits.</p>

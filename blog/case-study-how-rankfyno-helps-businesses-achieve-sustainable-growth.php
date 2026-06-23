@@ -57,7 +57,7 @@ include __DIR__ . '/../header.php';
     <p>Case studies are the most honest proof of agency effectiveness. Here&apos;s a representative engagement — anonymized to protect the client, but the pattern is the same across our portfolio.</p>
 
     <h2>The client</h2>
-    <p>Series B B2B SaaS company in the HR-tech space. $4M ARR, $30K/month marketing budget, in-house team of 2 (a content writer and a part-time marketer). Strong product, weak top-of-funnel pipeline. Sales cycles of 6-9 months. CAC at $4,800 with 14-month payback.</p>
+    <p>Series B B2B SaaS company in the HR-tech space. Established ARR, meaningful monthly marketing budget, in-house team of 2 (a content writer and a part-time marketer). Strong product, weak top-of-funnel pipeline. Sales cycles of 6-9 months. Elevated CAC with long payback period.</p>
 
     <h2>The starting diagnosis</h2>
     <p>Month 1: technical SEO audit, content audit, keyword gap analysis, and competitive teardown. We found: 70% of organic traffic was from branded search (low volume), top-of-funnel content was thin, internal linking was nearly nonexistent, and the homepage converted at 1.2%. See our framework on <a href="<?php echo $base_path; ?>blog/how-do-i-optimize-my-homepage">homepage optimization</a> for the kind of issues we typically find.</p>
@@ -76,11 +76,11 @@ include __DIR__ . '/../header.php';
     <ul>
       <li>Organic traffic: 18K → 142K monthly sessions (7.9x)</li>
       <li>Organic MQLs: 12 → 96 monthly (8x)</li>
-      <li>Blended CAC: $4,800 → $1,950 (59% reduction)</li>
+      <li>Blended CAC: dropped by nearly 60%</li>
       <li>CAC payback: 14 months → 5 months</li>
       <li>Branded search volume: 4x increase</li>
       <li>Homepage conversion rate: 1.2% → 5.4% (4.5x)</li>
-      <li>ARR contributed from marketing-sourced pipeline: $1.8M → $14.2M</li>
+      <li>ARR contributed from marketing-sourced pipeline: roughly 8x growth</li>
     </ul>
 
     <h2>What made it work</h2>

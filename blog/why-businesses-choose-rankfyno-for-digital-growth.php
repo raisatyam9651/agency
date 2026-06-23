@@ -20,7 +20,7 @@ $custom_head = '
     {"@type":"Question","name":"What types of companies hire RankFyno?","acceptedAnswer":{"@type":"Answer","text":"B2B SaaS, fintech, healthcare, real estate, premium DTC, and high-ticket service brands. The common thread: companies that have product-market fit and need marketing that compounds at scale."}},
     {"@type":"Question","name":"Does RankFyno replace an in-house marketing team?","acceptedAnswer":{"@type":"Answer","text":"Sometimes. For seed-to-Series-B startups, we often serve as the full marketing function. For established teams, we complement them with senior strategic and technical capacity they can\'t hire fast enough in-house."}},
     {"@type":"Question","name":"How is RankFyno different from a traditional SEO agency?","acceptedAnswer":{"@type":"Answer","text":"Traditional SEO agencies sell deliverables — X keywords, Y blog posts, Z links. We sell outcomes — qualified pipeline, organic revenue, and brand authority. The deliverables exist in service of the outcome, not the other way around."}},
-    {"@type":"Question","name":"What size of business benefits most from RankFyno?","acceptedAnswer":{"@type":"Answer","text":"Companies with at least $500K in annual revenue and a clear ICP. Below that threshold, we typically refer prospects to consultants or recommend an in-house first hire."}}
+    {"@type":"Question","name":"What size of business benefits most from RankFyno?","acceptedAnswer":{"@type":"Answer","text":"Companies with a meaningful annual revenue base and a clear ICP. Below that threshold, we typically refer prospects to consultants or recommend an in-house first hire."}}
   ]}
   </script>
   <style>
@@ -77,7 +77,7 @@ include __DIR__ . '/../header.php';
     <div class="faq-item"><h3>What types of companies hire RankFyno?</h3><p>B2B SaaS, fintech, healthcare, real estate, premium DTC, and high-ticket service brands with product-market fit.</p></div>
     <div class="faq-item"><h3>Does RankFyno replace an in-house marketing team?</h3><p>Sometimes. For seed-to-Series-B startups we serve as the full marketing function. For established teams we complement them with senior strategic and technical capacity.</p></div>
     <div class="faq-item"><h3>How is RankFyno different from a traditional SEO agency?</h3><p>Traditional agencies sell deliverables. We sell outcomes — qualified pipeline, organic revenue, brand authority.</p></div>
-    <div class="faq-item"><h3>What size of business benefits most from RankFyno?</h3><p>Companies with at least $500K in annual revenue and a clear ICP.</p></div>
+    <div class="faq-item"><h3>What size of business benefits most from RankFyno?</h3><p>Companies with a meaningful annual revenue base and a clear ICP.</p></div>
   </section>
 
   <section class="container">

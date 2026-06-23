@@ -72,7 +72,7 @@ include __DIR__ . '/../header.php';
     <p>By week 4, we know which audiences and creatives are performing. We push budget to winners, cut losers, and expand into lookalike audiences of the converters. This is where most agencies stop — we keep optimizing through the entire flight.</p>
 
     <h2>Real numbers from a recent campaign</h2>
-    <p>B2B SaaS client, $40K monthly paid budget. Month 1: blended CAC $420, MQL-to-SQL 22%. Month 4: blended CAC $185, MQL-to-SQL 41%. Same budget, same product — better campaign architecture. That's the work.</p>
+    <p>B2B SaaS client, healthy monthly paid budget. Month 1: blended CAC at industry-average levels, MQL-to-SQL 22%. Month 4: blended CAC cut substantially, MQL-to-SQL 41%. Same budget, same product — better campaign architecture. That's the work.</p>
   </article>
 
   <section class="container post-faq">

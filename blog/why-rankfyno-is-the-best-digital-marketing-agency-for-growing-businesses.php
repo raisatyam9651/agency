@@ -18,8 +18,8 @@ $custom_head = '
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
     {"@type":"Question","name":"What makes RankFyno different from other agencies?","acceptedAnswer":{"@type":"Answer","text":"Five things: senior strategists end-to-end, revenue-tied reporting, integrated SEO + content + paid + CRO, AI-augmented production, and 90%+ retention at 24 months. We&apos;re not the cheapest agency; we&apos;re the agency ambitious brands keep hiring."}},
-    {"@type":"Question","name":"Is RankFyno the right agency for a growing business?","acceptedAnswer":{"@type":"Answer","text":"If you have product-market fit, a clear ICP, and a marketing budget of $5K+/month, yes. We work best with businesses that have moved past &quot;do any marketing that works&quot; and now want marketing that compounds."}},
-    {"@type":"Question","name":"What sizes of business does RankFyno serve?","acceptedAnswer":{"@type":"Answer","text":"From $500K to $100M+ ARR. Our sweet spot is the $2M-$30M range where marketing investment moves the needle but in-house capacity is constrained."}},
+    {"@type":"Question","name":"Is RankFyno the right agency for a growing business?","acceptedAnswer":{"@type":"Answer","text":"If you have product-market fit, a clear ICP, and a meaningful monthly marketing budget, yes. We work best with businesses that have moved past &quot;do any marketing that works&quot; and now want marketing that compounds."}},
+    {"@type":"Question","name":"What sizes of business does RankFyno serve?","acceptedAnswer":{"@type":"Answer","text":"From early revenue to enterprise scale. Our sweet spot is the growth-stage range where marketing investment moves the needle but in-house capacity is constrained."}},
     {"@type":"Question","name":"Can I see references from similar businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes — we share anonymized case studies during the sales process and offer to introduce you to reference clients in your industry on request."}}
   ]}
   </script>
@@ -78,8 +78,8 @@ include __DIR__ . '/../header.php';
   <section class="container post-faq">
     <h2>Frequently asked questions</h2>
     <div class="faq-item"><h3>What makes RankFyno different from other agencies?</h3><p>Senior strategists end-to-end, revenue-tied reporting, integrated services, AI-augmented, 90%+ retention at 24 months.</p></div>
-    <div class="faq-item"><h3>Is RankFyno right for a growing business?</h3><p>If you have PMF, a clear ICP, and $5K+/month marketing budget — yes.</p></div>
-    <div class="faq-item"><h3>What sizes of business does RankFyno serve?</h3><p>$500K to $100M+ ARR. Sweet spot: $2M-$30M.</p></div>
+    <div class="faq-item"><h3>Is RankFyno right for a growing business?</h3><p>If you have PMF, a clear ICP, and a meaningful monthly marketing budget — yes.</p></div>
+    <div class="faq-item"><h3>What sizes of business does RankFyno serve?</h3><p>From early revenue to enterprise scale. Sweet spot: growth-stage businesses.</p></div>
     <div class="faq-item"><h3>Can I see references from similar businesses?</h3><p>Yes — anonymized case studies during sales, reference introductions on request.</p></div>
   </section>
 

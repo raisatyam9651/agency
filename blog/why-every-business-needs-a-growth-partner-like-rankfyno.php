@@ -18,7 +18,7 @@ $custom_head = '
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
     {"@type":"Question","name":"What is a growth partner vs. an agency?","acceptedAnswer":{"@type":"Answer","text":"A growth partner is embedded in your business — they know your numbers, your customers, your market. An agency delivers scoped projects. A growth partner shares accountability for outcomes. The difference shows up in retention and result quality."}},
-    {"@type":"Question","name":"At what stage does my business need a growth partner?","acceptedAnswer":{"@type":"Answer","text":"Most businesses benefit once they have PMF and a $500K+ revenue base. Below that, consultants or fractional CMOs work better. Above $30M+ ARR, in-house teams typically take over most functions."}},
+    {"@type":"Question","name":"At what stage does my business need a growth partner?","acceptedAnswer":{"@type":"Answer","text":"Most businesses benefit once they have product-market fit and a meaningful revenue base. Below that, consultants or fractional CMOs work better. Once you have substantial scale, in-house teams typically take over most functions."}},
     {"@type":"Question","name":"What should I look for in a growth partner?","acceptedAnswer":{"@type":"Answer","text":"Senior strategists who own the engagement, revenue-tied reporting, integrated services, transparent communication, and a track record with similar businesses. References and case studies are essential."}},
     {"@type":"Question","name":"How does RankFyno act as a growth partner?","acceptedAnswer":{"@type":"Answer","text":"We embed senior strategists in your Slack, share live dashboards, hold weekly syncs, and tie our success to yours through quarterly targets. We&apos;re not a vendor; we&apos;re an extension of your team."}}
   ]}
@@ -60,7 +60,7 @@ include __DIR__ . '/../header.php';
     <p>A growth partner is embedded in your business. They know your numbers, your customers, your market, your competitors. They share accountability for outcomes — qualified pipeline, CAC payback, organic revenue. They&apos;re an extension of your team, not a vendor you hire for projects. See <a href="<?php echo $base_path; ?>blog/the-secret-behind-rankfynos-result-driven-marketing-approach">our result-driven approach</a> for what that discipline looks like in practice.</p>
 
     <h2>Why in-house teams can&apos;t always replace partners</h2>
-    <p>In-house teams are valuable for context, brand stewardship, and continuity. But building a senior SEO strategist, a performance marketing specialist, a content team, a CRO expert, a technical SEO engineer, and a design team is expensive — easily $1M+/year in fully-loaded costs. Most growing businesses can&apos;t justify that until they hit $30M+ ARR. A senior growth partner gives you that capacity at a fraction of the cost. See our guide on <a href="<?php echo $base_path; ?>blog/why-startups-need-rankfyno-for-digital-marketing-success">why startups need RankFyno</a> for the seed-to-Series-B use case.</p>
+    <p>In-house teams are valuable for context, brand stewardship, and continuity. But building a senior SEO strategist, a performance marketing specialist, a content team, a CRO expert, a technical SEO engineer, and a design team is expensive — easily seven figures in fully-loaded annual costs. Most growing businesses can&apos;t justify that until they reach substantial scale. A senior growth partner gives you that capacity at a fraction of the cost. See our guide on <a href="<?php echo $base_path; ?>blog/why-startups-need-rankfyno-for-digital-marketing-success">why startups need RankFyno</a> for the seed-to-Series-B use case.</p>
 
     <h2>What to look for in a growth partner</h2>
     <p>Five things: (1) senior strategists who own the engagement end-to-end; (2) revenue-tied reporting; (3) integrated services (not siloed); (4) transparent communication and live dashboards; (5) a track record with businesses like yours. References and case studies are essential. See our <a href="<?php echo $base_path; ?>blog/why-businesses-trust-rankfyno-for-seo-and-performance-marketing">trust signals</a>.</p>
@@ -75,7 +75,7 @@ include __DIR__ . '/../header.php';
   <section class="container post-faq">
     <h2>Frequently asked questions</h2>
     <div class="faq-item"><h3>What is a growth partner vs. an agency?</h3><p>A growth partner is embedded in your business and shares accountability for outcomes. An agency delivers scoped projects.</p></div>
-    <div class="faq-item"><h3>At what stage does my business need a growth partner?</h3><p>Most benefit once they have PMF and $500K+ revenue. Above $30M+ ARR, in-house teams typically take over.</p></div>
+    <div class="faq-item"><h3>At what stage does my business need a growth partner?</h3><p>Most benefit once they have PMF and a meaningful revenue base. At substantial scale, in-house teams typically take over.</p></div>
     <div class="faq-item"><h3>What should I look for?</h3><p>Senior strategists, revenue-tied reporting, integrated services, transparency, references.</p></div>
     <div class="faq-item"><h3>How does RankFyno act as a growth partner?</h3><p>Embedded strategists, live dashboards, weekly syncs, quarterly targets. Extension of your team, not a vendor.</p></div>
   </section>
