@@ -43,7 +43,7 @@ $is_home = ($current_page === 'home');
         <li><a href="<?php echo $is_home ? '#pricing' : ($base_path ?: './') . '#pricing'; ?>" data-cursor-hover>Pricing</a></li>
         <li><a href="<?php echo $is_home ? '#faq' : ($base_path ?: './') . '#faq'; ?>" data-cursor-hover>FAQ</a></li>
         <li><a href="<?php echo $base_path; ?>team.php" class="<?php echo ($current_page === 'team') ? 'active' : ''; ?>" data-cursor-hover>Team</a></li>
-        <li><a href="<?php echo $base_path; ?>seo/india/" data-cursor-hover>India</a></li>
+        <li><a href="<?php echo $base_path; ?>blog" class="<?php echo ($current_page === 'blog') ? 'active' : ''; ?>" data-cursor-hover>Blog</a></li>
         <li><a href="<?php echo $base_path; ?>contact.php" class="<?php echo ($current_page === 'contact') ? 'active' : ''; ?>" data-cursor-hover>Contact</a></li>
       </ul>
       <div class="nav-divider"></div>

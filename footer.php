@@ -42,26 +42,13 @@ $base_path = isset($base_path) ? $base_path : '';
             </ul>
           </div>
           <div class="footer-col">
-            <h5>Locations</h5>
-            <ul>
-              <li><a href="<?php echo $base_path; ?>seo/india/" data-cursor-hover>SEO agency India</a></li>
-              <li><a href="<?php echo $base_path; ?>seo/india/" data-cursor-hover>All India services</a></li>
-              <li><a href="<?php echo $base_path; ?>seo/india/haryana/" data-cursor-hover>Haryana</a></li>
-              <li><a href="<?php echo $base_path; ?>seo/india/haryana/gurugram/" data-cursor-hover>Gurugram</a></li>
-              <li><a href="<?php echo $base_path; ?>seo/india/haryana/panipat/" data-cursor-hover>Panipat</a></li>
-              <li><a href="<?php echo $base_path; ?>seo/india/haryana/faridabad/" data-cursor-hover>Faridabad</a></li>
-            </ul>
-          </div>
-          <div class="footer-col">
             <h5>Studio</h5>
             <ul>
               <li><a href="<?php echo ($base_path ?: './') . '#work'; ?>" data-cursor-hover>Selected work</a></li>
               <li><a href="<?php echo ($base_path ?: './') . '#process'; ?>" data-cursor-hover>Process</a></li>
               <li><a href="<?php echo ($base_path ?: './') . '#pricing'; ?>" data-cursor-hover>Pricing</a></li>
-              <li><a href="<?php echo $base_path; ?>contact.php" data-cursor-hover>Contact</a></li>
               <li><a href="<?php echo $base_path; ?>team.php" data-cursor-hover>Team</a></li>
-              <li><a href="#" data-cursor-hover>Manifesto</a></li>
-              <li><a href="#" data-cursor-hover>Careers</a></li>
+              <li><a href="<?php echo $base_path; ?>blog" data-cursor-hover>Blog</a></li>
             </ul>
           </div>
           <div class="footer-col">
