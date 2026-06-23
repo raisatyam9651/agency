@@ -28,7 +28,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"ICBM\" content=\"26.1445, 91.7362\" />
   <script type=\"application/ld+json\">
   {
-    \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"rankfyno\", \"alternateName\": \"rankfyno\", \"url\": \"https://rankfyno.com/\", \"logo\": \"https://rankfyno.com/logo.png\",
+    \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"rankfyno\", \"alternateName\": \"rankfyno\", \"url\": \"https://rankfyno.com/\", \"logo\": \"https://rankfyno.com/Rankfyno.png\",
     \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"IN\", \"addressRegion\": \"Assam\", \"addressLocality\": \"Guwahati\" }
   }
   </script>

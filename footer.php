@@ -9,7 +9,7 @@ $base_path = isset($base_path) ? $base_path : '';
       <div class="footer-grid">
         <div class="footer-brand">
           <a href="<?php echo $base_path ?: './'; ?>" class="logo">
-            <div class="logo-mark"></div>
+            <img src="<?php echo $base_path; ?>Rankfyno.png" alt="rankfyno" class="logo-img" />
             rankfyno
           </a>
           <p><?php echo isset($footer_brand_desc) ? $footer_brand_desc : 'A premium digital marketing studio for ambitious brands. Engineering growth since 2018.'; ?></p>
@@ -80,11 +80,6 @@ $base_path = isset($base_path) ? $base_path : '';
       </div>
       <div class="footer-bottom">
         <p>© 2026 rankfyno. All rights reserved.</p>
-        <div class="footer-bottom-links">
-          <a href="#" data-cursor-hover>Privacy</a>
-          <a href="#" data-cursor-hover>Terms</a>
-          <a href="#" data-cursor-hover>Imprint</a>
-        </div>
       </div>
     </div>
   </footer>

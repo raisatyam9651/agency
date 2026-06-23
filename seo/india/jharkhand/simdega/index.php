@@ -28,7 +28,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"ICBM\" content=\"22.6200, 84.5100\" />
   <script type=\"application/ld+json\">
   {
-    \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"rankfyno\", \"alternateName\": \"rankfyno\", \"url\": \"https://rankfyno.com/\", \"logo\": \"https://rankfyno.com/logo.png\",
+    \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"rankfyno\", \"alternateName\": \"rankfyno\", \"url\": \"https://rankfyno.com/\", \"logo\": \"https://rankfyno.com/Rankfyno.png\",
     \"description\": \"Performance-driven SEO, content, and digital growth agency for ambitious brands across India and globally.\",
     \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"IN\", \"addressRegion\": \"Jharkhand\", \"addressLocality\": \"Simdega\" }
   }

@@ -33,7 +33,7 @@ $is_home = ($current_page === 'home');
   <nav class="nav" id="nav">
     <div class="container nav-inner">
       <a href="<?php echo $base_path ?: './'; ?>" class="logo" data-cursor-hover>
-        <div class="logo-mark"></div>
+        <img src="<?php echo $base_path; ?>Rankfyno.png" alt="rankfyno" class="logo-img" />
         rankfyno
       </a>
       <ul class="nav-links">
