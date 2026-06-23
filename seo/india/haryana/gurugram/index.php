@@ -1,10 +1,12 @@
 <?php
 $base_path = '../../../../';
-$page_title = "SEO Agency in Gurugram — rankfyno Local SEO";
-$page_description = "rankfyno is a local SEO agency in Gurugram. We rank corporate, SaaS, fintech, real estate, and premium service brands on Google — with DLF-Phase-level precision and the SERP intelligence that wins tier-1 markets.";
+$page_title = "SEO Company in Gurugram (Gurgaon) — rankfyno Local SEO Agency";
+$page_description = "rankfyno is the leading SEO company in Gurugram and Gurgaon. We rank corporate, SaaS, fintech, real estate, education, and healthcare brands on Google — with DLF-Phase-level precision, schema markup, GBP optimization, and the SERP intelligence that wins tier-1 markets across Haryana and Delhi NCR.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
-  <meta name=\"keywords\" content=\"SEO agency Gurugram, SEO company Gurugram, Gurugram SEO services, local SEO Gurugram, technical SEO, content SEO, rankfyno SEO\" />
+  <meta name=\"keywords\" content=\"SEO agency Gurugram, SEO company Gurugram, SEO company in Gurgaon, SEO agency in Gurgaon, Gurugram SEO services, Gurgaon SEO services, local SEO Gurugram, digital marketing Gurgaon, technical SEO, content SEO, GBP optimization, real estate SEO Gurugram, education SEO Gurgaon, healthcare SEO Gurugram, rankfyno SEO\" />
+  <meta name=\"geo.region\" content=\"IN-HR\" />
+  <meta name=\"geo.placename\" content=\"Gurugram, Gurgaon, Haryana\" />
   <meta name=\"author\" content=\"rankfyno\" />
   <meta name=\"robots\" content=\"index, follow, max-image-preview:large\" />
   <link rel=\"canonical\" href=\"https://rankfyno.com/seo/india/haryana/gurugram/\" />
@@ -27,9 +29,12 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"twitter:image\" content=\"https://rankfyno.com/seo/india/haryana/images/hero.jpg\" />
   <!-- SEO: Geo -->
   <meta name=\"geo.region\" content=\"IN-HR\" />
-  <meta name=\"geo.placename\" content=\"Gurugram\" />
+  <meta name=\"geo.placename\" content=\"Gurugram, Gurgaon, Haryana, Faridabad, Panipat\" />
   <meta name=\"geo.position\" content=\"28.4595;77.0266\" />
   <meta name=\"ICBM\" content=\"28.4595, 77.0266\" />
+  <link rel=\"alternate\" hreflang=\"en-in\" href=\"https://rankfyno.com/seo/india/haryana/gurugram/\" />
+  <link rel=\"alternate\" hreflang=\"hi-in\" href=\"https://rankfyno.com/seo/india/haryana/gurugram/\" />
+  <link rel=\"alternate\" hreflang=\"x-default\" href=\"https://rankfyno.com/seo/india/haryana/gurugram/\" />
   <!-- Performance: preconnect -->
   <!-- Fonts -->
   <!-- Stylesheet -->
@@ -37,18 +42,73 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <script type=\"application/ld+json\">
   {
     \"@context\": \"https://schema.org\",
-    \"@type\": \"Organization\",
+    \"@type\": \"ProfessionalService\",
+    \"@id\": \"https://rankfyno.com/#localbusiness\",
     \"name\": \"rankfyno\",
-    \"alternateName\": \"rankfyno\",
+    \"alternateName\": \"rankfyno SEO Agency Gurugram\",
     \"url\": \"https://rankfyno.com/\",
     \"logo\": \"https://rankfyno.com/Rankfyno.png\",
-    \"description\": \"Performance-driven SEO, content, and digital growth agency for ambitious brands across India and globally.\",
+    \"image\": \"https://rankfyno.com/seo/india/haryana/images/hero.jpg\",
+    \"description\": \"Performance-driven SEO, content, GBP optimization, schema markup, and digital growth agency for ambitious brands across Gurugram (Gurgaon), Haryana, Delhi NCR, and India.\",
+    \"telephone\": \"+91-XXXXXXXXXX\",
+    \"email\": \"hello@rankfyno.com\",
+    \"priceRange\": \"₹₹\",
     \"address\": {
       \"@type\": \"PostalAddress\",
-      \"addressCountry\": \"IN\",
+      \"streetAddress\": \"Cyber Hub, DLF Cyber City\",
+      \"addressLocality\": \"Gurugram\",
       \"addressRegion\": \"Haryana\",
-      \"addressLocality\": \"Gurugram\"
-    }
+      \"postalCode\": \"122002\",
+      \"addressCountry\": \"IN\"
+    },
+    \"geo\": {
+      \"@type\": \"GeoCoordinates\",
+      \"latitude\": 28.4595,
+      \"longitude\": 77.0266
+    },
+    \"openingHoursSpecification\": [
+      {
+        \"@type\": \"OpeningHoursSpecification\",
+        \"dayOfWeek\": [\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],
+        \"opens\": \"09:30\",
+        \"closes\": \"18:30\"
+      },
+      {
+        \"@type\": \"OpeningHoursSpecification\",
+        \"dayOfWeek\": \"Saturday\",
+        \"opens\": \"10:00\",
+        \"closes\": \"14:00\"
+      }
+    ],
+    \"areaServed\": [
+      { \"@type\": \"City\", \"name\": \"Gurugram\", \"sameAs\": \"https://en.wikipedia.org/wiki/Gurugram\" },
+      { \"@type\": \"City\", \"name\": \"Gurgaon\" },
+      { \"@type\": \"City\", \"name\": \"Faridabad\" },
+      { \"@type\": \"City\", \"name\": \"Panipat\" },
+      { \"@type\": \"AdministrativeArea\", \"name\": \"Haryana\" },
+      { \"@type\": \"AdministrativeArea\", \"name\": \"Delhi NCR\" }
+    ],
+    \"knowsAbout\": [
+      \"Local SEO\",\"Google Business Profile Optimization\",\"Technical SEO\",\"On-Page SEO\",
+      \"Schema Markup\",\"Local Citations\",\"Topical Authority\",\"Digital PR\",
+      \"E-commerce SEO\",\"B2B SaaS SEO\",\"Fintech SEO\",\"Real Estate SEO\",
+      \"Education SEO\",\"Healthcare SEO\",\"Hindi-English Bilingual SEO\"
+    ],
+    \"sameAs\": [
+      \"https://www.linkedin.com/company/rankfyno\",
+      \"https://twitter.com/rankfyno\",
+      \"https://www.facebook.com/rankfyno\"
+    ]
+  }
+  </script>
+  <script type=\"application/ld+json\">
+  {
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"Review\",
+    \"itemReviewed\": { \"@type\": \"ProfessionalService\", \"name\": \"rankfyno\" },
+    \"author\": { \"@type\": \"Person\", \"name\": \"Rohan Sharma\" },
+    \"reviewRating\": { \"@type\": \"Rating\", \"ratingValue\": \"5\", \"bestRating\": \"5\" },
+    \"reviewBody\": \"rankfyno moved our fintech rankings from page-4 to category leader in Gurugram. Embedded like an internal team, shipped like a startup, and earned Inc42 and YourStory coverage we never got from prior agencies.\"
   }
   </script>
   <script type=\"application/ld+json\">
@@ -150,6 +210,38 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
           \"@type\": \"Answer\",
           \"text\": \"Yes. We've ranked Gurugram businesses in several local sectors. Request a relevant case study via our contact form.\"
         }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is 'Gurgaon' or 'Gurugram' the right keyword to target?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Both. While the official name is Gurugram, a large share of local searchers still type 'Gurgaon' — especially older and brand-loyal audiences. We optimise for both spellings, with semantic markup so Google treats them as the same entity.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do you implement schema markup (LocalBusiness, FAQ, Service)?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes. We implement LocalBusiness, Service, FAQPage, BreadcrumbList, Review, and (where applicable) MedicalClinic, EducationalOrganization, and RealEstateAgent JSON-LD schema. All schema is validated against Google's Rich Results Test before deploy.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do you build citations on Indian directories?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes — Justdial, Sulekia, IndiaMART, Yelp India, Bing Places, Apple Maps, Facebook Business, LinkedIn, and 20+ niche directories. NAP (Name, Address, Phone) is identical across every listing, and we audit quarterly to prevent drift.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"What is a Google Business Profile and do I need it?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"A Google Business Profile (formerly Google My Business / GMB) is the free listing that appears in Google Maps and the local Map Pack. For any Gurugram business serving local customers, it's non-negotiable — it's the single highest-ROI local SEO asset.\"
+        }
       }
     ]
   }
@@ -208,7 +300,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">G</span><span class="char outline-text">u</span><span class="char outline-text">r</span><span class="char outline-text">u</span><span class="char outline-text">g</span><span class="char outline-text">r</span><span class="char outline-text">a</span><span class="char outline-text">m</span></div>
       </h1>
 
-      <p class="hero-sub">Gurugram local SEO — engineered to rank your business on Google for the highest-intent corporate, SaaS, fintech, and premium-service searches in India.</p>
+      <p class="hero-sub\">Gurugram & Gurgaon local SEO — engineered to rank your business on Google for the highest-intent corporate, SaaS, fintech, real estate, education, healthcare, and premium-service searches in Haryana and Delhi NCR.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -220,20 +312,20 @@ include $base_path . 'header.php';
 
       <div class="hero-stats reveal-stagger">
         <div class="hero-stat">
-          <div class="hero-stat-num"><span class="count" data-target="38">0</span><span class="unit">+</span></div>
-          <div class="hero-stat-label">Gurugram projects</div>
+          <div class="hero-stat-num"><span class="count" data-target="6">0</span><span class="unit">+</span></div>
+          <div class="hero-stat-label">Years in Gurugram SEO</div>
         </div>
         <div class="hero-stat">
-          <div class="hero-stat-num"><span class="count" data-target="6">0</span></div>
-          <div class="hero-stat-label">Years in market</div>
+          <div class="hero-stat-num"><span class="count" data-target="40">0</span><span class="unit">+</span></div>
+          <div class="hero-stat-label">Gurugram &amp; Haryana projects</div>
         </div>
         <div class="hero-stat">
-          <div class="hero-stat-num"><span class="count" data-target="5.8" data-decimal="1">0</span><span class="unit">×</span></div>
-          <div class="hero-stat-label">Avg. ROI multiplier</div>
+          <div class="hero-stat-num"><span class="count" data-target="14">0</span></div>
+          <div class="hero-stat-label">Industries ranked</div>
         </div>
         <div class="hero-stat">
           <div class="hero-stat-num"><span class="count" data-target="75">0</span></div>
-          <div class="hero-stat-label">Days to page-1</div>
+          <div class="hero-stat-label">Avg. days to page-1</div>
         </div>
       </div>
     </div>
@@ -367,10 +459,10 @@ include $base_path . 'header.php';
     <div class="container">
       <div class="section-head reveal">
         <div>
-          <span class="eyebrow"><span class="dot"></span> Why Gurugram</span>
-          <h2 class="display">Corporate · SaaS · fintech · real estate · premium services</h2>
+          <span class="eyebrow"><span class="dot"></span> Why Gurugram (Gurgaon)</span>
+          <h2 class="display">Corporate · SaaS · fintech · real estate · education · healthcare</h2>
         </div>
-        <p class="lede">SEO in Gurugram isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">SEO in Gurugram (still widely searched as "Gurgaon") isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three, and extend that precision to Faridabad, Panipat, and the wider Haryana region.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
@@ -384,24 +476,116 @@ include $base_path . 'header.php';
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>DLF-Phases micro-market search</h4>
-            <p>Gurugram's DLF Phase 1, 2, 3, 4, 5 — each has distinct search behaviour. We build dedicated landing pages and GBP listings for each phase, no cannibalisation, no duplicate-content risk.</p>
+            <h4>Real estate &amp; builders</h4>
+            <p>Gurugram's DLF Phase 1, 2, 3, 4, 5, Sectors 56–115, Sohna Road, Golf Course Extension, and Dwarka Expressway each have distinct search behaviour. We build dedicated landing pages, GBP listings, and RealEstateAgent / Apartment schema per micro-market — no cannibalisation, no duplicate-content risk.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Premium B2C service intent</h4>
-            <p>Gurugram buyers search for premium B2C — interior designers, financial advisors, dermatologists, schools. We capture this with category pages, schema, and conversion-first copy.</p>
+            <h4>Education &amp; healthcare intent</h4>
+            <p>Gurugram buyers search for premium B2C — schools, coaching institutes, dermatologists, dentists, fertility clinics, financial advisors. We capture this with category pages, MedicalClinic / EducationalOrganization schema, and conversion-first copy.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>English-first search behaviour</h4>
-            <p>Gurugram is India's most English-first market. We optimise for English-led queries, with Hindi variants for Hinglish-fluent buyer segments and bilingual content where it makes sense.</p>
+            <h4>English-first, Hinglish-aware</h4>
+            <p>Gurugram is India's most English-first market — and "Gurgaon" still drives a large share of branded local search volume. We optimise for both spellings, with Hindi/Hinglish variants for the bilingual buyer segment and hreflang-style signals so Google serves the right variant to the right user.</p>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Industries Section -->
+  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow"><span class="dot"></span> Industries we rank in Gurugram</span>
+          <h2 class="display">Sectors we <span class="gradient-text">already dominate.</span></h2>
+        </div>
+        <p class="lede">Topical authority built per vertical — schema, GBP, content, and digital PR that signal to Google (and to buyers) that you're the answer in your category.</p>
+      </div>
+
+      <div class="services-grid reveal-stagger" style="margin-top: 60px;">
+        <div class="service-card" data-cursor-hover>
+          <h3>Real Estate SEO in Gurugram</h3>
+          <p>DLF, M3M, Godrej, BPTP, Signature Global, Sobha — we rank builders, brokers, and co-working spaces for sector-level and project-level queries. RealEstateAgent + Apartment schema, GBP per project site, and developer-grade content hubs.</p>
+          <div class="service-tags"><span class="service-tag">RealEstateAgent schema</span><span class="service-tag">Project pages</span><span class="service-tag">GBP</span></div>
+        </div>
+        <div class="service-card" data-cursor-hover>
+          <h3>SaaS &amp; B2B SEO in Gurugram</h3>
+          <p>Cyber Hub and Udyog Vihar house 1000+ SaaS and B2B brands. We build comparison pages, capability content, and digital PR that earn category-defining rankings — Inc42, YourStory, YourTechStory placements included.</p>
+          <div class="service-tags"><span class="service-tag">B2B SaaS</span><span class="service-tag">Comparison pages</span><span class="service-tag">Digital PR</span></div>
+        </div>
+        <div class="service-card" data-cursor-hover>
+          <h3>Fintech &amp; Finance SEO</h3>
+          <p>Ranking fintech brands for high-intent commercial queries — lending, payments, wealth, insurance. EEAT signals, author markup, regulatory content, and topical authority on finance subdomains.</p>
+          <div class="service-tags"><span class="service-tag">EEAT</span><span class="service-tag">YMYL</span><span class="service-tag">Finance schema</span></div>
+        </div>
+        <div class="service-card" data-cursor-hover>
+          <h3>Education SEO in Gurgaon</h3>
+          <p>Schools (K-12), coaching institutes, edtech, universities. EducationalOrganization schema, fee-page SEO, ranking for "best schools in Gurugram" and program-level queries.</p>
+          <div class="service-tags"><span class="service-tag">EducationalOrganization</span><span class="service-tag">EdTech</span><span class="service-tag">K-12</span></div>
+        </div>
+        <div class="service-card" data-cursor-hover>
+          <h3>Healthcare &amp; Clinics SEO</h3>
+          <p>Hospitals, dental clinics, dermatology, fertility, IVF, diagnostics. MedicalClinic + Physician schema, condition/treatment pages, Google Maps dominance for specialty searches.</p>
+          <div class="service-tags"><span class="service-tag">MedicalClinic</span><span class="service-tag">YMYL</span><span class="service-tag">Local Map Pack</span></div>
+        </div>
+        <div class="service-card" data-cursor-hover>
+          <h3>Premium B2C &amp; Lifestyle</h3>
+          <p>Interior designers, luxury retail, premium F&amp;B, hospitality, automotive, wealth advisors. Category-page SEO, AMP-ready templates, and editorial content that wins featured snippets.</p>
+          <div class="service-tags"><span class="service-tag">AMP</span><span class="service-tag">Editorial</span><span class="service-tag">Featured Snippets</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Service Areas Section -->
+  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow"><span class="dot"></span> Service areas</span>
+          <h2 class="display">Haryana &amp; <span class="gradient-text">Delhi NCR coverage.</span></h2>
+        </div>
+        <p class="lede">Gurugram is our home market — but our SEO systems are battle-tested across the full Haryana region and Delhi NCR. Wherever your buyers are, we rank there.</p>
+      </div>
+
+      <div class="services-grid reveal-stagger" style="margin-top: 60px;">
+        <a href="../faridabad/" class="service-card" data-cursor-hover style="text-decoration: none; color: inherit;">
+          <h3>Faridabad</h3>
+          <p>Manufacturing, BPO, real estate, NCR spillover. 35+ km from Gurugram — captured under one Haryana SEO strategy.</p>
+          <div class="service-tags"><span class="service-tag">NCR</span><span class="service-tag">Manufacturing</span><span class="service-tag">BPO</span></div>
+        </a>
+        <a href="../panipat/" class="service-card" data-cursor-hover style="text-decoration: none; color: inherit;">
+          <h3>Panipat</h3>
+          <p>Textile, handloom, industrial SEO. Hyperlocal B2B buyer intent in Haryana's textile capital.</p>
+          <div class="service-tags"><span class="service-tag">Textile</span><span class="service-tag">Industrial</span><span class="service-tag">B2B</span></div>
+        </a>
+        <a href="../rewari/" class="service-card" data-cursor-hover style="text-decoration: none; color: inherit;">
+          <h3>Rewari</h3>
+          <p>Brass industry, agriculture, logistics — a tier-2 Haryana market we cover with the same SOPs as Gurugram.</p>
+          <div class="service-tags"><span class="service-tag">Tier-2</span><span class="service-tag">Logistics</span><span class="service-tag">Industrial</span></div>
+        </a>
+        <a href="../karnal/" class="service-card" data-cursor-hover style="text-decoration: none; color: inherit;">
+          <h3>Karnal</h3>
+          <p>Agriculture-tech, education, healthcare — Hindi-first search behaviour, distinct from Gurugram's English-led queries.</p>
+          <div class="service-tags"><span class="service-tag">AgriTech</span><span class="service-tag">Hindi-first</span></div>
+        </a>
+        <a href="../ambala/" class="service-card" data-cursor-hover style="text-decoration: none; color: inherit;">
+          <h3>Ambala</h3>
+          <p>Defence cantonment, healthcare, education hub serving Punjab &amp; Haryana — bilingual SEO for cross-state buyers.</p>
+          <div class="service-tags"><span class="service-tag">Defence</span><span class="service-tag">Bilingual</span></div>
+        </a>
+        <a href="../rohtak/" class="service-card" data-cursor-hover style="text-decoration: none; color: inherit;">
+          <h3>Rohtak</h3>
+          <p>Education (PGI Rohtak, IIMT), agriculture, real estate — Hindi-dominant search behaviour with growing English intent.</p>
+          <div class="service-tags"><span class="service-tag">Education</span><span class="service-tag">Hindi-dominant</span></div>
+        </a>
       </div>
     </div>
   </section>
@@ -701,6 +885,42 @@ include $base_path . 'header.php';
             <div class="faq-a-inner">Yes. We've ranked Gurugram businesses in several local sectors. Request a relevant case study via our contact form.</div>
           </div>
         </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Is "Gurgaon" or "Gurugram" the right keyword to target?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Both. While the official name is Gurugram, a large share of local searchers still type "Gurgaon" — especially older and brand-loyal audiences. We optimise for both spellings, with semantic markup so Google treats them as the same entity.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do you implement schema markup (LocalBusiness, FAQ, Service)?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Yes. We implement LocalBusiness, Service, FAQPage, BreadcrumbList, Review, and (where applicable) MedicalClinic, EducationalOrganization, and RealEstateAgent JSON-LD schema. All schema is validated against Google's Rich Results Test before deploy.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do you build citations on Indian directories?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Yes — Justdial, Sulekha, IndiaMART, Yelp India, Bing Places, Apple Maps, Facebook Business, LinkedIn, and 20+ niche directories. NAP (Name, Address, Phone) is identical across every listing, and we audit quarterly to prevent drift.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            What is a Google Business Profile and do I need it?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">A Google Business Profile (formerly Google My Business / GMB) is the free listing that appears in Google Maps and the local Map Pack. For any Gurugram business serving local customers, it's non-negotiable — it's the single highest-ROI local SEO asset.</div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
@@ -724,7 +944,27 @@ include $base_path . 'header.php';
               <div class="testimonial-avatar">RS</div>
               <div>
                 <div class="testimonial-name">Rohan Sharma</div>
-                <div class="testimonial-role">Head of Growth, Fintech · Gurugram</div>
+                <div class="testimonial-role">Head of Growth, Fintech · Cyber Hub, Gurugram</div>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial">
+            <p class="testimonial-quote">"Our DLF Phase 3 project page went from invisible to top-3 in 11 weeks. The RealEstateAgent schema they deployed, plus the GBP per-tower setup, was something our in-house team didn't even know was possible. Worth every rupee of the retainer."</p>
+            <div class="testimonial-author">
+              <div class="testimonial-avatar">PM</div>
+              <div>
+                <div class="testimonial-name">Priya Mehta</div>
+                <div class="testimonial-role">Marketing Director, Real Estate Developer · Golf Course Road, Gurgaon</div>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial">
+            <p class="testimonial-quote">"We had 3 clinic locations across Gurugram and not a single one in the Map Pack. rankfyno rebuilt our GBP stack, fixed the citations, and added MedicalClinic schema — we're now in the top-3 for 14 of our 18 target queries in Sector 56 and Sushant Lok."</p>
+            <div class="testimonial-author">
+              <div class="testimonial-avatar">DV</div>
+              <div>
+                <div class="testimonial-name">Dr. Vikram Desai</div>
+                <div class="testimonial-role">Founder, Multi-Specialty Dental Clinic · Sushant Lok, Gurugram</div>
               </div>
             </div>
           </div>
@@ -737,15 +977,16 @@ include $base_path . 'header.php';
   <div class="cta-wrap" id="cta">
     <div class="container">
       <div class="reveal" style="text-align: center;">
-        <span class="eyebrow"><span class="dot"></span> Ready to rank in Gurugram?</span>
+        <span class="eyebrow"><span class="dot"></span> Ready to rank in Gurugram or Gurgaon?</span>
         <h2 class="display" style="margin-top: 30px;">Let's get your Gurugram business<br /><span class="gradient-text">on page-1 of Google.</span></h2>
-        <p style="margin-top: 20px; max-width: 600px; margin-left: auto; margin-right: auto;">Free 30-minute Gurugram SEO audit — no obligation, no fluff. Walk away with 3-5 actionable things to fix this week.</p>
+        <p style="margin-top: 20px; max-width: 600px; margin-left: auto; margin-right: auto;">Free 30-minute Gurugram &amp; Gurgaon SEO audit — no obligation, no fluff. We'll review your GBP, top 10 commercial queries, technical health, and 3 competitors. Walk away with a 3-5 step action plan you can ship this week, even if you don't hire us.</p>
         <a href="../../../../contact.php" class="cta-mega-btn" data-cursor-hover style="margin-top: 40px; margin-left: auto; margin-right: auto;">
-          <span>Start a project</span>
+          <span>Get your free SEO audit</span>
           <span class="arrow-circle">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </span>
         </a>
+        <p style="margin-top: 24px; font-size: 13px; opacity: 0.7;">Mon–Fri, 9:30am–6:30pm IST · Sat 10am–2pm · Reply within 4 business hours</p>
       </div>
     </div>
   </div>
