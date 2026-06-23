@@ -9,7 +9,7 @@ $custom_head = '
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": ["ProfessionalService", "LocalBusiness", "Organization"],
+  "@type": ["LocalBusiness", "ProfessionalService", "Organization"],
   "@id": "https://rankfyno.com/#organization",
   "name": "rankfyno",
   "alternateName": "RankFyno",
@@ -25,6 +25,7 @@ $custom_head = '
   "telephone": "+91-7317564794",
   "email": "hello@rankfyno.com",
   "priceRange": "$$$",
+  "hasMap": "https://maps.google.com/?q=Ground+Floor+Cabin+12+Plot+84+SupremeWork+Sector+32+Gurugram+Haryana+122001",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Ground Floor, Cabin no 12, Plot 84, SupremeWork, Sector 32",
@@ -137,6 +138,10 @@ include __DIR__ . '/header.php';
         </a>
         <a href="#work" class="btn btn-ghost" data-cursor-hover>
           View case studies
+        </a>
+        <a href="tel:+917317564794" class="btn btn-call" data-cursor-hover aria-label="Call rankfyno at +91 7317564794">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+          Call +91 7317564794
         </a>
       </div>
 
