@@ -117,7 +117,7 @@ include __DIR__ . '/header.php';
           <div class="contact-card">
             <h5>Direct line</h5>
             <a href="mailto:hello@rankfyno.com" class="contact-link" data-cursor-hover>hello@rankfyno.com</a>
-            <a href="tel:+14155550188" class="contact-link" data-cursor-hover>+1 (415) 555-0188</a>
+            <a href="tel:+917317564794" class="contact-link" data-cursor-hover>+91 7317564794</a>
           </div>
 
           <div class="contact-card">
@@ -132,7 +132,7 @@ include __DIR__ . '/header.php';
 
           <div class="contact-card">
             <h5>For press</h5>
-            <a href="mailto:press@rankfyno.com" class="contact-link" data-cursor-hover>press@rankfyno.com</a>
+            <a href="mailto:hello@rankfyno.com" class="contact-link" data-cursor-hover>hello@rankfyno.com</a>
           </div>
 
           <div class="contact-card">
