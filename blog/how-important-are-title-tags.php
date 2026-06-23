@@ -30,6 +30,8 @@ $custom_head = '
     .post-body { max-width: 760px; margin: 0 auto; padding: 80px 0 60px; font-size: 18px; line-height: 1.75; }
     .post-body h2 { font-size: 30px; line-height: 1.2; margin: 60px 0 16px; }
     .post-body p, .post-body li { color: var(--ink-0); }
+    .post-body a { color: #2563eb; text-decoration: underline; text-underline-offset: 2px; transition: color 0.2s; }
+    .post-body a:hover { color: #1d4ed8; }
     .post-body ol, .post-body ul { padding-left: 22px; }
     .post-body li { margin-bottom: 8px; }
     .post-faq { max-width: 760px; margin: 0 auto; padding: 40px 0 120px; }
