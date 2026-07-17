@@ -52,7 +52,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   </script>";
 $footer_brand_desc = "A premium SEO studio for ambitious Tripura brands. Engineering organic growth across all 8 districts.";
 $custom_footer_cols = "<div class=\"footer-col\"><h5>Capabilities</h5><ul><li><a href=\"#capabilities\" data-cursor-hover>Local SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>National SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>E-commerce SEO</a></li><li><a href=\"#capabilities\" data-cursor-hover>Technical SEO</a></li></ul></div>
-    <div class=\"footer-col\"><h5>Tripura</h5><ul><li><a href=\"#\" data-cursor-hover>TR Hub</a></li><li><a href=\"../\" data-cursor-hover>SEO in India</a></li></ul></div>
+    <div class=\"footer-col\"><h5>Tripura</h5><ul><li><a href=\"./\" data-cursor-hover>TR Hub</a></li><li><a href=\"../\" data-cursor-hover>SEO in India</a></li></ul></div>
     <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../index.php#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../index.php#faq\" data-cursor-hover>FAQ</a></li><li><a href=\"../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
 include $base_path . 'header.php';
 ?>

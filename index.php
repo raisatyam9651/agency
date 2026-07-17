@@ -219,7 +219,7 @@ include __DIR__ . '/header.php';
             <span class="service-tag">TikTok</span>
             <span class="service-tag">LinkedIn</span>
           </div>
-          <a href="#" class="arrow-cta" data-cursor-hover>
+          <a href="contact.php" class="arrow-cta" data-cursor-hover aria-label="Start a project with rankfyno">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>
@@ -254,7 +254,7 @@ include __DIR__ . '/header.php';
             <span class="service-tag">Identity</span>
             <span class="service-tag">Voice</span>
           </div>
-          <a href="#" class="arrow-cta" data-cursor-hover>
+          <a href="contact.php" class="arrow-cta" data-cursor-hover aria-label="Start a project with rankfyno">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>
@@ -271,7 +271,7 @@ include __DIR__ . '/header.php';
             <span class="service-tag">Agents</span>
             <span class="service-tag">Predict</span>
           </div>
-          <a href="#" class="arrow-cta" data-cursor-hover>
+          <a href="contact.php" class="arrow-cta" data-cursor-hover aria-label="Start a project with rankfyno">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>
@@ -288,7 +288,7 @@ include __DIR__ . '/header.php';
             <span class="service-tag">3D</span>
             <span class="service-tag">Webflow</span>
           </div>
-          <a href="#" class="arrow-cta" data-cursor-hover>
+          <a href="contact.php" class="arrow-cta" data-cursor-hover aria-label="Start a project with rankfyno">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>

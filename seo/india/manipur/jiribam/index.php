@@ -69,7 +69,7 @@ include $base_path . 'header.php';
 
   <header class="hero">
     <div class="container hero-inner">
-      <div class="hero-image-wrap"><picture><picture><source srcset="../images/hero.webp" type="image/webp"><img src="../images/hero.jpg" alt="Best SEO Company in Jiribam — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" />/></picture></picture></div>
+      <div class="hero-image-wrap"><picture><source srcset="../images/hero.webp" type="image/webp"><img src="../images/hero.jpg" alt="Best SEO Company in Jiribam — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" /></picture></div>
       <div class="hero-meta"><div class="hero-meta-left"><span class="eyebrow"><span class="dot"></span> Jiribam · Manipur · SEO</span></div><div class="hero-meta-info">/ seo / manipur / jiribam</div></div>
       <h1 class="display">
         <div class="word"><span class="char">L</span><span class="char">o</span><span class="char">c</span><span class="char">a</span><span class="char">l</span></div>

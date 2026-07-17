@@ -7,6 +7,105 @@ $canonical_url = "https://rankfyno.com/seo-agency-in-india/";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"author\" content=\"rankfyno\" />
   <meta name=\"twitter:site\" content=\"@rankfyno\" />";
+// Structured data for the India national SEO hub. A NOWDOC keeps the JSON-LD
+// readable (no PHP escaping); it is appended to $custom_head so header.php echoes it
+// and header-include.php still fills in canonical/OG defaults. FAQ text mirrors the
+// visible FAQ section verbatim (a Google requirement for FAQ rich results).
+$custom_head .= <<<'JSONLD'
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rankfyno.com/" },
+    { "@type": "ListItem", "position": 2, "name": "SEO Agency in India", "item": "https://rankfyno.com/seo-agency-in-india/" }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "National SEO Agency Services",
+  "name": "rankfyno National SEO Agency in India",
+  "description": "Technical SEO, content architecture, programmatic SEO, and Generative Engine Optimization engineered for nationwide organic growth across India.",
+  "provider": {
+    "@type": "Organization",
+    "name": "rankfyno",
+    "url": "https://rankfyno.com/",
+    "logo": "https://rankfyno.com/Rankfyno.png",
+    "telephone": "+91-7317564794",
+    "email": "hello@rankfyno.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ground Floor, Cabin 12, Plot 84, SupremeWork, Sector 32",
+      "addressLocality": "Gurugram",
+      "addressRegion": "Haryana",
+      "postalCode": "122001",
+      "addressCountry": "IN"
+    }
+  },
+  "areaServed": { "@type": "Country", "name": "India" },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "rankfyno India SEO Engagements",
+    "itemListElement": [
+      { "@type": "Offer", "name": "Foundation SEO", "price": "85000", "priceCurrency": "INR" },
+      { "@type": "Offer", "name": "Growth SEO", "price": "185000", "priceCurrency": "INR" },
+      { "@type": "Offer", "name": "Enterprise SEO", "priceCurrency": "INR", "description": "Custom enterprise and programmatic engagements" }
+    ]
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best SEO agency in India?",
+      "acceptedAnswer": { "@type": "Answer", "text": "rankfyno is widely regarded as the best SEO agency in India for ambitious brands. We combine senior-only teams, technical SEO, programmatic content, and Generative Engine Optimization (GEO) to rank brands on Google's first page and inside AI search answers (ChatGPT, Perplexity, Google AI Overviews). 92% of our Indian clients retain us beyond 12 months, and we've shipped organic growth for D2C, fintech, SaaS, and listed enterprises across the country." }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does SEO cost in India?",
+      "acceptedAnswer": { "@type": "Answer", "text": "SEO retainers in India range from ₹40,000/month for local campaigns to ₹5,00,000+/month for enterprise and programmatic builds. rankfyno engagements start at ₹85,000/month for Foundation and ₹1,85,000/month for Growth, with a 90-day minimum. All pricing is exclusive of GST. We size the engagement against your category competitiveness and revenue ambition — never a one-size-fits-all quote." }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does SEO take to show results in India?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Most rankfyno Indian clients see meaningful ranking movement in 60–90 days and category-leading positions in 6–9 months. India is a hyper-competitive market — fast compounding requires technical excellence, original content, and authority that scales. We'll be honest with you in the first 14 days about the timeline based on your category, domain authority, and content velocity." }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer local SEO for Indian cities?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Yes. We run dedicated local SEO programs for Indian cities and states — including Panipat, Gurugram, Faridabad, Mumbai, Bengaluru, Delhi, Hyderabad, Chennai, and 40+ others. Local pages are built on a single, indexable hub-and-spoke structure with NAP consistency, Google Business Profile optimization, Bing Places, Apple Business Connect, Justdial, IndiaMART, and review velocity programs that move the local pack." }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) and do you offer it in India?",
+      "acceptedAnswer": { "@type": "Answer", "text": "GEO is the practice of optimizing content to be cited inside AI search answers — Google AI Overviews, ChatGPT search, Perplexity, and Copilot. 38% of Indian queries now touch an AI answer. rankfyno is one of the few Indian agencies shipping GEO alongside traditional SEO at production scale — llms.txt, passage-level citability, structured citations, and brand mention signals across the AI web." }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you work with Indian languages beyond English and Hindi?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Yes. We have native editors across English, Hindi, Tamil, Telugu, Bengali, Marathi, Gujarati, Kannada, Malayalam, Punjabi, and Odia. We don't just translate — we engineer content that ranks and reads like it was originally written for the audience, with proper hreflang implementation and regional keyword research." }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you replace our in-house marketing team?",
+      "acceptedAnswer": { "@type": "Answer", "text": "No. We embed as a senior SEO partner — extending your in-house marketers, content team, or founder with specialist capacity, a measurement layer, and a compounding system you keep. Most of our Indian clients have an in-house marketer or growth lead doing the day-to-day; we extend them with senior specialist capacity and a system to run on." }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is your India team based?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Our India operations are led from Gurugram (Cyber Hub) with senior team members in Mumbai, Bengaluru, Hyderabad, and Chennai. We work IST-friendly hours with async-first collaboration and weekly syncs in your timezone. Senior strategists only — no junior bait-and-switch, no offshore dilution." }
+    }
+  ]
+}
+</script>
+JSONLD;
 $footer_brand_desc = "A premium digital marketing studio for ambitious brands. Engineering organic growth across India and the world since 2018.";
 $custom_footer_cols = "<div class=\"footer-col\">
           <h5>Capabilities</h5>
@@ -43,7 +142,7 @@ $custom_footer_cols = "<div class=\"footer-col\">
             <li><a href=\"mailto:hello@rankfyno.com\" data-cursor-hover>hello@rankfyno.com</a></li>
             <li><a href=\"tel:+917317564794\" data-cursor-hover>+91 7317564794</a></li>
             <li><a href=\"https://maps.google.com/?q=Ground+Floor+Cabin+12+Plot+84+SupremeWork+Sector+32+Gurugram+Haryana+122001\" target=\"_blank\" rel=\"noopener\" data-cursor-hover>Ground Floor, Cabin no 12, Plot 84, SupremeWork, Sector 32, Gurugram, Haryana 122001</a></li>
-            <li><a href=\"#\" data-cursor-hover>Async-friendly</a></li>
+            <li>Async-friendly</li>
           </ul>
         </div>";
 $custom_scripts = "<script>
@@ -239,7 +338,7 @@ include $base_path . 'header.php';
             <span class="service-tag">Hreflang</span>
             <span class="service-tag">JS SEO</span>
           </div>
-          <a href="#" class="arrow-cta" data-cursor-hover>
+          <a href="../contact.php" class="arrow-cta" data-cursor-hover aria-label="Start a project with rankfyno">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>
@@ -256,7 +355,7 @@ include $base_path . 'header.php';
             <span class="service-tag">Datasets</span>
             <span class="service-tag">pSEO</span>
           </div>
-          <a href="#" class="arrow-cta" data-cursor-hover>
+          <a href="../contact.php" class="arrow-cta" data-cursor-hover aria-label="Start a project with rankfyno">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>
@@ -290,7 +389,7 @@ include $base_path . 'header.php';
             <span class="service-tag">LLM</span>
             <span class="service-tag">llms.txt</span>
           </div>
-          <a href="#" class="arrow-cta" data-cursor-hover>
+          <a href="../contact.php" class="arrow-cta" data-cursor-hover aria-label="Start a project with rankfyno">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>
@@ -307,7 +406,7 @@ include $base_path . 'header.php';
             <span class="service-tag">HI</span>
             <span class="service-tag">+9 more</span>
           </div>
-          <a href="#" class="arrow-cta" data-cursor-hover>
+          <a href="../contact.php" class="arrow-cta" data-cursor-hover aria-label="Start a project with rankfyno">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>
@@ -324,7 +423,7 @@ include $base_path . 'header.php';
             <span class="service-tag">Editorial</span>
             <span class="service-tag">HARO India</span>
           </div>
-          <a href="#" class="arrow-cta" data-cursor-hover>
+          <a href="../contact.php" class="arrow-cta" data-cursor-hover aria-label="Start a project with rankfyno">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>

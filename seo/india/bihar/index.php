@@ -143,7 +143,7 @@ $custom_footer_cols = "<div class=\"footer-col\">
         <div class=\"footer-col\">
           <h5>Bihar</h5>
           <ul>
-            <li><a href=\"#\" data-cursor-hover>BH Hub</a></li>
+            <li><a href=\"./\" data-cursor-hover>BH Hub</a></li>
             <li><a href=\"../\" data-cursor-hover>SEO in India</a></li>
             
             <li><a href=\"../../../index.php#process\" data-cursor-hover>Process</a></li>

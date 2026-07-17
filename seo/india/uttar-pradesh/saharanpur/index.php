@@ -223,7 +223,7 @@ include $base_path . 'header.php';
     <div class="container hero-inner">
       <div class="hero-image-wrap">
         <picture>
-          <picture><source srcset="../images/hero.webp" type="image/webp"><img src="../images/hero.jpg" alt="Best SEO Company in Saharanpur — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" />/></picture>
+          <source srcset="../images/hero.webp" type="image/webp"><img src="../images/hero.jpg" alt="Best SEO Company in Saharanpur — rankfyno organic growth trophy" class="hero-image" loading="eager" width="1280" height="720" />
         </picture>
       </div>
 

@@ -195,9 +195,6 @@ include __DIR__ . '/header.php';
             <picture><source srcset="team/photos/jaivijay-paswan.webp" type="image/webp"><img src="team/photos/jaivijay-paswan.jpg" alt="Jaivijay Paswan — Sales Executive at rankfyno" loading="lazy"/></picture>
                         <span class="initials">JP</span>
                         <span class="photo-hint">add photo</span>
-                        <a href="#" class="team-linkedin" aria-label="Jaivijay Paswan on LinkedIn" target="_blank" rel="noopener">
-                          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"/></svg>
-                        </a>
                         <span class="status"></span>
           </div>
           <div class="body">
@@ -337,9 +334,6 @@ include __DIR__ . '/header.php';
             <picture><source srcset="team/photos/tanmay.webp" type="image/webp"><img src="team/photos/tanmay.jpg" alt="Tanmay — Graphic Designer at rankfyno" loading="lazy"/></picture>
                         <span class="initials">TM</span>
                         <span class="photo-hint">add photo</span>
-                        <a href="#" class="team-linkedin" aria-label="Tanmay on LinkedIn" target="_blank" rel="noopener">
-                          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"/></svg>
-                        </a>
                         <span class="status"></span>
           </div>
           <div class="body">
@@ -540,9 +534,6 @@ include __DIR__ . '/header.php';
             <picture><source srcset="team/photos/kishan-yadav.webp" type="image/webp"><img src="team/photos/kishan-yadav.jpg" alt="Kishan Yadav — YouTube SEO Specialist at rankfyno" loading="lazy"/></picture>
                         <span class="initials">KY</span>
                         <span class="photo-hint">add photo</span>
-                        <a href="#" class="team-linkedin" aria-label="Kishan Yadav on LinkedIn" target="_blank" rel="noopener">
-                          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"/></svg>
-                        </a>
                         <span class="status"></span>
           </div>
           <div class="body">
