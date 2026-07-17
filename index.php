@@ -237,7 +237,7 @@ include __DIR__ . '/header.php';
             <span class="service-tag">Link</span>
             <span class="service-tag">GEO</span>
           </div>
-          <a href="seo/india/" class="arrow-cta" data-cursor-hover>
+          <a href="seo/india/" class="arrow-cta" data-cursor-hover aria-label="Explore local SEO services in India">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>
@@ -305,10 +305,60 @@ include __DIR__ . '/header.php';
             <span class="service-tag">Video</span>
             <span class="service-tag">Podcast</span>
           </div>
-          <a href="#" class="arrow-cta" data-cursor-hover>
+          <a href="youtube-marketing/india/haryana/" class="arrow-cta" data-cursor-hover aria-label="Explore YouTube marketing services in Haryana">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================
+       Specialist practices / internal hubs
+       ========================= -->
+  <section id="practices">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow"><span class="dot"></span> Specialist practices</span>
+          <h2 class="display">Where we <span class="gradient-text">go deep.</span></h2>
+        </div>
+        <p class="lede">Focused practices with dedicated teams, playbooks, and coverage — from hyper-local district SEO to B2B SaaS pipelines.</p>
+      </div>
+
+      <div class="pricing-grid reveal-stagger" style="margin-top: 60px;">
+        <a href="seo/india/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 01</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">Local SEO agency in India</h3>
+            <p class="price-desc" style="margin-bottom: 0;">City and district-level local SEO across 28 states — Gurugram, Mumbai, Bengaluru, Lucknow and beyond.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore local SEO in India →</span>
+        </a>
+        <a href="seo-agency-in-india/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 02</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">National SEO agency in India</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Nationwide organic growth for ambitious Indian brands — technical SEO, content architecture, and authority.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">See our national SEO practice →</span>
+        </a>
+        <a href="seo-services/saas-seo/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 03</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">SaaS SEO agency for B2B software</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Product-led, PLG-aware organic growth that compounds into trials, demos, and qualified pipeline.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore SaaS SEO services →</span>
+        </a>
+        <a href="youtube-marketing/india/haryana/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 04</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">YouTube marketing agency in Haryana</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Channel growth, video SEO, Shorts, thumbnails, and YouTube Ads across all 22 Haryana districts.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore YouTube marketing in Haryana →</span>
+        </a>
       </div>
     </div>
   </section>

@@ -541,6 +541,54 @@ include $base_path . 'header.php';
     </div>
   </section>
 
+  <!-- Related services (YouTube cross-link) -->
+  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow"><span class="dot"></span> Related services in Haryana</span>
+          <h2 class="display">Pair search with <span class="gradient-text">video.</span></h2>
+        </div>
+        <p class="lede">Search captures demand that already exists; YouTube creates it. Many Haryana clients run both together.</p>
+      </div>
+
+      <div class="pricing-grid reveal-stagger" style="margin-top: 60px;">
+        <a href="<?php echo $base_path; ?>youtube-marketing/india/haryana/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 01</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">YouTube marketing agency in Haryana</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Channel growth, video SEO, Shorts, thumbnails, and YouTube Ads across all 22 Haryana districts.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">YouTube marketing in Haryana →</span>
+        </a>
+        <a href="<?php echo $base_path; ?>youtube-marketing/india/haryana/gurugram/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 02</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">YouTube marketing agency in Gurugram</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Video marketing for Haryana's biggest commercial hub — corporate, SaaS, real estate, and D2C brands.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">YouTube marketing in Gurugram →</span>
+        </a>
+        <a href="<?php echo $base_path; ?>seo-agency-in-india/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 03</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">National SEO agency in India</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Scaling past Haryana? Nationwide organic growth for ambitious Indian brands.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">National SEO in India →</span>
+        </a>
+        <a href="<?php echo $base_path; ?>seo-services/saas-seo/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 04</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">SaaS SEO agency for B2B software</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Product-led organic growth for the software companies clustered across Gurugram and Cyber City.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">SaaS SEO services →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
   <!-- FAQ Section -->
   <section id="faq" style="padding: 80px 0; border-top: 1px solid var(--border);">
     <div class="container">

@@ -521,6 +521,54 @@ include $base_path . 'header.php';
     </div>
   </section>
 
+  <!-- Related services (YouTube cross-link) -->
+  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow"><span class="dot"></span> Related services in Kaithal</span>
+          <h2 class="display">Pair search with <span class="gradient-text">video.</span></h2>
+        </div>
+        <p class="lede">Search captures demand that already exists; YouTube creates it. Many Kaithal clients run both together.</p>
+      </div>
+
+      <div class="pricing-grid reveal-stagger" style="margin-top: 60px;">
+        <a href="../../../../youtube-marketing/india/haryana/kaithal/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 01</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">YouTube marketing agency in Kaithal</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Channel growth, video SEO, Shorts, and YouTube Ads for Kaithal businesses — Wheat and rice trade, Mustard and oil, Cooperative credit societies and Local retail and services.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">YouTube marketing in Kaithal →</span>
+        </a>
+        <a href="../../../../youtube-marketing/india/haryana/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 02</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">YouTube marketing across Haryana</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Video marketing coverage for local businesses in all 22 Haryana districts.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">All Haryana YouTube marketing →</span>
+        </a>
+        <a href="../../../../seo-agency-in-india/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 03</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">National SEO agency in India</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Ready to scale past Kaithal? Nationwide organic growth for ambitious Indian brands.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">National SEO in India →</span>
+        </a>
+        <a href="../../../../seo-services/saas-seo/" class="price-card" data-tilt data-cursor-hover style="padding: 36px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <span class="price-name">/ 04</span>
+            <h3 style="margin-top: 12px; margin-bottom: 8px;">SaaS SEO agency for B2B software</h3>
+            <p class="price-desc" style="margin-bottom: 0;">Product-led organic growth for software companies — trials, demos, and compounding pipeline.</p>
+          </div>
+          <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">SaaS SEO services →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
   <!-- FAQ Section -->
   <section id="faq" style="padding: 80px 0; border-top: 1px solid var(--border);">
     <div class="container">

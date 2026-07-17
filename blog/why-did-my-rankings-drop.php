@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'Why did my rankings drop? A 7-step recovery checklist — rankfyno';
 $page_description = "Lost rankings on Google? Use this triage process to figure out whether it's an algorithm update, a technical issue, or competitor movement — and how to recover.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/why-did-my-rankings-drop" />

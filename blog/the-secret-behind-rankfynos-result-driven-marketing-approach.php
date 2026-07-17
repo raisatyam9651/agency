@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'The Secret Behind RankFyno&apos;s Result-Driven Marketing Approach — rankfyno';
 $page_description = "The principles, habits, and disciplines that make RankFyno consistently deliver measurable business results.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/the-secret-behind-rankfynos-result-driven-marketing-approach" />

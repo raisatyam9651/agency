@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../../../';
-$page_title = "Local SEO agency in Puducherry - Rankfyno";
+$page_title = "Local SEO agency in Puducherry City - Rankfyno";
 $page_description = "rankfyno is a local SEO agency in Puducherry. We engineer GBP, citation, on-page and content SEO for Puducherry businesses — state capital it corridors · corporate services · education hubs · fintech & startups. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"keywords\" content=\"SEO agency Puducherry, SEO company Puducherry, Puducherry SEO services, local SEO Puducherry, technical SEO, content SEO, rankfyno SEO\" />

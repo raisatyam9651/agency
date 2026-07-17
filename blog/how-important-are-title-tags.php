@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How important are title tags? Still #1 in 2026 — rankfyno';
 $page_description = "Title tags remain the single highest-leverage on-page element. What makes a title tag earn clicks in a crowded SERP, with examples.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-important-are-title-tags" />

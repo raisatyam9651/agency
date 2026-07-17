@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'What is keyword density? The 2026 answer — rankfyno';
 $page_description = "The 2% rule is dead. What keyword density actually means in 2026, why stuffing hurts, and how to think about keyword usage without over-optimizing.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/what-is-keyword-density" />

@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How RankFyno Helps Businesses Build Authority in Their Industry — rankfyno';
 $page_description = "The authority-building playbook RankFyno uses to make clients the reference point their competitors cite.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-rankfyno-helps-businesses-build-authority-in-their-industry" />

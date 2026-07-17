@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How RankFyno Combines SEO, Ads & AI for Maximum Growth — rankfyno';
 $page_description = "The integrated SEO + paid media + AI stack RankFyno runs to deliver compounding growth that paid-only or organic-only can&apos;t match.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-rankfyno-combines-seo-ads-and-ai-for-maximum-growth" />

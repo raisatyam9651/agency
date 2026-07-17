@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How RankFyno Helps Businesses Scale Faster with Data-Driven Marketing — rankfyno';
 $page_description = "The data infrastructure and decision-making discipline RankFyno uses to make every marketing dollar accountable.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-rankfyno-helps-businesses-scale-faster-with-data-driven-marketing" />

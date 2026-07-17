@@ -1,12 +1,14 @@
 <?php
 $base_path = '../../';
-$page_title = "Local SEO agency in Saas Seo - Rankfyno";
+$page_title = "SaaS SEO Agency for B2B Software - Rankfyno";
 $page_description = "rankfyno is a SaaS SEO agency built for B2B software companies. We engineer product-led, PLG-aware, intent-driven organic growth that turns trials, demos, and signups into a compounding pipeline.";
+// header-include.php emits rel=canonical, robots and og:url from $canonical_url —
+// setting it here instead of in $custom_head keeps exactly one canonical on the page.
+$canonical_url = "https://rankfyno.com/seo-services/saas-seo/";
+$og_image = "https://rankfyno.com/seo-services/saas-seo/images/hero.jpg";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"keywords\" content=\"SaaS SEO agency, B2B SaaS SEO, SaaS SEO services, product-led SEO, PLG SEO, programmatic SEO, SaaS content marketing, B2B SEO, rankfyno SaaS\" />
   <meta name=\"author\" content=\"rankfyno\" />
-  <meta name=\"robots\" content=\"index, follow, max-image-preview:large\" />
-  <link rel=\"canonical\" href=\"https://rankfyno.com/seo-services/saas-seo/\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SaaS SEO Agency — rankfyno\" />

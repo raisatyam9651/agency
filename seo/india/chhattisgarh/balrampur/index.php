@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../../../';
-$page_title = "Local SEO agency in Balrampur - Rankfyno";
+$page_title = "Local SEO agency in Balrampur, Chhattisgarh - Rankfyno";
 $page_description = "rankfyno is a local SEO agency in Balrampur. We engineer GBP, citation, on-page and content SEO for Balrampur businesses — forest produce & bamboo crafts · tribal handicrafts · ecotourism · local healthcare. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"keywords\" content=\"SEO agency Balrampur, SEO company Balrampur, Balrampur SEO services, local SEO Balrampur, technical SEO, content SEO, rankfyno SEO\" />

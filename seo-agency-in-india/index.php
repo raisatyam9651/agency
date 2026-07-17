@@ -1,7 +1,12 @@
 <?php
 $base_path = '../';
-$page_title = "Local SEO agency in India - Rankfyno";
-$page_description = "rankfyno — India's premium SEO agency. Technical SEO, content, and authority building for ambitious Indian brands. Hub-and-spoke across 28 states and 22 Haryana districts.";
+$page_title = "National SEO Agency in India for Brands - Rankfyno";
+$page_description = "rankfyno is a national SEO agency for ambitious Indian brands. Technical SEO, content architecture, and authority building engineered for nationwide organic growth across 28 states and 22 languages.";
+// header-include.php emits canonical + OG/Twitter from these; do not repeat them in $custom_head.
+$canonical_url = "https://rankfyno.com/seo-agency-in-india/";
+$custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
+  <meta name=\"author\" content=\"rankfyno\" />
+  <meta name=\"twitter:site\" content=\"@rankfyno\" />";
 $footer_brand_desc = "A premium digital marketing studio for ambitious brands. Engineering organic growth across India and the world since 2018.";
 $custom_footer_cols = "<div class=\"footer-col\">
           <h5>Capabilities</h5>
@@ -127,7 +132,7 @@ include $base_path . 'header.php';
       </div>
 
       <h1 class="display">
-        <div class="word"><span class="char">L</span><span class="char">o</span><span class="char">c</span><span class="char">a</span><span class="char">l</span></div>
+        <div class="word"><span class="char">N</span><span class="char">a</span><span class="char">t</span><span class="char">i</span><span class="char">o</span><span class="char">n</span><span class="char">a</span><span class="char">l</span></div>
         <div class="word"><span class="char">S</span><span class="char">E</span><span class="char">O</span></div>
         <div class="word"><span class="char gradient-text">a</span><span class="char gradient-text">g</span><span class="char gradient-text">e</span><span class="char gradient-text">n</span><span class="char gradient-text">c</span><span class="char gradient-text">y</span></div>
         <div class="word"><span class="char">i</span><span class="char">n</span></div>

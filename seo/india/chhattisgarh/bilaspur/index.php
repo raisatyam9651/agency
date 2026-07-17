@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../../../';
-$page_title = "Local SEO agency in Bilaspur - Rankfyno";
+$page_title = "Local SEO agency in Bilaspur, Chhattisgarh - Rankfyno";
 $page_description = "rankfyno is a local SEO agency in Bilaspur. We engineer GBP, citation, on-page and content SEO for Bilaspur businesses — state capital it corridors · corporate services · education hubs · fintech & startups. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"keywords\" content=\"SEO agency Bilaspur, SEO company Bilaspur, Bilaspur SEO services, local SEO Bilaspur, technical SEO, content SEO, rankfyno SEO\" />

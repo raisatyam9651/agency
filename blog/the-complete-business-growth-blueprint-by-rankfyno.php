@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'The Complete Business Growth Blueprint by RankFyno — rankfyno';
 $page_description = "The full RankFyno growth blueprint: positioning, demand generation, conversion, and retention — integrated into one system.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/the-complete-business-growth-blueprint-by-rankfyno" />

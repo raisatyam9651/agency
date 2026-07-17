@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'Why is my website not ranking? 8 reasons and how to fix them — rankfyno';
 $page_description = "If your site won't rank on Google, one of these 8 causes is usually responsible. A practical diagnostic guide for site owners and marketers.";
 $custom_head = '
   <meta name="robots" content="index, follow, max-image-preview:large" />

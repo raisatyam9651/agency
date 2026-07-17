@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'Why Businesses Across Industries Choose RankFyno — rankfyno';
 $page_description = "The principles behind RankFyno&apos;s cross-industry effectiveness — and why ambitious brands in any category hire us.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/why-businesses-across-industries-choose-rankfyno" />

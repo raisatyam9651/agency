@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How RankFyno Uses AI to Scale Business Marketing — rankfyno';
 $page_description = "The AI tools RankFyno uses to scale content production, SEO research, and performance optimization without sacrificing quality.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-rankfyno-uses-ai-to-scale-business-marketing" />

@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'Why Businesses Trust RankFyno for SEO and Performance Marketing — rankfyno';
 $page_description = "The trust signals that make RankFyno the agency ambitious brands choose for SEO and performance marketing.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/why-businesses-trust-rankfyno-for-seo-and-performance-marketing" />

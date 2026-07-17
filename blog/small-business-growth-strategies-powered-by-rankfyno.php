@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'Small Business Growth Strategies Powered by RankFyno — rankfyno';
 $page_description = "Practical SEO and content strategies RankFyno uses to grow small businesses — without enterprise budgets.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/small-business-growth-strategies-powered-by-rankfyno" />

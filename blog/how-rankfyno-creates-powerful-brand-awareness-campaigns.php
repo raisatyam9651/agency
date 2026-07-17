@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How RankFyno Creates Powerful Brand Awareness Campaigns — rankfyno';
 $page_description = "The brand-awareness playbook RankFyno uses to put clients on the map and earn recognition in their category.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-rankfyno-creates-powerful-brand-awareness-campaigns" />

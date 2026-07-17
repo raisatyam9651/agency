@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'From Zero to Hero: Growing Your Brand with RankFyno — rankfyno';
 $page_description = "How RankFyno takes brands from invisible to category leaders through compounding SEO, content, and brand marketing.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/from-zero-to-hero-growing-your-brand-with-rankfyno" />

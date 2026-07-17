@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'Why SEO by RankFyno Delivers Long-Term Business Growth — rankfyno';
 $page_description = "Why SEO-led growth compounds where paid-only growth stalls — and how RankFyno engineers the compounding.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/why-seo-by-rankfyno-delivers-long-term-business-growth" />

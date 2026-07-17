@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'Case Study: How RankFyno Helps Businesses Achieve Sustainable Growth — rankfyno';
 $page_description = "A representative case study showing how RankFyno&apos;s integrated approach delivers sustainable, compounding growth.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/case-study-how-rankfyno-helps-businesses-achieve-sustainable-growth" />

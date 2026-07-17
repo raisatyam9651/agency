@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How RankFyno Helps Healthcare Businesses Grow Online — rankfyno';
 $page_description = "HIPAA-aware SEO and content marketing for healthcare brands that need to grow while staying compliant.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-rankfyno-helps-healthcare-businesses-grow-online" />

@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How RankFyno Helps Businesses Generate Qualified Leads — rankfyno';
 $page_description = "The qualification framework RankFyno uses to attract, filter, and deliver leads your sales team can actually close.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-rankfyno-helps-businesses-generate-qualified-leads" />

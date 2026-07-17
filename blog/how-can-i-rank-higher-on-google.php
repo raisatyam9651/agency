@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How can I rank higher on Google? 5 pillars that actually move the needle — rankfyno';
 $page_description = "A 5-pillar framework for ranking higher on Google in 2026: content, links, technical SEO, intent, and trust. With practical steps for each.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-can-i-rank-higher-on-google" />

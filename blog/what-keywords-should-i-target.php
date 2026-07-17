@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'What keywords should I target? A practical scoring framework — rankfyno';
 $page_description = "How to pick the right keyword mix: head, body, and long-tail. With a simple scoring sheet you can use today to prioritize your content roadmap.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/what-keywords-should-i-target" />

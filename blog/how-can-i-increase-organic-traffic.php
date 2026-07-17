@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How can I increase organic traffic? 3 durable plays — rankfyno';
 $page_description = "Three reliable, compounding ways to grow organic traffic: topical depth, search-intent matching, and digital-PR backlinks. With examples.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-can-i-increase-organic-traffic" />

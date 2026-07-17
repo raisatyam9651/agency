@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../../../';
-$page_title = "Local SEO agency in Pratapgarh - Rankfyno";
+$page_title = "Local SEO agency in Pratapgarh, Rajasthan - Rankfyno";
 $page_description = "rankfyno is a local SEO agency in Pratapgarh. We engineer GBP, citation, on-page and content SEO for Pratapgarh businesses — artisanal handicrafts · handloom weaving · block prints · local trade checkposts. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->

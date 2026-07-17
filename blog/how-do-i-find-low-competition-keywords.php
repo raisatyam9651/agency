@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How do I find low-competition keywords? A free workflow — rankfyno';
 $page_description = "Where the winnable keywords hide, the metrics that actually predict difficulty, and a free workflow to find them — without paying for enterprise SEO tools.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-do-i-find-low-competition-keywords" />

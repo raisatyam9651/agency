@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'Why RankFyno Is the Best Digital Marketing Agency for Growing Businesses — rankfyno';
 $page_description = "The differentiators that make RankFyno the agency growing businesses hire when they&apos;re done with commodity marketing work.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/why-rankfyno-is-the-best-digital-marketing-agency-for-growing-businesses" />

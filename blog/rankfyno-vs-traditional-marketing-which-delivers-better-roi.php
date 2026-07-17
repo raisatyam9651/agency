@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'RankFyno vs Traditional Marketing: Which Delivers Better ROI? — rankfyno';
 $page_description = "Why RankFyno's digital approach consistently outperforms traditional advertising in measurable ROI.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/rankfyno-vs-traditional-marketing-which-delivers-better-roi" />

@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'Why Startups Need RankFyno for Digital Marketing Success — rankfyno';
 $page_description = "How RankFyno helps seed-to-Series-B startups acquire users efficiently and build the brand that gets you to Series C.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/why-startups-need-rankfyno-for-digital-marketing-success" />

@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'The Future of Digital Marketing: How RankFyno Stays Ahead — rankfyno';
 $page_description = "Where digital marketing is heading — AI search, zero-click content, signal-rich SEO — and how RankFyno is built for the future.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/the-future-of-digital-marketing-how-rankfyno-stays-ahead" />

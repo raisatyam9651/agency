@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How many pages should my website have? A sizing framework — rankfyno';
 $page_description = "There's no magic number of pages for SEO. But there is a right ratio of money pages, supporting content, and trust assets for your niche. A practical sizing guide.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-many-pages-should-my-website-have" />

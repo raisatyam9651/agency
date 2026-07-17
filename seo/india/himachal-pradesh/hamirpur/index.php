@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../../../';
-$page_title = "Local SEO agency in Hamirpur - Rankfyno";
+$page_title = "Local SEO agency in Hamirpur, Himachal Pradesh - Rankfyno";
 $page_description = "rankfyno is a local SEO agency in Hamirpur. We engineer GBP, citation, on-page and content SEO for Hamirpur businesses — private clinics & diagnostics · education centers · local retail · small manufacturing. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"keywords\" content=\"SEO agency Hamirpur, SEO company Hamirpur, Hamirpur SEO services, local SEO Hamirpur, technical SEO, content SEO, rankfyno SEO\" />

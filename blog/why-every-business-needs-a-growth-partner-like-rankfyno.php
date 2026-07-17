@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'Why Every Business Needs a Growth Partner Like RankFyno — rankfyno';
 $page_description = "Why every ambitious business benefits from a senior growth partner — and what to look for in one.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/why-every-business-needs-a-growth-partner-like-rankfyno" />

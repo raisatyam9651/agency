@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How RankFyno Turns Website Visitors Into Paying Customers — rankfyno';
 $page_description = "The conversion-rate optimization system RankFyno runs to turn more website visitors into qualified customers.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-rankfyno-turns-website-visitors-into-paying-customers" />

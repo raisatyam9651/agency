@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How do I optimize my homepage? A 2026 checklist — rankfyno';
 $page_description = "Homepage SEO is different from blog SEO. The signals Google weighs, the elements to nail, and the common traps to avoid.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-do-i-optimize-my-homepage" />

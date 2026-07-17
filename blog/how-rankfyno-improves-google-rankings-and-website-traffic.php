@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = 'How RankFyno Improves Google Rankings and Website Traffic — rankfyno';
 $page_description = "The technical and content work RankFyno does to lift Google rankings and compound organic traffic month over month.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/how-rankfyno-improves-google-rankings-and-website-traffic" />

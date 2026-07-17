@@ -1,7 +1,7 @@
 <?php
 $base_path = '../';
 $current_page = 'blog';
-$page_title = 'Local SEO agency in Blog - Rankfyno';
+$page_title = '2026 India SEO Benchmarks: CTR, Costs, Time-to-Rank, and ROI — rankfyno';
 $page_description = "India-specific 2026 SEO benchmarks: average CTR by position, SEO retainer costs in INR, time-to-rank by vertical, and ROI ranges. Original analysis from 200+ India engagements.";
 $custom_head = '
   <link rel="canonical" href="https://rankfyno.com/blog/2026-india-seo-benchmarks" />

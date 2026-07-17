@@ -1,6 +1,6 @@
 <?php
 $base_path = '../../../../';
-$page_title = "Local SEO agency in Lakshadweep - Rankfyno";
+$page_title = "Local SEO agency for the Lakshadweep Islands - Rankfyno";
 $page_description = "rankfyno is a local SEO agency in Lakshadweep. We engineer GBP, citation, on-page and content SEO for Lakshadweep businesses — bangaram & agatti coral reef resorts · water sports & scuba diving packages · boutique hospitality · heritage tourism · adventure activities. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta name=\"keywords\" content=\"SEO agency Lakshadweep, SEO company Lakshadweep, Lakshadweep SEO services, local SEO Lakshadweep, technical SEO, content SEO, rankfyno SEO\" />

@@ -120,11 +120,11 @@ $base_path = isset($base_path) ? $base_path : '';
           <div class="footer-col">
             <h5>Capabilities</h5>
             <ul>
-              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Performance Marketing</a></li>
-              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>SEO &amp; Organic</a></li>
-              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Brand &amp; Identity</a></li>
-              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>AI Marketing</a></li>
-              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Web &amp; Product</a></li>
+              <li><a href="<?php echo $base_path; ?>seo/india/" data-cursor-hover>Local SEO services in India</a></li>
+              <li><a href="<?php echo $base_path; ?>seo-agency-in-india/" data-cursor-hover>National SEO agency in India</a></li>
+              <li><a href="<?php echo $base_path; ?>seo-services/saas-seo/" data-cursor-hover>SaaS SEO for B2B software</a></li>
+              <li><a href="<?php echo $base_path; ?>youtube-marketing/india/haryana/" data-cursor-hover>YouTube marketing in Haryana</a></li>
+              <li><a href="<?php echo ($base_path ?: './') . '#services'; ?>" data-cursor-hover>Performance marketing &amp; AI</a></li>
             </ul>
           </div>
           <div class="footer-col">
