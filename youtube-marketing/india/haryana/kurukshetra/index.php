@@ -110,10 +110,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
 $footer_brand_desc = "YouTube marketing engineered for Kurukshetra businesses - channel growth, video SEO, and paid video that turns watch-time into leads.";
 $custom_footer_cols = "<div class=\"footer-col\"><h5>YouTube services</h5><ul><li><a href=\"../../../../contact.php\" data-cursor-hover>Channel setup and branding</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>Video SEO</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>Thumbnails and packaging</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>Shorts strategy</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>YouTube Ads</a></li></ul></div>
         <div class=\"footer-col\"><h5>Haryana</h5><ul><li><a href=\"../\" data-cursor-hover>All Haryana districts</a></li><li><a href=\"../../\" data-cursor-hover>YouTube marketing in India</a></li><li><a href=\"../../../../seo/india/haryana/kurukshetra/\" data-cursor-hover>SEO in Kurukshetra</a></li></ul></div>
-        <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../../index.php#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../../team.php\" data-cursor-hover>Team</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>";
-include $base_path . 'header.php';
-?>
-<style>
+        <div class=\"footer-col\"><h5>Studio</h5><ul><li><a href=\"../../../../index.php#work\" data-cursor-hover>Selected work</a></li><li><a href=\"../../../../team.php\" data-cursor-hover>Team</a></li><li><a href=\"../../../../contact.php\" data-cursor-hover>Contact</a></li></ul></div>\n<style>
 /* =============================================================
    YouTube Marketing pages - scoped styles (.ytm namespace)
    Reuses site design tokens (--accent, --ink-0, --bg-*, Space Grotesk)
@@ -139,8 +136,8 @@ include $base_path . 'header.php';
 .ytm-player { border-radius: 18px; overflow: hidden; border: 1px solid var(--line-strong); background: var(--bg-1); box-shadow: 0 30px 70px -30px rgba(15,15,20,0.35); }
 .ytm-player-screen { position: relative; aspect-ratio: 16 / 9; background:
     radial-gradient(120% 120% at 30% 20%, #2a2a33 0%, #14141a 55%, #0c0c11 100%); }
-.ytm-player-screen::after { content: ""; position: absolute; inset: 0;
-    background: repeating-linear-gradient(115deg, rgba(255,255,255,0.03) 0 2px, transparent 2px 26px); }
+.ytm-player-screen::after { content: \"\"; position: absolute; inset: 0;
+    background: repeating-linear-gradient(115deg, rgba(255,255,255,0.03) 0, rgba(255,255,255,0.03) 2px, transparent 2px, transparent 26px); }
 .ytm-play { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);
     width: 74px; height: 74px; border-radius: 50%; background: var(--yt-red); display: grid; place-items: center;
     box-shadow: 0 12px 34px -6px rgba(255,45,45,0.65); z-index: 2; transition: transform .35s var(--ease); }
@@ -227,7 +224,9 @@ include $base_path . 'header.php';
 }
 @media (max-width: 560px) { .ytm-loc-grid { grid-template-columns: 1fr; } }
 
-</style>
+</style>";
+include $base_path . 'header.php';
+?>
 <main class="ytm">
 
   <!-- Hero -->
