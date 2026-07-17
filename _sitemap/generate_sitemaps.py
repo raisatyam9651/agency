@@ -18,6 +18,14 @@ from datetime import date
 from pathlib import Path
 from xml.sax.saxutils import escape
 
+# The progress output below uses "✓", which a cp1252 Windows console cannot encode —
+# without this the run dies on its first print, after sitemap.xml is already written
+# but before the rest, leaving the set half-regenerated.
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except (AttributeError, OSError):
+    pass
+
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
@@ -48,10 +56,18 @@ CATEGORIES = [
         "walker_type": "directory",
     },
     {
+        "slug": "youtube",
+        "folder": "youtube-marketing",
+        "walker_type": "directory",
+    },
+    {
         "slug": "blog",
         "folder": "blog",
         "walker_type": "flat_files",
-        "skip_files": ["index.php"],
+        # index.php is the paginated blog hub at /blog/ — a real indexable page,
+        # so it belongs here. read_canonical() rejects its concatenated canonical
+        # and the path-derived /blog/ is used instead.
+        "skip_files": [],
     },
 ]
 
@@ -80,13 +96,32 @@ def file_to_url_path(rel_to_root: Path) -> str:
 
 
 def read_canonical(file: Path) -> str | None:
+    """
+    Pull a literal canonical out of the page source, or None to fall back to the
+    path-derived URL.
+
+    This greps unrendered PHP, so a match is only usable if it is already a plain
+    URL. Two cases must return None rather than a bogus loc:
+      - blog/index.php builds its canonical by concatenation:
+        href="' . $canonical . '"  -> would capture   ' . $canonical . '
+      - pages that set $canonical_url instead of emitting the tag have no match.
+    Pages that hold the tag inside $custom_head write it escaped (rel=\"canonical\"),
+    which CANONICAL_RE does not match either — all of these fall back correctly.
+    """
     try:
         with file.open("r", encoding="utf-8", errors="ignore") as fh:
             head = fh.read(16_000)
     except OSError:
         return None
     m = CANONICAL_RE.search(head)
-    return m.group(1).strip() if m else None
+    if not m:
+        return None
+    val = m.group(1).strip()
+    if not val.startswith(BASE):
+        return None
+    if any(ch in val for ch in ("$", "'", '"', " ", "<", ">")):
+        return None
+    return val
 
 
 def is_noindex(file: Path) -> bool:
@@ -98,13 +133,53 @@ def is_noindex(file: Path) -> bool:
     return bool(NOINDEX_RE.search(head))
 
 
+def _build_git_lastmod_map() -> dict:
+    """
+    slug -> date of the last commit that touched it, for every tracked file.
+
+    Walking `git log` newest-first means the first commit mentioning a path is
+    that path's last change; one subprocess beats ~800 individual `git log` calls.
+    Preferred over mtime: a fresh clone or checkout stamps every file with the
+    checkout time, which would tell Google the whole site changed at once.
+    """
+    import subprocess
+    try:
+        raw = subprocess.run(
+            ["git", "log", "--pretty=format:C|%cd", "--date=short", "--name-only"],
+            cwd=ROOT, capture_output=True, timeout=120,
+        ).stdout.decode("utf-8", "ignore")
+    except Exception:
+        return {}
+    out, cur = {}, None
+    for line in raw.split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        if line.startswith("C|"):
+            cur = line[2:]
+        elif cur:
+            out.setdefault(line, cur)
+    return out
+
+
+_GIT_LASTMOD = None
+
+
 def file_lastmod_iso(file: Path) -> str:
-    """Use the file's actual mtime so Google sees real update signals."""
+    """Date of the file's last commit; falls back to mtime, then today."""
+    global _GIT_LASTMOD
+    if _GIT_LASTMOD is None:
+        _GIT_LASTMOD = _build_git_lastmod_map()
+    try:
+        rel = file.resolve().relative_to(ROOT).as_posix()
+    except ValueError:
+        rel = None
+    if rel and rel in _GIT_LASTMOD:
+        return _GIT_LASTMOD[rel]
     try:
         import os
-        mtime = os.path.getmtime(file)
         from datetime import datetime
-        return datetime.fromtimestamp(mtime).date().isoformat()
+        return datetime.fromtimestamp(os.path.getmtime(file)).date().isoformat()
     except OSError:
         return TODAY
 
@@ -196,13 +271,18 @@ def write_urlset(path: Path, entries: list[tuple]) -> None:
     path.write_text("".join(lines), encoding="utf-8")
 
 
-def write_sitemap_index(path: Path, sitemap_files: list[str]) -> None:
+def write_sitemap_index(path: Path, sitemap_files: list[str], lastmods: dict) -> None:
+    """
+    Each child is stamped with the newest lastmod it actually contains, not
+    TODAY — stamping every child on every run claims the whole site changed
+    each time the script is run, and Google learns to distrust the signal.
+    """
     body = ['<?xml version="1.0" encoding="UTF-8"?>\n',
             '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n']
     for fname in sitemap_files:
         body.append("  <sitemap>\n")
         body.append(f"    <loc>{BASE}/{fname}</loc>\n")
-        body.append(f"    <lastmod>{TODAY}</lastmod>\n")
+        body.append(f"    <lastmod>{lastmods.get(fname, TODAY)}</lastmod>\n")
         body.append("  </sitemap>\n")
     body.append("</sitemapindex>\n")
     path.write_text("".join(body), encoding="utf-8")
@@ -229,6 +309,10 @@ def main() -> int:
     # 2. Per-category sitemaps
     sitemap_index_entries: list[str] = ["sitemap.xml"]
     total_urls = len(root_entries)
+    # newest lastmod per sitemap file, for the index
+    index_lastmods: dict = {
+        "sitemap.xml": max((lm for _, lm in root_entries), default=TODAY)
+    }
 
     for cat in CATEGORIES:
         folder = ROOT / cat["folder"]
@@ -245,11 +329,12 @@ def main() -> int:
         out_name = f"{cat['slug']}-sitemap.xml"
         write_urlset(ROOT / out_name, entries)
         sitemap_index_entries.append(out_name)
+        index_lastmods[out_name] = max((lm for _, lm in entries), default=TODAY)
         total_urls += len(entries)
         print(f"  ✓ {out_name:<22} ({len(entries)} URLs)")
 
     # 3. Sitemap index
-    write_sitemap_index(ROOT / "sitemap-index.xml", sitemap_index_entries)
+    write_sitemap_index(ROOT / "sitemap-index.xml", sitemap_index_entries, index_lastmods)
     print(f"  ✓ sitemap-index.xml    ({len(sitemap_index_entries)} sitemaps registered)")
     print(f"Done. {total_urls} total URLs across {len(sitemap_index_entries)} sitemaps.")
     return 0
