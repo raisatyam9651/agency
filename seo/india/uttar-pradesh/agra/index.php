@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Agra - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Agra. We engineer GBP, citation, on-page and content SEO for Agra businesses — spiritual tourism · cultural heritage · hospitality services · local trade. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Agra. We engineer GBP, citation, on-page and content SEO for Agra businesses — leather footwear exports · taj-corridor hospitality · marble inlay craft · petha sweets trade. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Agra, SEO company Agra, Agra SEO services, local SEO Agra, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Agra — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Agra — engineered to rank your business on Google. Spiritual tourism · cultural heritage · hospitality services · local trade.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Agra — engineered to rank your business on Google. Leather footwear exports · Taj-corridor hospitality · marble inlay craft · petha sweets trade.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/agra/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does tourism SEO help local businesses?\",
+        \"name\": \"How do I get my Hing ki Mandi footwear unit found by bulk buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It captures tourists searching for accommodations, dining, shopping, and tours in real-time, sending high-intent leads straight to you.\"
+          \"text\": \"Build indexable pages per shoe category with material, sizing and minimum order detail, then support them with a complete business profile. Bulk buyers search by product type long before they call.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Can you rank my hotel globally for overseas travelers?\",
+        \"name\": \"Can a small marble inlay workshop compete with the big Agra emporiums?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We implement multi-region optimizations, clean travel schema, and target international search keywords.\"
+          \"text\": \"Yes, on specificity. Emporiums chase broad terms; a workshop can own inlay technique, stone type and custom commission queries that larger sites treat as an afterthought.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"My hotel is near the Taj East Gate but does not show on Maps. Why?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Usually category, proximity signals and review depth rather than the website. Landmark-anchored profiles with consistent address data and steady recent reviews surface far more reliably.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is SEO worth it for a petha shop that mostly sells to tourists?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Tourists search before arriving and order online after leaving. Pages covering shipping, variants and gift packs capture both windows, which walk-in trade alone cannot.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">A</span><span class="char outline-text">g</span><span class="char outline-text">r</span><span class="char outline-text">a</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Agra on Google for high-intent local searches. Spiritual tourism · cultural heritage · hospitality services · local trade.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Agra on Google for high-intent local searches. Leather footwear exports · Taj-corridor hospitality · marble inlay craft · petha sweets trade.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Agra</span>
-          <h2 class="display">Spiritual tourism · cultural heritage · hospitality services · local trade</h2>
+          <h2 class="display">Leather footwear exports · Taj-corridor hospitality · marble inlay craft · petha sweets trade</h2>
         </div>
-        <p class="lede">SEO in Agra isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Agra search splits two ways: visitors hunting hotels, guides and marble emporiums near the Taj, and buyers sourcing footwear from Hing ki Mandi and Sanjay Place. Both start on Maps, not homepages.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Spiritual & heritage searches</h4>
-            <p>We optimize your hotel, travel agency, or retail shop to rank for the massive tourist and devotee search traffic visiting UP's historic centers.</p>
+            <h4>Footwear buyer intent</h4>
+            <p>Agra is UP ODOP leather footwear. Wholesale and export queries arrive as product plus MOQ plus city, so category pages built around shoe types and order terms outrank thin brochure sites.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Local maps pack visibility</h4>
-            <p>Positioning your hospitality business at the top of the local 3-pack for highly competitive tourist-intent queries.</p>
+            <h4>Taj corridor visibility</h4>
+            <p>Hotels, guides and emporiums live or die on Maps rankings for Taj-adjacent searches. Photo cadence, review velocity and accurate service areas move the local pack more than blog volume.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Voice & mobile tourist queries</h4>
-            <p>Tourists search on-the-go. We implement specialized Schema structures and fast page speeds to capture immediate mobile searches.</p>
+            <h4>Marble inlay authority</h4>
+            <p>Pietra dura and marble handicraft buyers compare workshops before travelling. Craft process pages, artisan provenance and material detail win the long research queries that precede a showroom visit.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>High-value travel links</h4>
-            <p>Securing editorial link mentions from global travel portals, lifestyle channels, and regional news networks.</p>
+            <h4>Petha and sweets search</h4>
+            <p>Agra petha carries genuine national brand search. Gifting, shipping and festival queries convert well when delivery zones, variants and packaging are spelled out on indexable pages.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Aligarh</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Regional commercial hubs · university networks · professional service providers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Lock and hardware manufacturing · brass fittings · AMU academic economy · builder hardware</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ambedkar Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Tanda powerloom textiles · handloom weaving · Akbarpur trade centre · agri and rice processing</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Amethi</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Moonj grass craft · Gauriganj administrative hub · Jagdishpur industrial belt · agrarian trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Amroha</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Dholak musical instruments · mango orchards · handloom weaving · Hasanpur agri trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does tourism SEO help local businesses?
+            How do I get my Hing ki Mandi footwear unit found by bulk buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It captures tourists searching for accommodations, dining, shopping, and tours in real-time, sending high-intent leads straight to you.</div>
+            <div class="faq-a-inner">Build indexable pages per shoe category with material, sizing and minimum order detail, then support them with a complete business profile. Bulk buyers search by product type long before they call.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Can you rank my hotel globally for overseas travelers?
+            Can a small marble inlay workshop compete with the big Agra emporiums?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We implement multi-region optimizations, clean travel schema, and target international search keywords.</div>
+            <div class="faq-a-inner">Yes, on specificity. Emporiums chase broad terms; a workshop can own inlay technique, stone type and custom commission queries that larger sites treat as an afterthought.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            My hotel is near the Taj East Gate but does not show on Maps. Why?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Usually category, proximity signals and review depth rather than the website. Landmark-anchored profiles with consistent address data and steady recent reviews surface far more reliably.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Is SEO worth it for a petha shop that mostly sells to tourists?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Tourists search before arriving and order online after leaving. Pages covering shipping, variants and gift packs capture both windows, which walk-in trade alone cannot.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Agra.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Agra who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Operating a premium hotel near the Ayodhya temple, ranking on Google was critical. rankfyno optimized our hotel schemas, updated our maps listing, and doubled our direct bookings in 4 months."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">AS</div>
-              <div>
-                <div class="testimonial-name">Aditya Shrivastav</div>
-                <div class="testimonial-role">General Manager, Heritage Inn · Ayodhya</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

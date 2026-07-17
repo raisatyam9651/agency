@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Gorakhpur - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Gorakhpur. We engineer GBP, citation, on-page and content SEO for Gorakhpur businesses — regional commercial hubs · university networks · professional service providers. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Gorakhpur. We engineer GBP, citation, on-page and content SEO for Gorakhpur businesses — terracotta craft · gorakhnath temple footfall · aiims medical belt · rail and fertiliser hub. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Gorakhpur, SEO company Gorakhpur, Gorakhpur SEO services, local SEO Gorakhpur, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Gorakhpur — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Gorakhpur — engineered to rank your business on Google. Regional commercial hubs · university networks · professional service providers.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Gorakhpur — engineered to rank your business on Google. Terracotta craft · Gorakhnath temple footfall · AIIMS medical belt · rail and fertiliser hub.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/gorakhpur/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How do you target educational admissions queries?\",
+        \"name\": \"Can local SEO help my terracotta unit reach buyers outside Gorakhpur?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"We build parent-focused content, implement school listings schemas, and manage localized maps optimization to capture course enrollment queries.\"
+          \"text\": \"Yes. Terracotta buyers usually search by product and craft name rather than by district, so we build pages that rank for those product queries while keeping your Gorakhpur origin as a trust signal.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"What is the cost of administrative center local SEO?\",
+        \"name\": \"I run a guest house near Gorakhnath Temple. What actually drives bookings?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Our retainers start at ₹30,000/month for Local, ₹65,000/month for Growth, and custom for enterprise setups.\"
+          \"text\": \"Visibility in map results for temple-area stay searches, correct distance and landmark details, and steady reviews. Most pilgrim bookings start on a phone within a short radius of the temple.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"How do clinics near AIIMS Gorakhpur get found by out-of-town patients?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Patients and attendants search for services close to the hospital they are visiting. We optimise your listing for those proximity queries and make timings, directions and phone contact obvious.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is search worth it for a small trading business near the junction?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Usually yes. Business buyers in Gorakhpur increasingly check a supplier online before calling, so a clear, well-ranked listing often decides who gets the first enquiry.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">G</span><span class="char outline-text">o</span><span class="char outline-text">r</span><span class="char outline-text">a</span><span class="char outline-text">k</span><span class="char outline-text">h</span><span class="char outline-text">p</span><span class="char outline-text">u</span><span class="char outline-text">r</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Gorakhpur on Google for high-intent local searches. Regional commercial hubs · university networks · professional service providers.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Gorakhpur on Google for high-intent local searches. Terracotta craft · Gorakhnath temple footfall · AIIMS medical belt · rail and fertiliser hub.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Gorakhpur</span>
-          <h2 class="display">Regional commercial hubs · university networks · professional service providers</h2>
+          <h2 class="display">Terracotta craft · Gorakhnath temple footfall · AIIMS medical belt · rail and fertiliser hub</h2>
         </div>
-        <p class="lede">SEO in Gorakhpur isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Gorakhpur searches split between pilgrims heading to Gorakhnath Temple, patients travelling in for AIIMS and BRD Medical College, and traders around the railway junction - each group searches with completely different intent and language.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Institutional enrollment SEO</h4>
-            <p>We rank universities, schools, and coaching networks for high-volume academic search queries to drive registrations.</p>
+            <h4>Terracotta craft discovery</h4>
+            <p>Gorakhpur terracotta is the district ODOP, and its potters sell to buyers who search by product type, not by village. We build category pages that catch craft-buyer and export-enquiry queries.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Professional service visibility</h4>
-            <p>We optimize clinics, lawyers, and consultancies to rank #1 for local resident searches in UP's major hubs.</p>
+            <h4>Pilgrim and visitor intent</h4>
+            <p>Gorakhnath Temple and the Khichdi Mela pull visitors who search for stays, food and transport days before arriving. Hotels and cab operators need pages that rank ahead of that travel window, not during it.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Sector-targeted GBP campaigns</h4>
-            <p>Correcting location errors, category pins, and verifying map profiles to ensure direct resident contact.</p>
+            <h4>Medical corridor searches</h4>
+            <p>AIIMS Gorakhpur and BRD Medical College draw patients from across Purvanchal and nearby Bihar. Diagnostic labs, pharmacies and lodges near the medical belt compete for attendant-driven local searches all year.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Mobile residential searches</h4>
-            <p>Over 80% of regional searches are mobile. We optimize for fast page loads, local maps, and local directories.</p>
+            <h4>Rail junction commerce</h4>
+            <p>Gorakhpur Junction and the North Eastern Railway headquarters anchor a large service and trading economy. We target the practical queries logistics firms, suppliers and repair services actually receive around the junction.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Hamirpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Footwear and shoe craft · Yamuna-Betwa sand trade · pulses mandis · Kanpur-corridor transport</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Hapur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Steel pipe and tube making · Garhmukteshwar pilgrimage · papad processing · NCR-edge logistics</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Hardoi</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Handloom weaving · sugarcane and sugar mills · Sandila laddu · Lucknow-corridor trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Hathras</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Asafoetida (hing) trade · spice processing · colour and chemical units · Aligarh-Agra corridor</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How do you target educational admissions queries?
+            Can local SEO help my terracotta unit reach buyers outside Gorakhpur?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">We build parent-focused content, implement school listings schemas, and manage localized maps optimization to capture course enrollment queries.</div>
+            <div class="faq-a-inner">Yes. Terracotta buyers usually search by product and craft name rather than by district, so we build pages that rank for those product queries while keeping your Gorakhpur origin as a trust signal.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            What is the cost of administrative center local SEO?
+            I run a guest house near Gorakhnath Temple. What actually drives bookings?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Our retainers start at ₹30,000/month for Local, ₹65,000/month for Growth, and custom for enterprise setups.</div>
+            <div class="faq-a-inner">Visibility in map results for temple-area stay searches, correct distance and landmark details, and steady reviews. Most pilgrim bookings start on a phone within a short radius of the temple.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            How do clinics near AIIMS Gorakhpur get found by out-of-town patients?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Patients and attendants search for services close to the hospital they are visiting. We optimise your listing for those proximity queries and make timings, directions and phone contact obvious.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Is search worth it for a small trading business near the junction?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Usually yes. Business buyers in Gorakhpur increasingly check a supplier online before calling, so a clear, well-ranked listing often decides who gets the first enquiry.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Gorakhpur.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Gorakhpur who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"rankfyno took over local SEO for our multi-specialty hospital in Lucknow. Their local page optimization and review acquisition program grew our monthly organic patient bookings by 2.2×."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">SV</div>
-              <div>
-                <div class="testimonial-name">Dr. Sandeep Verma</div>
-                <div class="testimonial-role">Director, Awadh Healthcare · Lucknow</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

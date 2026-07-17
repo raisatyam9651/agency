@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Shahjahanpur - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Shahjahanpur. We engineer GBP, citation, on-page and content SEO for Shahjahanpur businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Shahjahanpur. We engineer GBP, citation, on-page and content SEO for Shahjahanpur businesses — sugarcane belt sugar mills · grain mandis · dairy and farm trade · cantonment education town. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Shahjahanpur, SEO company Shahjahanpur, Shahjahanpur SEO services, local SEO Shahjahanpur, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Shahjahanpur — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Shahjahanpur — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Shahjahanpur — engineered to rank your business on Google. Sugarcane belt sugar mills · grain mandis · dairy and farm trade · cantonment education town.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/shahjahanpur/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"How do agri traders in Shahjahanpur get more enquiries online?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"We build pages around cane, seed, and mandi keywords and improve your Maps ranking so farmers and buyers searching for a nearby supplier reach your business directly.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"Can a sugar or food-processing unit here reach wholesale buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Yes. We target bulk supply and product-specific searches and strengthen your listings so distributors and retailers looking for a Shahjahanpur supplier find you online.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Will local SEO help my clinic or shop in Shahjahanpur city?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It will. Most residents search before visiting, so an accurate Google Business profile and location page help you win nearby customers ahead of larger competitors.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do you serve businesses in Tilhar, Jalalabad, and rural blocks?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We do. We create block and town-level pages so customers searching from smaller towns across Shahjahanpur district can find your services close to home.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">S</span><span class="char outline-text">h</span><span class="char outline-text">a</span><span class="char outline-text">h</span><span class="char outline-text">j</span><span class="char outline-text">a</span><span class="char outline-text">h</span><span class="char outline-text">a</span><span class="char outline-text">n</span><span class="char outline-text">p</span><span class="char outline-text">u</span><span class="char outline-text">r</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Shahjahanpur on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Shahjahanpur on Google for high-intent local searches. Sugarcane belt sugar mills · grain mandis · dairy and farm trade · cantonment education town.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Shahjahanpur</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Sugarcane belt sugar mills · grain mandis · dairy and farm trade · cantonment education town</h2>
         </div>
-        <p class="lede">SEO in Shahjahanpur isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Shahjahanpur runs on cane and agri trade, so when a farmer looks for a sugar-mill supplier, a seed dealer, or a nearby clinic, the winner is the business that shows up in local Google search and Maps for that need.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Cane and sugar supply chain</h4>
+            <p>From mill suppliers to jaggery and cane-input dealers, we target the agri-trade searches Shahjahanpur growers and buyers use, so your firm appears for real sourcing needs, not vague terms.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Agri input and mandi trade</h4>
+            <p>Seed, fertiliser, tractor, and grain-mandi businesses get location pages and listings that rank when farmers across the district search for a trusted nearby dealer.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Town retail and services</h4>
+            <p>Clinics, coaching centres, showrooms, and repair services in Shahjahanpur city get mapped for near-me searches so residents and cantonment families find you first.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Dairy and food processing</h4>
+            <p>For dairies, cold stores, and food units, we build pages around the exact products and bulk supply terms wholesale and retail buyers in the region search for.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Shamli</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugarcane and jaggery · sugar and paper mills · Kairana Kandhla trade · agro-industry</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Shrawasti</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Buddhist pilgrim tourism · Sravasti heritage · paddy and farm trade · Bhinga market town</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Siddharthnagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Kalanamak scented rice · Kapilvastu Buddhist site · paddy agro trade · Nepal-border commerce</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Sitapur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Durrie and carpet weaving · Naimisharanya pilgrimage · sugarcane trade · Khairabad craft</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            How do agri traders in Shahjahanpur get more enquiries online?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">We build pages around cane, seed, and mandi keywords and improve your Maps ranking so farmers and buyers searching for a nearby supplier reach your business directly.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            Can a sugar or food-processing unit here reach wholesale buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Yes. We target bulk supply and product-specific searches and strengthen your listings so distributors and retailers looking for a Shahjahanpur supplier find you online.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Will local SEO help my clinic or shop in Shahjahanpur city?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It will. Most residents search before visiting, so an accurate Google Business profile and location page help you win nearby customers ahead of larger competitors.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do you serve businesses in Tilhar, Jalalabad, and rural blocks?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We do. We create block and town-level pages so customers searching from smaller towns across Shahjahanpur district can find your services close to home.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Shahjahanpur.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Shahjahanpur who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

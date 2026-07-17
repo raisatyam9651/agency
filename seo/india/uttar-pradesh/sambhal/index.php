@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Sambhal - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Sambhal. We engineer GBP, citation, on-page and content SEO for Sambhal businesses — artisanal exporters · brassware industries · carpet exporters · wood carvers. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Sambhal. We engineer GBP, citation, on-page and content SEO for Sambhal businesses — horn-and-bone craft · mentha oil trade · chandausi grain mandis · agro small industry. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Sambhal, SEO company Sambhal, Sambhal SEO services, local SEO Sambhal, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Sambhal — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Sambhal — engineered to rank your business on Google. Artisanal exporters · brassware industries · carpet exporters · wood carvers.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Sambhal — engineered to rank your business on Google. Horn-and-bone craft · mentha oil trade · Chandausi grain mandis · agro small industry.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/sambhal/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you work with craft exporters seeking B2B buyers?\",
+        \"name\": \"How do Sambhal handicraft units get more export enquiries online?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.\"
+          \"text\": \"We target the exact horn-and-bone and inlay artware terms importers search, then strengthen your Maps profile and product pages so wholesale and export buyers reach you directly.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"How long does it take to rank for craft exports?\",
+        \"name\": \"Can you help a mentha oil trader in Sambhal reach buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.\"
+          \"text\": \"Yes. We build pages around mentha oil, menthol, and bulk supply keywords and improve local ranking so distillers and buyers across the mint belt find your firm.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do you work with small shops in Chandausi and Sambhal town?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We do. Retailers, clinics, and coaching centres get accurate Google Business listings and location pages so nearby customers searching on their phone choose you first.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"How long before a Sambhal business sees search results?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Local Maps improvements often show within weeks, while competitive product and export keywords usually build over a few months of steady content and citation work.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">S</span><span class="char outline-text">a</span><span class="char outline-text">m</span><span class="char outline-text">b</span><span class="char outline-text">h</span><span class="char outline-text">a</span><span class="char outline-text">l</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Sambhal on Google for high-intent local searches. Artisanal exporters · brassware industries · carpet exporters · wood carvers.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Sambhal on Google for high-intent local searches. Horn-and-bone craft · mentha oil trade · Chandausi grain mandis · agro small industry.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Sambhal</span>
-          <h2 class="display">Artisanal exporters · brassware industries · carpet exporters · wood carvers</h2>
+          <h2 class="display">Horn-and-bone craft · mentha oil trade · Chandausi grain mandis · agro small industry</h2>
         </div>
-        <p class="lede">SEO in Sambhal isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Buyers sourcing Sambhal horn-and-bone artware or bulk mentha oil usually begin on Google Maps and search, so a local exporter or menthol trader is found by ranking for the exact product and mandi terms people type.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Export trade visibility</h4>
-            <p>We rank your export business globally, connecting your brassware, carpets, or wood carvings directly with international importers.</p>
+            <h4>Horn-and-bone export reach</h4>
+            <p>We optimise product pages for the carved horn, bone, and inlay artware Sambhal ships, targeting the wholesale and export search terms that importers and gift buyers actually use.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Artisanal keyword optimization</h4>
-            <p>We target specialized high-value keywords to capture queries for authentic, handmade regional crafts.</p>
+            <h4>Mentha and menthol trade</h4>
+            <p>Sambhal sits in Uttar Pradesh mint country, so we help oil distillers and traders rank for mentha oil, menthol crystal, and bulk supply searches from across India.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>High-domain PR backlinks</h4>
-            <p>Acquiring editorial links from international design portals, home decor magazines, and national B2B export directories.</p>
+            <h4>Chandausi mandi visibility</h4>
+            <p>For grain, sugar, and commodity traders around Chandausi, we build local listings and pages that surface your firm when nearby buyers search for a specific mandi supplier.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Bilingual trade maps</h4>
-            <p>Mapping bulk purchase intent queries to connect you with retail chains and wholesale buyers nationwide.</p>
+            <h4>Local service near you</h4>
+            <p>Coaching centres, clinics, and shops across Sambhal town and Chandausi get mapped for near-me searches, so residents find you before a chain outlet from another district does.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Sant Kabir Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Brass utensil craft · Khalilabad trade · Maghar pilgrim tourism · paddy and agro trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Shahjahanpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugarcane belt sugar mills · grain mandis · dairy and farm trade · cantonment education town</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Shamli</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugarcane and jaggery · sugar and paper mills · Kairana Kandhla trade · agro-industry</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Shrawasti</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Buddhist pilgrim tourism · Sravasti heritage · paddy and farm trade · Bhinga market town</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you work with craft exporters seeking B2B buyers?
+            How do Sambhal handicraft units get more export enquiries online?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.</div>
+            <div class="faq-a-inner">We target the exact horn-and-bone and inlay artware terms importers search, then strengthen your Maps profile and product pages so wholesale and export buyers reach you directly.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How long does it take to rank for craft exports?
+            Can you help a mentha oil trader in Sambhal reach buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.</div>
+            <div class="faq-a-inner">Yes. We build pages around mentha oil, menthol, and bulk supply keywords and improve local ranking so distillers and buyers across the mint belt find your firm.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do you work with small shops in Chandausi and Sambhal town?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We do. Retailers, clinics, and coaching centres get accurate Google Business listings and location pages so nearby customers searching on their phone choose you first.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            How long before a Sambhal business sees search results?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Local Maps improvements often show within weeks, while competitive product and export keywords usually build over a few months of steady content and citation work.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Sambhal.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Sambhal who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Our brassware export house in Moradabad was relying entirely on offline fairs. rankfyno optimized our product directories and ranked us globally. We secured three major importers from Europe in 6 months."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">AA</div>
-              <div>
-                <div class="testimonial-name">Amit Agarwal</div>
-                <div class="testimonial-role">Founder, Moradabad Artisans Export · Moradabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Ayodhya - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Ayodhya. We engineer GBP, citation, on-page and content SEO for Ayodhya businesses — spiritual tourism · cultural heritage · hospitality services · local trade. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Ayodhya. We engineer GBP, citation, on-page and content SEO for Ayodhya businesses — temple pilgrimage economy · faizabad trade market · jaggery and gur · religious goods retail. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Ayodhya, SEO company Ayodhya, Ayodhya SEO services, local SEO Ayodhya, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Ayodhya — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Ayodhya — engineered to rank your business on Google. Spiritual tourism · cultural heritage · hospitality services · local trade.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Ayodhya — engineered to rank your business on Google. Temple pilgrimage economy · Faizabad trade market · jaggery and gur · religious goods retail.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/ayodhya/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does tourism SEO help local businesses?\",
+        \"name\": \"My guesthouse depends on pilgrims. Where should I focus?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It captures tourists searching for accommodations, dining, shopping, and tours in real-time, sending high-intent leads straight to you.\"
+          \"text\": \"Your Maps profile, primarily. Visitors compare photos, distance and recent reviews on mobile, so profile quality decides bookings long before anyone reads your website.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Can you rank my hotel globally for overseas travelers?\",
+        \"name\": \"How far ahead do visitors actually search?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We implement multi-region optimizations, clean travel schema, and target international search keywords.\"
+          \"text\": \"Usually days to weeks before travel. That planning window is where stays and transport get chosen, so being visible early beats competing on the day of arrival.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"I run a shop in the Faizabad market, not near the temple. Does that change SEO?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes. Your customers are residents, not pilgrims, so target everyday local service searches and locality terms rather than pilgrimage keywords that never convert for you.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Can prasad and puja goods sellers get orders after visitors leave?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Often yes. Visitors who return home search by name for what they bought, so pages covering variants, packing and dispatch capture that follow-up demand.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">A</span><span class="char outline-text">y</span><span class="char outline-text">o</span><span class="char outline-text">d</span><span class="char outline-text">h</span><span class="char outline-text">y</span><span class="char outline-text">a</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Ayodhya on Google for high-intent local searches. Spiritual tourism · cultural heritage · hospitality services · local trade.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Ayodhya on Google for high-intent local searches. Temple pilgrimage economy · Faizabad trade market · jaggery and gur · religious goods retail.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Ayodhya</span>
-          <h2 class="display">Spiritual tourism · cultural heritage · hospitality services · local trade</h2>
+          <h2 class="display">Temple pilgrimage economy · Faizabad trade market · jaggery and gur · religious goods retail</h2>
         </div>
-        <p class="lede">SEO in Ayodhya isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Ayodhya search is dominated by visitors planning trips - stays, transport, darshan logistics and prasad. Nearly all of it happens on mobile, days ahead of arrival, and lands on Maps first.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Spiritual & heritage searches</h4>
-            <p>We optimize your hotel, travel agency, or retail shop to rank for the massive tourist and devotee search traffic visiting UP's historic centers.</p>
+            <h4>Pilgrim planning intent</h4>
+            <p>Visitors search accommodation, transport and timings before travelling. Pages answering distance, access and practical logistics capture demand while it is still being planned, not after arrival.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Local maps pack visibility</h4>
-            <p>Positioning your hospitality business at the top of the local 3-pack for highly competitive tourist-intent queries.</p>
+            <h4>Hospitality Maps race</h4>
+            <p>Hotels, guesthouses and dharamshalas compete almost entirely inside the local pack. Photo freshness, category precision and review velocity outrank long-form content for these searches every time.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Voice & mobile tourist queries</h4>
-            <p>Tourists search on-the-go. We implement specialized Schema structures and fast page speeds to capture immediate mobile searches.</p>
+            <h4>Faizabad market trade</h4>
+            <p>The Faizabad side carries the district commercial base. Everyday retail and services need locality-anchored pages, since search there behaves like ordinary town trade, not pilgrimage.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>High-value travel links</h4>
-            <p>Securing editorial link mentions from global travel portals, lifestyle channels, and regional news networks.</p>
+            <h4>Ritual goods and gur</h4>
+            <p>Prasad, puja items and Ayodhya jaggery draw gifting and dispatch queries. Clear pages on variants, packing and delivery turn visitor interest into repeat orders later.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Azamgarh</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Black pottery of Nizamabad · Mubarakpur silk weaving · Gorakhpur road trade · education demand</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Baghpat</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Home furnishings weaving · sugarcane and jaggery belt · Yamuna farmland · NCR fringe trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Bahraich</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Wheat-stalk craft · sugar and cane belt · Nepal border trade · Katarniaghat forest tourism</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ballia</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Bindi manufacturing · Ganga-Ghaghara confluence · rice and cereal mandis · Bihar border trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does tourism SEO help local businesses?
+            My guesthouse depends on pilgrims. Where should I focus?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It captures tourists searching for accommodations, dining, shopping, and tours in real-time, sending high-intent leads straight to you.</div>
+            <div class="faq-a-inner">Your Maps profile, primarily. Visitors compare photos, distance and recent reviews on mobile, so profile quality decides bookings long before anyone reads your website.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Can you rank my hotel globally for overseas travelers?
+            How far ahead do visitors actually search?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We implement multi-region optimizations, clean travel schema, and target international search keywords.</div>
+            <div class="faq-a-inner">Usually days to weeks before travel. That planning window is where stays and transport get chosen, so being visible early beats competing on the day of arrival.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            I run a shop in the Faizabad market, not near the temple. Does that change SEO?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Yes. Your customers are residents, not pilgrims, so target everyday local service searches and locality terms rather than pilgrimage keywords that never convert for you.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Can prasad and puja goods sellers get orders after visitors leave?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Often yes. Visitors who return home search by name for what they bought, so pages covering variants, packing and dispatch capture that follow-up demand.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Ayodhya.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Ayodhya who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Operating a premium hotel near the Ayodhya temple, ranking on Google was critical. rankfyno optimized our hotel schemas, updated our maps listing, and doubled our direct bookings in 4 months."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">AS</div>
-              <div>
-                <div class="testimonial-name">Aditya Shrivastav</div>
-                <div class="testimonial-role">General Manager, Heritage Inn · Ayodhya</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

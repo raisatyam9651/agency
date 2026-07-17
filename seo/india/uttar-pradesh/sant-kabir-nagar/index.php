@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Sant Kabir Nagar - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Sant Kabir Nagar. We engineer GBP, citation, on-page and content SEO for Sant Kabir Nagar businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Sant Kabir Nagar. We engineer GBP, citation, on-page and content SEO for Sant Kabir Nagar businesses — brass utensil craft · khalilabad trade · maghar pilgrim tourism · paddy and agro trade. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Sant Kabir Nagar, SEO company Sant Kabir Nagar, Sant Kabir Nagar SEO services, local SEO Sant Kabir Nagar, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Sant Kabir Nagar — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Sant Kabir Nagar — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Sant Kabir Nagar — engineered to rank your business on Google. Brass utensil craft · Khalilabad trade · Maghar pilgrim tourism · paddy and agro trade.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/sant-kabir-nagar/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"How can a Khalilabad brassware unit find more wholesale buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"We build product pages around brass and metal utensil keywords and strengthen your Google profile so bulk buyers, retailers, and traders searching online reach your workshop directly.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"Can tourism businesses near Maghar improve their online bookings?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Yes. Lodges and eateries near the Kabir shrine get mapped for pilgrim and near-me searches, so visitors arriving at Maghar find and choose your place easily.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do you help farm-input and rice trade businesses in this district?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We do. Seed, fertiliser, and rice-mill firms get local pages and listings so growers and buyers around Khalilabad find you when they search for a nearby supplier.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is local SEO worth it for a small Sant Kabir Nagar shop?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It usually is. Most residents search on their phones before visiting, so an accurate listing and location page help you win customers before larger district rivals do.\"
         }
       },
       {
@@ -228,7 +244,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">N</span><span class="char outline-text">a</span><span class="char outline-text">g</span><span class="char outline-text">a</span><span class="char outline-text">r</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Sant Kabir Nagar on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Sant Kabir Nagar on Google for high-intent local searches. Brass utensil craft · Khalilabad trade · Maghar pilgrim tourism · paddy and agro trade.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -388,38 +404,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Sant Kabir Nagar</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Brass utensil craft · Khalilabad trade · Maghar pilgrim tourism · paddy and agro trade</h2>
         </div>
-        <p class="lede">SEO in Sant Kabir Nagar isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">A pilgrim searching for a stay near Maghar, or a buyer sourcing Khalilabad brassware, turns to Google first, so shops, dharamshalas, and metal units in Sant Kabir Nagar are discovered through precise local and product-led search.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Maghar pilgrim footfall</h4>
+            <p>Maghar draws visitors to the Kabir Das shrine year round; we help nearby lodges, eateries, and shops rank for pilgrim and tourist searches tied to the town.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Brassware buyer reach</h4>
+            <p>For Khalilabad brass and metal utensil makers, we target wholesale, puja-ware, and bulk order keywords so traders and retailers across states find your workshop online.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Agri and mandi trade</h4>
+            <p>Paddy, rice mills, and farm-input dealers get location pages and listings that surface your business when growers and buyers in the district search for a nearby supplier.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Bakhira and local tourism</h4>
+            <p>Near Bakhira Lake and its bird sanctuary, guesthouses and guides gain visibility for eco-tourism and weekend-trip searches from Gorakhpur and Basti travellers.</p>
           </div>
         </div>
       </div>
@@ -500,7 +516,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Shahjahanpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugarcane belt sugar mills · grain mandis · dairy and farm trade · cantonment education town</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -508,7 +524,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Shamli</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugarcane and jaggery · sugar and paper mills · Kairana Kandhla trade · agro-industry</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -516,7 +532,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Shrawasti</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Buddhist pilgrim tourism · Sravasti heritage · paddy and farm trade · Bhinga market town</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -524,7 +540,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Siddharthnagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Kalanamak scented rice · Kapilvastu Buddhist site · paddy agro trade · Nepal-border commerce</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -553,20 +569,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            How can a Khalilabad brassware unit find more wholesale buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">We build product pages around brass and metal utensil keywords and strengthen your Google profile so bulk buyers, retailers, and traders searching online reach your workshop directly.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            Can tourism businesses near Maghar improve their online bookings?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Yes. Lodges and eateries near the Kabir shrine get mapped for pilgrim and near-me searches, so visitors arriving at Maghar find and choose your place easily.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do you help farm-input and rice trade businesses in this district?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We do. Seed, fertiliser, and rice-mill firms get local pages and listings so growers and buyers around Khalilabad find you when they search for a nearby supplier.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Is local SEO worth it for a small Sant Kabir Nagar shop?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It usually is. Most residents search on their phones before visiting, so an accurate listing and location page help you win customers before larger district rivals do.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -636,33 +670,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Sant Kabir Nagar.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Sant Kabir Nagar who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

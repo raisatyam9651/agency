@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Maharajganj - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Maharajganj. We engineer GBP, citation, on-page and content SEO for Maharajganj businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Maharajganj. We engineer GBP, citation, on-page and content SEO for Maharajganj businesses — wooden furniture odop · sugarcane sugar mills · nepal border trade · agro-processing. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Maharajganj, SEO company Maharajganj, Maharajganj SEO services, local SEO Maharajganj, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Maharajganj — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Maharajganj — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Maharajganj — engineered to rank your business on Google. Wooden furniture ODOP · sugarcane sugar mills · Nepal border trade · agro-processing.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/maharajganj/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"How can my Maharajganj furniture workshop get more orders online?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"List your workshop on Google with photos of beds, doors, and cabinets, target furniture and carpentry searches for nearby towns, and collect reviews so buyers across the district choose you first.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"Does local SEO help agri-suppliers in the sugarcane belt?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Yes; farmers search for seeds, equipment, and repairs by season and location, so ranking for crop-specific and nearby-town terms keeps your Maharajganj supply store visible when demand peaks.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"How do I reach cross-border customers near the Sonauli border?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Keep an accurate Google Business Profile, add clear directions and hours, and target searches from travellers heading to the Nepal crossing, so shoppers find your shop before reaching Sonauli.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is local SEO worth it for a small business in a rural district?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Absolutely; even in Maharajganj, customers check Google before visiting, so a complete profile, correct location, and steady reviews help your business win nearby-town searches that competitors ignore.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">M</span><span class="char outline-text">a</span><span class="char outline-text">h</span><span class="char outline-text">a</span><span class="char outline-text">r</span><span class="char outline-text">a</span><span class="char outline-text">j</span><span class="char outline-text">g</span><span class="char outline-text">a</span><span class="char outline-text">n</span><span class="char outline-text">j</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Maharajganj on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Maharajganj on Google for high-intent local searches. Wooden furniture ODOP · sugarcane sugar mills · Nepal border trade · agro-processing.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Maharajganj</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Wooden furniture ODOP · sugarcane sugar mills · Nepal border trade · agro-processing</h2>
         </div>
-        <p class="lede">SEO in Maharajganj isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Maharajganj furniture makers and agro-traders sell along the Sonauli route to Nepal, where buyers arrive from many small towns, so ranking for nearby-town and border-trade searches matters more here than chasing metro keywords.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Furniture workshop visibility</h4>
+            <p>Wooden-furniture workshops here supply households and shops across the district and beyond, so ranking for furniture, beds, and carpentry searches brings orders that a roadside showroom alone would never reach.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Sugarcane belt suppliers</h4>
+            <p>With sugar mills and a dense sugarcane belt, Maharajganj has steady demand for farm inputs, equipment, and repair services, so agri-suppliers gain by ranking for seasonal, crop-specific searches.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Nepal border trade</h4>
+            <p>Traders near the Sonauli crossing serve customers moving between India and Nepal, so bilingual listings and strong map presence help shops capture cross-border shoppers searching before they travel.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Small-town service demand</h4>
+            <p>In a largely rural market, everyday services from clinics to repair shops win by owning nearby-town searches, so a complete Google profile with reviews outranks word-of-mouth alone.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Mahoba</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Gaura stone craft ODOP · Desawari betel leaf · Bundelkhand granite · Chandela heritage tourism</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Mainpuri</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Tarkashi wire-inlay craft ODOP · brass and woodwork · potato farming belt · handicraft trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Mathura</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Spiritual tourism · cultural heritage · hospitality services · local trade</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sanitary fittings ODOP · Krishna pilgrimage · Mathura peda dairy · refinery and textiles</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Mau</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Powerloom saree weaving ODOP · textile trade hub · yarn and dyeing units · handloom heritage</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            How can my Maharajganj furniture workshop get more orders online?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">List your workshop on Google with photos of beds, doors, and cabinets, target furniture and carpentry searches for nearby towns, and collect reviews so buyers across the district choose you first.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            Does local SEO help agri-suppliers in the sugarcane belt?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Yes; farmers search for seeds, equipment, and repairs by season and location, so ranking for crop-specific and nearby-town terms keeps your Maharajganj supply store visible when demand peaks.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            How do I reach cross-border customers near the Sonauli border?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Keep an accurate Google Business Profile, add clear directions and hours, and target searches from travellers heading to the Nepal crossing, so shoppers find your shop before reaching Sonauli.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Is local SEO worth it for a small business in a rural district?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Absolutely; even in Maharajganj, customers check Google before visiting, so a complete profile, correct location, and steady reviews help your business win nearby-town searches that competitors ignore.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Maharajganj.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Maharajganj who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

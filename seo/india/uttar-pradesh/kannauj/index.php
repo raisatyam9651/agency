@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Kannauj - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Kannauj. We engineer GBP, citation, on-page and content SEO for Kannauj businesses — artisanal exporters · brassware industries · carpet exporters · wood carvers. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Kannauj. We engineer GBP, citation, on-page and content SEO for Kannauj businesses — itra and attar distillation · rose and kewda water · tobacco trade · ganga-belt potato farming. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Kannauj, SEO company Kannauj, Kannauj SEO services, local SEO Kannauj, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Kannauj — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Kannauj — engineered to rank your business on Google. Artisanal exporters · brassware industries · carpet exporters · wood carvers.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Kannauj — engineered to rank your business on Google. Itra and attar distillation · rose and kewda water · tobacco trade · Ganga-belt potato farming.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/kannauj/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you work with craft exporters seeking B2B buyers?\",
+        \"name\": \"How do I get my Kannauj attar business found by bulk buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.\"
+          \"text\": \"We target high-intent searches like itra wholesaler and attar manufacturer, optimise your Google Business Profile, and add product pages for kewda, rose, and mitti attar so bulk buyers reach you first.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"How long does it take to rank for craft exports?\",
+        \"name\": \"Can local SEO help my perfumery attract visitors and tourists?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.\"
+          \"text\": \"Yes. Many travellers search for Kannauj perfume workshops and attar shops before visiting. We optimise Maps listings, photos, and reviews so your distillery captures that footfall and tasting-room interest.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do you handle export enquiries for essential oils and fragrances?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We structure your site to rank for export-oriented terms and route enquiries cleanly, so Gulf and metro wholesale buyers searching for Kannauj fragrance suppliers can contact you without friction.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"I also deal in tobacco and potatoes - can you cover that too?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Absolutely. We create separate optimised pages for each product line so agro-buyers searching for Kannauj tobacco or cold-storage potatoes find the right part of your business quickly.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">K</span><span class="char outline-text">a</span><span class="char outline-text">n</span><span class="char outline-text">n</span><span class="char outline-text">a</span><span class="char outline-text">u</span><span class="char outline-text">j</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Kannauj on Google for high-intent local searches. Artisanal exporters · brassware industries · carpet exporters · wood carvers.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Kannauj on Google for high-intent local searches. Itra and attar distillation · rose and kewda water · tobacco trade · Ganga-belt potato farming.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Kannauj</span>
-          <h2 class="display">Artisanal exporters · brassware industries · carpet exporters · wood carvers</h2>
+          <h2 class="display">Itra and attar distillation · rose and kewda water · tobacco trade · Ganga-belt potato farming</h2>
         </div>
-        <p class="lede">SEO in Kannauj isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Kannauj attar houses and perfumeries get discovered when itra buyers, fragrance exporters, and rose-water wholesalers search Google Maps for local distillers - your listing must surface before Delhi and Mumbai traders capture the query.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Export trade visibility</h4>
-            <p>We rank your export business globally, connecting your brassware, carpets, or wood carvings directly with international importers.</p>
+            <h4>Attar and itra wholesale</h4>
+            <p>We optimise for the exact terms fragrance buyers type - itra wholesaler, deg-bhapka attar, kewda and rose water supplier - so your Kannauj distillery appears the moment bulk and export enquiries begin.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Artisanal keyword optimization</h4>
-            <p>We target specialized high-value keywords to capture queries for authentic, handmade regional crafts.</p>
+            <h4>Perfume heritage tourism</h4>
+            <p>Kannauj is the fragrance capital of India, and heritage-minded travellers search for attar workshops and the perfume museum. Local pages and Maps profiles turn that curiosity into tasting-room and walk-in visits.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>High-domain PR backlinks</h4>
-            <p>Acquiring editorial links from international design portals, home decor magazines, and national B2B export directories.</p>
+            <h4>Agro-trade visibility</h4>
+            <p>Beyond fragrance, Kannauj trades tobacco, menthol, and Ganga-belt potatoes. We build category pages so mandi buyers and cold-storage clients find your agro-business instead of scrolling past to a neighbouring district.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Bilingual trade maps</h4>
-            <p>Mapping bulk purchase intent queries to connect you with retail chains and wholesale buyers nationwide.</p>
+            <h4>Export enquiry capture</h4>
+            <p>Attar and essential-oil exporters lose leads to generic directories. Structured local SEO and enquiry tracking help your Kannauj brand capture Gulf and domestic wholesale requests directly through search.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kanpur Dehat</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Heavy engineering · manufacturing plants · industrial trade · logistics</p>
+            <p class="price-desc" style="margin-bottom: 0;">Aluminium utensils · wheat and pulses mandis · dairy and agro-processing · Akbarpur trade belt</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kanpur Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Heavy engineering · manufacturing plants · industrial trade · logistics</p>
+            <p class="price-desc" style="margin-bottom: 0;">Leather and footwear exports · cotton textile mills · IIT Kanpur research · defence engineering</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kasganj</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Zari-zardozi embroidery · sugarcane sugar mills · Soron Ganga ghats · Kasganj rail junction</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kaushambi</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Banana farming and trade · fruit processing · ancient Vatsa heritage · Prayagraj-belt mandis</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you work with craft exporters seeking B2B buyers?
+            How do I get my Kannauj attar business found by bulk buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.</div>
+            <div class="faq-a-inner">We target high-intent searches like itra wholesaler and attar manufacturer, optimise your Google Business Profile, and add product pages for kewda, rose, and mitti attar so bulk buyers reach you first.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How long does it take to rank for craft exports?
+            Can local SEO help my perfumery attract visitors and tourists?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.</div>
+            <div class="faq-a-inner">Yes. Many travellers search for Kannauj perfume workshops and attar shops before visiting. We optimise Maps listings, photos, and reviews so your distillery captures that footfall and tasting-room interest.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do you handle export enquiries for essential oils and fragrances?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We structure your site to rank for export-oriented terms and route enquiries cleanly, so Gulf and metro wholesale buyers searching for Kannauj fragrance suppliers can contact you without friction.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            I also deal in tobacco and potatoes - can you cover that too?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Absolutely. We create separate optimised pages for each product line so agro-buyers searching for Kannauj tobacco or cold-storage potatoes find the right part of your business quickly.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Kannauj.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Kannauj who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Our brassware export house in Moradabad was relying entirely on offline fairs. rankfyno optimized our product directories and ranked us globally. We secured three major importers from Europe in 6 months."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">AA</div>
-              <div>
-                <div class="testimonial-name">Amit Agarwal</div>
-                <div class="testimonial-role">Founder, Moradabad Artisans Export · Moradabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

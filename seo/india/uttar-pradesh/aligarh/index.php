@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Aligarh - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Aligarh. We engineer GBP, citation, on-page and content SEO for Aligarh businesses — regional commercial hubs · university networks · professional service providers. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Aligarh. We engineer GBP, citation, on-page and content SEO for Aligarh businesses — lock and hardware manufacturing · brass fittings · amu academic economy · builder hardware. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Aligarh, SEO company Aligarh, Aligarh SEO services, local SEO Aligarh, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Aligarh — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Aligarh — engineered to rank your business on Google. Regional commercial hubs · university networks · professional service providers.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Aligarh — engineered to rank your business on Google. Lock and hardware manufacturing · brass fittings · AMU academic economy · builder hardware.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/aligarh/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How do you target educational admissions queries?\",
+        \"name\": \"Buyers find us on marketplaces but not on Google. What is missing?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"We build parent-focused content, implement school listings schemas, and manage localized maps optimization to capture course enrollment queries.\"
+          \"text\": \"Marketplaces rank their own pages, not yours. A site with individual pages per lock or fitting category gives Google something to rank under your own name.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"What is the cost of administrative center local SEO?\",
+        \"name\": \"Should a brass fittings maker target Aligarh keywords or product keywords?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Our retainers start at ₹30,000/month for Local, ₹65,000/month for Growth, and custom for enterprise setups.\"
+          \"text\": \"Both, separately. Product and spec pages pull national and export buyers; a strong local profile captures nearby traders and contractors sourcing at short notice.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"How do coaching centres near AMU improve visibility?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Course-specific and locality-specific pages plus an active business profile with genuine reviews. Students search by exam name and area, rarely by institute name they do not know yet.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do hardware exporters need a different SEO approach?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes. Export queries are English, spec-heavy and comparison-driven, so pages must carry material grades, packaging and order terms rather than marketing language.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">A</span><span class="char outline-text">l</span><span class="char outline-text">i</span><span class="char outline-text">g</span><span class="char outline-text">a</span><span class="char outline-text">r</span><span class="char outline-text">h</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Aligarh on Google for high-intent local searches. Regional commercial hubs · university networks · professional service providers.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Aligarh on Google for high-intent local searches. Lock and hardware manufacturing · brass fittings · AMU academic economy · builder hardware.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Aligarh</span>
-          <h2 class="display">Regional commercial hubs · university networks · professional service providers</h2>
+          <h2 class="display">Lock and hardware manufacturing · brass fittings · AMU academic economy · builder hardware</h2>
         </div>
-        <p class="lede">SEO in Aligarh isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Aligarh trade runs on hardware sourcing queries, not brand names. Buyers search lock type, brass grade and fitting spec, while the AMU catchment drives a steady student and coaching search layer.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Institutional enrollment SEO</h4>
-            <p>We rank universities, schools, and coaching networks for high-volume academic search queries to drive registrations.</p>
+            <h4>Lock and hardware SEO</h4>
+            <p>Aligarh is UP ODOP locks and hardware. Buyers query by mechanism, finish and size rather than company name, so spec-led product pages capture demand that a single homepage never will.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Professional service visibility</h4>
-            <p>We optimize clinics, lawyers, and consultancies to rank #1 for local resident searches in UP's major hubs.</p>
+            <h4>Brass fittings sourcing</h4>
+            <p>Brass hardware buyers compare alloy, plating and tolerance before contacting anyone. Technical detail published on your own pages does the qualifying work ahead of the first enquiry.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Sector-targeted GBP campaigns</h4>
-            <p>Correcting location errors, category pins, and verifying map profiles to ensure direct resident contact.</p>
+            <h4>AMU catchment demand</h4>
+            <p>The university anchors persistent local search for hostels, coaching, printing, cafes and rentals. Locality-level pages tied to campus areas outperform generic city pages for these queries.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Mobile residential searches</h4>
-            <p>Over 80% of regional searches are mobile. We optimize for fast page loads, local maps, and local directories.</p>
+            <h4>Export enquiry capture</h4>
+            <p>Aligarh hardware moves to overseas buyers who arrive via English product searches. Clear specifications, certification detail and reachable contact paths convert far better than directory listings alone.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ambedkar Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Tanda powerloom textiles · handloom weaving · Akbarpur trade centre · agri and rice processing</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Amethi</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Moonj grass craft · Gauriganj administrative hub · Jagdishpur industrial belt · agrarian trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Amroha</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Dholak musical instruments · mango orchards · handloom weaving · Hasanpur agri trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Auraiya</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Desi ghee and dairy · Dibiyapur industrial node · Yamuna belt agriculture · Phaphund trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How do you target educational admissions queries?
+            Buyers find us on marketplaces but not on Google. What is missing?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">We build parent-focused content, implement school listings schemas, and manage localized maps optimization to capture course enrollment queries.</div>
+            <div class="faq-a-inner">Marketplaces rank their own pages, not yours. A site with individual pages per lock or fitting category gives Google something to rank under your own name.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            What is the cost of administrative center local SEO?
+            Should a brass fittings maker target Aligarh keywords or product keywords?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Our retainers start at ₹30,000/month for Local, ₹65,000/month for Growth, and custom for enterprise setups.</div>
+            <div class="faq-a-inner">Both, separately. Product and spec pages pull national and export buyers; a strong local profile captures nearby traders and contractors sourcing at short notice.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            How do coaching centres near AMU improve visibility?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Course-specific and locality-specific pages plus an active business profile with genuine reviews. Students search by exam name and area, rarely by institute name they do not know yet.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do hardware exporters need a different SEO approach?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Yes. Export queries are English, spec-heavy and comparison-driven, so pages must carry material grades, packaging and order terms rather than marketing language.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Aligarh.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Aligarh who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"rankfyno took over local SEO for our multi-specialty hospital in Lucknow. Their local page optimization and review acquisition program grew our monthly organic patient bookings by 2.2×."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">SV</div>
-              <div>
-                <div class="testimonial-name">Dr. Sandeep Verma</div>
-                <div class="testimonial-role">Director, Awadh Healthcare · Lucknow</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

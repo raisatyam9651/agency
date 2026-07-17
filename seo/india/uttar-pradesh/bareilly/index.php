@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Bareilly - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Bareilly. We engineer GBP, citation, on-page and content SEO for Bareilly businesses — artisanal exporters · brassware industries · carpet exporters · wood carvers. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Bareilly. We engineer GBP, citation, on-page and content SEO for Bareilly businesses — zari-zardozi embroidery · furniture trade · bamboo and cane craft · rohilkhand commercial hub. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Bareilly, SEO company Bareilly, Bareilly SEO services, local SEO Bareilly, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Bareilly — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Bareilly — engineered to rank your business on Google. Artisanal exporters · brassware industries · carpet exporters · wood carvers.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Bareilly — engineered to rank your business on Google. Zari-zardozi embroidery · furniture trade · bamboo and cane craft · Rohilkhand commercial hub.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/bareilly/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you work with craft exporters seeking B2B buyers?\",
+        \"name\": \"Is Bareilly competitive for local search?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.\"
+          \"text\": \"More than most UP districts, since it is Rohilkhand's commercial centre. That makes Maps fundamentals - correct categories, real photos and steady reviews - the deciding factors rather than optional extras.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"How long does it take to rank for craft exports?\",
+        \"name\": \"How do zari and zardozi buyers find workshops here?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.\"
+          \"text\": \"By searching the embroidery style and the garment they need, not by business name. A page built around your specific craft and work types matches that intent directly.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Can my Bareilly furniture shop get customers from nearby districts?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Often, since Bareilly pulls buyers from across Rohilkhand. We target that regional intent while making sure your Maps listing and photos hold up against city competitors.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do I need a website or is a Maps listing enough?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"For local retail, a strong listing carries most of the load. A website matters once you want to rank for product searches or sell beyond your immediate catchment.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">B</span><span class="char outline-text">a</span><span class="char outline-text">r</span><span class="char outline-text">e</span><span class="char outline-text">i</span><span class="char outline-text">l</span><span class="char outline-text">l</span><span class="char outline-text">y</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Bareilly on Google for high-intent local searches. Artisanal exporters · brassware industries · carpet exporters · wood carvers.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Bareilly on Google for high-intent local searches. Zari-zardozi embroidery · furniture trade · bamboo and cane craft · Rohilkhand commercial hub.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Bareilly</span>
-          <h2 class="display">Artisanal exporters · brassware industries · carpet exporters · wood carvers</h2>
+          <h2 class="display">Zari-zardozi embroidery · furniture trade · bamboo and cane craft · Rohilkhand commercial hub</h2>
         </div>
-        <p class="lede">SEO in Bareilly isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Bareilly is Rohilkhand's main commercial city, so searches here are genuinely competitive - buyers compare several sellers on Maps before calling, and review depth often decides the click.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Export trade visibility</h4>
-            <p>We rank your export business globally, connecting your brassware, carpets, or wood carvings directly with international importers.</p>
+            <h4>Zari-zardozi buyer search</h4>
+            <p>Bareilly is long associated with zari and zardozi work. Buyers search by embroidery type and garment rather than by workshop name, so craft-specific pages capture the real demand.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Artisanal keyword optimization</h4>
-            <p>We target specialized high-value keywords to capture queries for authentic, handmade regional crafts.</p>
+            <h4>Rohilkhand regional pull</h4>
+            <p>Bareilly draws customers from across Rohilkhand for goods and services smaller towns lack. Targeting the regional catchment alongside the city widens reach beyond municipal boundaries.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>High-domain PR backlinks</h4>
-            <p>Acquiring editorial links from international design portals, home decor magazines, and national B2B export directories.</p>
+            <h4>Furniture and wood trade</h4>
+            <p>The city has an established furniture and wood market. These buyers browse visually and compare on Maps, so photo-rich listings and clear price positioning matter more than long copy.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Bilingual trade maps</h4>
-            <p>Mapping bulk purchase intent queries to connect you with retail chains and wholesale buyers nationwide.</p>
+            <h4>Competitive Maps ranking</h4>
+            <p>As a large city, Bareilly has real competition in local packs. Category accuracy, review velocity and consistent business details decide placement far more than keyword stuffing does.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Basti</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Wood craft · sugar mill and cane belt · rice and paddy trade · Gorakhpur-corridor services</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Bhadohi</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Hand-knotted carpets · Carpet City exports · dhurrie and rug looms · Ganga-belt trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Bijnor</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugar mills and cane belt · Ganga-bank agriculture · wood craft ODOP · Najibabad trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Badaun</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Zari-zardozi embroidery · mentha oil belt · Ganga-plain farming · historic mosque-town trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you work with craft exporters seeking B2B buyers?
+            Is Bareilly competitive for local search?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.</div>
+            <div class="faq-a-inner">More than most UP districts, since it is Rohilkhand's commercial centre. That makes Maps fundamentals - correct categories, real photos and steady reviews - the deciding factors rather than optional extras.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How long does it take to rank for craft exports?
+            How do zari and zardozi buyers find workshops here?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.</div>
+            <div class="faq-a-inner">By searching the embroidery style and the garment they need, not by business name. A page built around your specific craft and work types matches that intent directly.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Can my Bareilly furniture shop get customers from nearby districts?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Often, since Bareilly pulls buyers from across Rohilkhand. We target that regional intent while making sure your Maps listing and photos hold up against city competitors.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do I need a website or is a Maps listing enough?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">For local retail, a strong listing carries most of the load. A website matters once you want to rank for product searches or sell beyond your immediate catchment.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Bareilly.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Bareilly who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Our brassware export house in Moradabad was relying entirely on offline fairs. rankfyno optimized our product directories and ranked us globally. We secured three major importers from Europe in 6 months."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">AA</div>
-              <div>
-                <div class="testimonial-name">Amit Agarwal</div>
-                <div class="testimonial-role">Founder, Moradabad Artisans Export · Moradabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

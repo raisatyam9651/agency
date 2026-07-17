@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Kanpur Dehat - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Kanpur Dehat. We engineer GBP, citation, on-page and content SEO for Kanpur Dehat businesses — heavy engineering · manufacturing plants · industrial trade · logistics. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Kanpur Dehat. We engineer GBP, citation, on-page and content SEO for Kanpur Dehat businesses — aluminium utensils · wheat and pulses mandis · dairy and agro-processing · akbarpur trade belt. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Kanpur Dehat, SEO company Kanpur Dehat, Kanpur Dehat SEO services, local SEO Kanpur Dehat, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Kanpur Dehat — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Kanpur Dehat — engineered to rank your business on Google. Heavy engineering · manufacturing plants · industrial trade · logistics.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Kanpur Dehat — engineered to rank your business on Google. Aluminium utensils · wheat and pulses mandis · dairy and agro-processing · Akbarpur trade belt.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/kanpur-dehat/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"Can you help my factory rank for wholesale bulk contracts?\",
+        \"name\": \"How can my aluminium utensil unit reach more buyers online?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we specialize in B2B catalog structures, raw materials schemas, and wholesale keyword ranking campaigns across North India.\"
+          \"text\": \"We optimise for searches like aluminium bartan manufacturer and utensil wholesaler, strengthen your Google Business Profile, and add product pages so both retail and bulk buyers across the region find you.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize Google Business Profiles for industrial zones?\",
+        \"name\": \"My business gets mixed up with Kanpur city listings - can you fix that?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we verify listings, manage map coordinates, and upload geotagged warehouse photos to guarantee map indexation.\"
+          \"text\": \"Yes. We add clear Kanpur Dehat location signals, service-area definitions, and district-specific content so search engines place you correctly instead of grouping you with Kanpur Nagar firms.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Can you help my grain and pulses trading business get found?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We build pages targeting grain wholesaler, dal mill, and mandi supplier searches, so farmers and retailers looking for Kanpur Dehat agri-traders reach you rather than a directory listing.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is local SEO worth it for a rural dairy or flour mill?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Definitely. Even rural buyers search Maps for nearby dairy and atta suppliers. A well-optimised profile with reviews and directions turns those local searches into regular customers.\"
         }
       },
       {
@@ -227,7 +243,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">D</span><span class="char outline-text">e</span><span class="char outline-text">h</span><span class="char outline-text">a</span><span class="char outline-text">t</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Kanpur Dehat on Google for high-intent local searches. Heavy engineering · manufacturing plants · industrial trade · logistics.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Kanpur Dehat on Google for high-intent local searches. Aluminium utensils · wheat and pulses mandis · dairy and agro-processing · Akbarpur trade belt.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -387,38 +403,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Kanpur Dehat</span>
-          <h2 class="display">Heavy engineering · manufacturing plants · industrial trade · logistics</h2>
+          <h2 class="display">Aluminium utensils · wheat and pulses mandis · dairy and agro-processing · Akbarpur trade belt</h2>
         </div>
-        <p class="lede">SEO in Kanpur Dehat isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Kanpur Dehat runs on aluminium utensil workshops and farm-mandi trade, so local businesses get discovered when buyers search for vessel manufacturers, grain wholesalers, or dairy suppliers near Akbarpur instead of defaulting to nearby Kanpur city.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>B2B wholesale queries</h4>
-            <p>We rank your industrial manufacturing or logistics plant for high-intent wholesale keywords to connect you with bulk buyers across India.</p>
+            <h4>Aluminium utensil trade</h4>
+            <p>Kanpur Dehat is known for aluminium vessels and utensils. We help workshops and wholesalers rank for bartan manufacturer and aluminium utensil supplier searches so retail and bulk buyers find them directly.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>NAP map packet audits</h4>
-            <p>Resolving duplicate local pins in congested industrial sectors (Okhla, Dada Nagar, Unnao) to build consistent search signals.</p>
+            <h4>Agri-mandi visibility</h4>
+            <p>Wheat, pulses, and oilseed traders depend on buyers who search online for grain wholesalers and mandi rates. We build local pages that put your Kanpur Dehat mandi business in front of them.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Route & logistics targeting</h4>
-            <p>We compile programmatic cargo route pages to drive freight and warehousing contract requests directly to you.</p>
+            <h4>Standing apart from Kanpur city</h4>
+            <p>Searches often collapse into Kanpur Nagar. We use precise location signals and district-specific pages so your rural Kanpur Dehat business is not buried under city listings.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Bilingual trade terms</h4>
-            <p>Trading communities search in Hindi and Hinglish. We optimize bilingual metadata to capture maximum local trade volume.</p>
+            <h4>Dairy and agro-processing</h4>
+            <p>Dairy units, flour mills, and cold storages serve a wide rural belt. Optimised profiles and service-area pages help nearby farmers and retailers find and contact you quickly.</p>
           </div>
         </div>
       </div>
@@ -499,7 +515,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kanpur Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Heavy engineering · manufacturing plants · industrial trade · logistics</p>
+            <p class="price-desc" style="margin-bottom: 0;">Leather and footwear exports · cotton textile mills · IIT Kanpur research · defence engineering</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -507,7 +523,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kasganj</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Zari-zardozi embroidery · sugarcane sugar mills · Soron Ganga ghats · Kasganj rail junction</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -515,7 +531,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kaushambi</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Banana farming and trade · fruit processing · ancient Vatsa heritage · Prayagraj-belt mandis</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -523,7 +539,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kushinagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Spiritual tourism · cultural heritage · hospitality services · local trade</p>
+            <p class="price-desc" style="margin-bottom: 0;">Buddhist parinirvana site · international airport · banana-fibre craft · sugarcane sugar mills</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -552,20 +568,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Can you help my factory rank for wholesale bulk contracts?
+            How can my aluminium utensil unit reach more buyers online?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we specialize in B2B catalog structures, raw materials schemas, and wholesale keyword ranking campaigns across North India.</div>
+            <div class="faq-a-inner">We optimise for searches like aluminium bartan manufacturer and utensil wholesaler, strengthen your Google Business Profile, and add product pages so both retail and bulk buyers across the region find you.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize Google Business Profiles for industrial zones?
+            My business gets mixed up with Kanpur city listings - can you fix that?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we verify listings, manage map coordinates, and upload geotagged warehouse photos to guarantee map indexation.</div>
+            <div class="faq-a-inner">Yes. We add clear Kanpur Dehat location signals, service-area definitions, and district-specific content so search engines place you correctly instead of grouping you with Kanpur Nagar firms.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Can you help my grain and pulses trading business get found?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We build pages targeting grain wholesaler, dal mill, and mandi supplier searches, so farmers and retailers looking for Kanpur Dehat agri-traders reach you rather than a directory listing.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Is local SEO worth it for a rural dairy or flour mill?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Definitely. Even rural buyers search Maps for nearby dairy and atta suppliers. A well-optimised profile with reviews and directions turns those local searches into regular customers.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -635,33 +669,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Kanpur Dehat.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Kanpur Dehat who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Our leather export manufacturing unit in Kanpur was invisible on Google. rankfyno rebuilt our product directories and optimized our maps listing. Bulk inquiries from out-of-state grew by 3× in 90 days."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">MA</div>
-              <div>
-                <div class="testimonial-name">Mohammad Asif</div>
-                <div class="testimonial-role">Managing Director, Asif Leather Exports · Kanpur</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

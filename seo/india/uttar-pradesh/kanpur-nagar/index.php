@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Kanpur Nagar - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Kanpur Nagar. We engineer GBP, citation, on-page and content SEO for Kanpur Nagar businesses — heavy engineering · manufacturing plants · industrial trade · logistics. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Kanpur Nagar. We engineer GBP, citation, on-page and content SEO for Kanpur Nagar businesses — leather and footwear exports · cotton textile mills · iit kanpur research · defence engineering. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Kanpur Nagar, SEO company Kanpur Nagar, Kanpur Nagar SEO services, local SEO Kanpur Nagar, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Kanpur Nagar — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Kanpur Nagar — engineered to rank your business on Google. Heavy engineering · manufacturing plants · industrial trade · logistics.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Kanpur Nagar — engineered to rank your business on Google. Leather and footwear exports · cotton textile mills · IIT Kanpur research · defence engineering.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/kanpur-nagar/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"Can you help my factory rank for wholesale bulk contracts?\",
+        \"name\": \"How do I get my Kanpur leather or footwear factory more buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we specialize in B2B catalog structures, raw materials schemas, and wholesale keyword ranking campaigns across North India.\"
+          \"text\": \"We optimise for terms like leather goods manufacturer and footwear exporter, build detailed product pages, and strengthen your profile so domestic and export buyers searching Kanpur suppliers contact you directly.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize Google Business Profiles for industrial zones?\",
+        \"name\": \"There are so many similar firms in Kanpur - how do I stand out?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we verify listings, manage map coordinates, and upload geotagged warehouse photos to guarantee map indexation.\"
+          \"text\": \"We differentiate you with specific capability pages, genuine reviews, strong technical SEO, and accurate local signals so your business ranks above generic competitors for the searches that bring real enquiries.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Can local SEO help my industrial or engineering supply business?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes. We create pages for each product and service you offer so procurement buyers searching for Kanpur pumps, textiles, or machine parts find the exact page and reach your team.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"I run a clinic near IIT Kanpur - will this bring local patients?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It will. We optimise your Google Business Profile, reviews, and location pages so nearby residents and students searching for your service find and choose you over farther options.\"
         }
       },
       {
@@ -227,7 +243,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">N</span><span class="char outline-text">a</span><span class="char outline-text">g</span><span class="char outline-text">a</span><span class="char outline-text">r</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Kanpur Nagar on Google for high-intent local searches. Heavy engineering · manufacturing plants · industrial trade · logistics.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Kanpur Nagar on Google for high-intent local searches. Leather and footwear exports · cotton textile mills · IIT Kanpur research · defence engineering.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -387,38 +403,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Kanpur Nagar</span>
-          <h2 class="display">Heavy engineering · manufacturing plants · industrial trade · logistics</h2>
+          <h2 class="display">Leather and footwear exports · cotton textile mills · IIT Kanpur research · defence engineering</h2>
         </div>
-        <p class="lede">SEO in Kanpur Nagar isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Kanpur Nagar is the leather and industrial heartland of Uttar Pradesh, so tanneries, footwear exporters, and engineering firms compete hard in search - buyers looking for Jajmau leather suppliers or Kanpur machinery must find you before near-identical city rivals.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>B2B wholesale queries</h4>
-            <p>We rank your industrial manufacturing or logistics plant for high-intent wholesale keywords to connect you with bulk buyers across India.</p>
+            <h4>Leather and footwear exports</h4>
+            <p>The Jajmau tanneries and footwear makers of Kanpur sell nationwide and abroad. We target leather goods manufacturer and shoe exporter searches so serious buyers reach your factory instead of a marketplace listing.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>NAP map packet audits</h4>
-            <p>Resolving duplicate local pins in congested industrial sectors (Okhla, Dada Nagar, Unnao) to build consistent search signals.</p>
+            <h4>Industrial and engineering B2B</h4>
+            <p>From hosiery and textiles to pumps and machinery, Kanpur is a B2B city. We build product and capability pages that rank for the exact components and services buyers procure.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Route & logistics targeting</h4>
-            <p>We compile programmatic cargo route pages to drive freight and warehousing contract requests directly to you.</p>
+            <h4>Standing out in a crowded market</h4>
+            <p>With thousands of competing firms, ranking is fierce. Structured local SEO, reviews, and technical pages help your Kanpur business outrank near-identical rivals for high-value enquiries.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Bilingual trade terms</h4>
-            <p>Trading communities search in Hindi and Hinglish. We optimize bilingual metadata to capture maximum local trade volume.</p>
+            <h4>Education and services hub</h4>
+            <p>IIT Kanpur, coaching centres, and hospitals draw people citywide. Service businesses gain when Maps and local pages surface them for neighbourhood and student-heavy searches across Kanpur.</p>
           </div>
         </div>
       </div>
@@ -499,7 +515,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kasganj</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Zari-zardozi embroidery · sugarcane sugar mills · Soron Ganga ghats · Kasganj rail junction</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -507,7 +523,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kaushambi</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Banana farming and trade · fruit processing · ancient Vatsa heritage · Prayagraj-belt mandis</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -515,7 +531,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kushinagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Spiritual tourism · cultural heritage · hospitality services · local trade</p>
+            <p class="price-desc" style="margin-bottom: 0;">Buddhist parinirvana site · international airport · banana-fibre craft · sugarcane sugar mills</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -523,7 +539,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Lakhimpur Kheri</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugarcane and sugar mills · Dudhwa tiger reserve · Terai farm belt · Tharu handloom crafts</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -552,20 +568,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Can you help my factory rank for wholesale bulk contracts?
+            How do I get my Kanpur leather or footwear factory more buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we specialize in B2B catalog structures, raw materials schemas, and wholesale keyword ranking campaigns across North India.</div>
+            <div class="faq-a-inner">We optimise for terms like leather goods manufacturer and footwear exporter, build detailed product pages, and strengthen your profile so domestic and export buyers searching Kanpur suppliers contact you directly.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize Google Business Profiles for industrial zones?
+            There are so many similar firms in Kanpur - how do I stand out?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we verify listings, manage map coordinates, and upload geotagged warehouse photos to guarantee map indexation.</div>
+            <div class="faq-a-inner">We differentiate you with specific capability pages, genuine reviews, strong technical SEO, and accurate local signals so your business ranks above generic competitors for the searches that bring real enquiries.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Can local SEO help my industrial or engineering supply business?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Yes. We create pages for each product and service you offer so procurement buyers searching for Kanpur pumps, textiles, or machine parts find the exact page and reach your team.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            I run a clinic near IIT Kanpur - will this bring local patients?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It will. We optimise your Google Business Profile, reviews, and location pages so nearby residents and students searching for your service find and choose you over farther options.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -635,33 +669,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Kanpur Nagar.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Kanpur Nagar who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Our leather export manufacturing unit in Kanpur was invisible on Google. rankfyno rebuilt our product directories and optimized our maps listing. Bulk inquiries from out-of-state grew by 3× in 90 days."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">MA</div>
-              <div>
-                <div class="testimonial-name">Mohammad Asif</div>
-                <div class="testimonial-role">Managing Director, Asif Leather Exports · Kanpur</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

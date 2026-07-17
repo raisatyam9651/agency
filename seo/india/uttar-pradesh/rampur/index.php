@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Rampur - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Rampur. We engineer GBP, citation, on-page and content SEO for Rampur businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Rampur. We engineer GBP, citation, on-page and content SEO for Rampur businesses — applique patch work · zari-zardozi · rampuri knives · raza library heritage. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Rampur, SEO company Rampur, Rampur SEO services, local SEO Rampur, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Rampur — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Rampur — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Rampur — engineered to rank your business on Google. Applique patch work · zari-zardozi · Rampuri knives · Raza Library heritage.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/rampur/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"How can my Rampur zari-zardozi work reach more buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"We rank your embroidery and applique work for craft and bridal-wear searches, so boutiques and wedding shoppers find your Rampur atelier directly instead of going through a middleman.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"Can I market Rampur heritage crafts to distant customers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Yes - we build story-led pages that rank and highlight your authentic Rampur craftsmanship, so buyers who value heritage embroidery discover and trust your work from anywhere.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"When is the best time to promote wedding and festive wear?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We target seasonal wedding and festival shopping searches so your zari and applique appear exactly when families in and beyond Rampur are sourcing embroidered outfits.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Will SEO help my local Rampur shop get more footfall?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It will; we strengthen your local search presence so nearby customers searching for your products find your store first, rather than walking into a competitor down the road.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">R</span><span class="char outline-text">a</span><span class="char outline-text">m</span><span class="char outline-text">p</span><span class="char outline-text">u</span><span class="char outline-text">r</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Rampur on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Rampur on Google for high-intent local searches. Applique patch work · zari-zardozi · Rampuri knives · Raza Library heritage.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Rampur</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Applique patch work · zari-zardozi · Rampuri knives · Raza Library heritage</h2>
         </div>
-        <p class="lede">SEO in Rampur isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Rampur zari-zardozi and applique artisans, along with heritage-linked traders, get discovered when boutique buyers and wedding-wear shoppers search online - a craft that once sold through middlemen now competes for the buyer typing a query.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Craft artisan discovery</h4>
+            <p>Rampur zari-zardozi and applique artisans reach boutique and wedding-wear buyers through search; we rank your work for craft and embroidery queries so shoppers find you instead of a middleman.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Heritage-product storytelling</h4>
+            <p>From Rampuri craftsmanship to the district Nawabi legacy, we build story-led pages that rank and convince buyers, so your Rampur brand stands out to customers who value authentic heritage work.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Wedding-market visibility</h4>
+            <p>Bridal and festive wear drives demand for zari and applique; we target seasonal wedding-shopping searches so your Rampur atelier appears when families are sourcing embroidered outfits.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Local retail and trade</h4>
+            <p>Rampur shops and service providers gain from ranking for in-town searches; we strengthen your local presence so nearby customers find your store before heading to a competitor.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Saharanpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sheesham wood carving exports · handicraft clusters · paper mills · mango and agro trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Sambhal</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Horn-and-bone craft · mentha oil trade · Chandausi grain mandis · agro small industry</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Sant Kabir Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Brass utensil craft · Khalilabad trade · Maghar pilgrim tourism · paddy and agro trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Shahjahanpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugarcane belt sugar mills · grain mandis · dairy and farm trade · cantonment education town</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            How can my Rampur zari-zardozi work reach more buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">We rank your embroidery and applique work for craft and bridal-wear searches, so boutiques and wedding shoppers find your Rampur atelier directly instead of going through a middleman.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            Can I market Rampur heritage crafts to distant customers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Yes - we build story-led pages that rank and highlight your authentic Rampur craftsmanship, so buyers who value heritage embroidery discover and trust your work from anywhere.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            When is the best time to promote wedding and festive wear?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We target seasonal wedding and festival shopping searches so your zari and applique appear exactly when families in and beyond Rampur are sourcing embroidered outfits.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Will SEO help my local Rampur shop get more footfall?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It will; we strengthen your local search presence so nearby customers searching for your products find your store first, rather than walking into a competitor down the road.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Rampur.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Rampur who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

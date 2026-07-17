@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Fatehpur - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Fatehpur. We engineer GBP, citation, on-page and content SEO for Fatehpur businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Fatehpur. We engineer GBP, citation, on-page and content SEO for Fatehpur businesses — bedsheet and home textiles odop · doab farming · bindki trade cluster · kanpur-prayagraj road. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Fatehpur, SEO company Fatehpur, Fatehpur SEO services, local SEO Fatehpur, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Fatehpur — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Fatehpur — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Fatehpur — engineered to rank your business on Google. Bedsheet and home textiles ODOP · doab farming · Bindki trade cluster · Kanpur-Prayagraj road.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/fatehpur/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"My customers keep going to Kanpur instead of buying in Fatehpur. Can SEO fix that?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"Partly. SEO puts you in front of people at the moment they are deciding, with the reasons to stay local - stock, price, and same-day service - stated plainly where they will read it.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"I make bedsheets in Fatehpur. Should I target local or outside buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Both, on separate pages. Local retail and outside wholesale search with different words, and mixing them on one page usually means you rank well for neither.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is there enough search volume in a district like Fatehpur?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Volume is lower than a metro, but so is competition, and the intent is stronger. Someone searching for a service in Fatehpur is usually ready to call today.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"What matters most for a shop on the Kanpur-Prayagraj road?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Getting the basics exactly right - correct pin on the map, real hours, and clear photos. Travellers decide in seconds and will not chase a listing that looks uncertain.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">F</span><span class="char outline-text">a</span><span class="char outline-text">t</span><span class="char outline-text">e</span><span class="char outline-text">h</span><span class="char outline-text">p</span><span class="char outline-text">u</span><span class="char outline-text">r</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Fatehpur on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Fatehpur on Google for high-intent local searches. Bedsheet and home textiles ODOP · doab farming · Bindki trade cluster · Kanpur-Prayagraj road.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Fatehpur</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Bedsheet and home textiles ODOP · doab farming · Bindki trade cluster · Kanpur-Prayagraj road</h2>
         </div>
-        <p class="lede">SEO in Fatehpur isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Fatehpur sits between Kanpur and Prayagraj in the doab, so its businesses compete for attention against two much larger markets. Winning here means owning the local searches that the big-city players never bother to target.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Home textile ODOP demand</h4>
+            <p>Bedsheets and home textiles are the district ODOP line. We target buyers searching by product and price band, so manufacturers reach beyond the local wholesale chain.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Between two big markets</h4>
+            <p>Fatehpur customers often default to Kanpur or Prayagraj. We build pages that answer why local works - stock on hand, service reach, delivery time - and capture that decision early.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Doab agri services</h4>
+            <p>Farming in the Ganga-Yamuna doab drives demand for seed, machinery, and repair. These searches follow the crop calendar, so we align publishing with sowing and harvest windows.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Highway corridor traffic</h4>
+            <p>The Kanpur-Prayagraj route brings through-traffic looking for fuel, food, and quick service. Map accuracy and hours decide who gets that stop and who gets driven past.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Firozabad</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Glass bangles ODOP · glass furnace clusters · Suhag Nagar trade · Agra-corridor exports</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Gautam Buddha Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">IT parks · software startups · tech centers · corporate advisories</p>
+            <p class="price-desc" style="margin-bottom: 0;">Noida IT and electronics · Greater Noida factories · readymade garments ODOP · Jewar airport</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ghaziabad</h3>
-            <p class="price-desc" style="margin-bottom: 0;">IT parks · software startups · tech centers · corporate advisories</p>
+            <p class="price-desc" style="margin-bottom: 0;">Engineering goods ODOP · auto components · Sahibabad industrial belt · Delhi-Meerut trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ghazipur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Jute wall hangings ODOP · Ganga-bank trade · government opium factory · Purvanchal Expressway</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            My customers keep going to Kanpur instead of buying in Fatehpur. Can SEO fix that?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">Partly. SEO puts you in front of people at the moment they are deciding, with the reasons to stay local - stock, price, and same-day service - stated plainly where they will read it.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            I make bedsheets in Fatehpur. Should I target local or outside buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Both, on separate pages. Local retail and outside wholesale search with different words, and mixing them on one page usually means you rank well for neither.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Is there enough search volume in a district like Fatehpur?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Volume is lower than a metro, but so is competition, and the intent is stronger. Someone searching for a service in Fatehpur is usually ready to call today.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            What matters most for a shop on the Kanpur-Prayagraj road?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Getting the basics exactly right - correct pin on the map, real hours, and clear photos. Travellers decide in seconds and will not chase a listing that looks uncertain.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Fatehpur.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Fatehpur who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

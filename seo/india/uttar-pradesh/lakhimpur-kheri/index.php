@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Lakhimpur Kheri - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Lakhimpur Kheri. We engineer GBP, citation, on-page and content SEO for Lakhimpur Kheri businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Lakhimpur Kheri. We engineer GBP, citation, on-page and content SEO for Lakhimpur Kheri businesses — sugarcane and sugar mills · dudhwa tiger reserve · terai farm belt · tharu handloom crafts. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Lakhimpur Kheri, SEO company Lakhimpur Kheri, Lakhimpur Kheri SEO services, local SEO Lakhimpur Kheri, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Lakhimpur Kheri — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Lakhimpur Kheri — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Lakhimpur Kheri — engineered to rank your business on Google. Sugarcane and sugar mills · Dudhwa tiger reserve · Terai farm belt · Tharu handloom crafts.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/lakhimpur-kheri/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"How can my sugarcane-linked business reach more buyers online?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"We build pages targeting cane trade, equipment, and mill-linked services so farmers and buyers across the towns of Lakhimpur Kheri find you through search instead of a generic directory.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"Can local SEO bring tourists to my stay near Dudhwa?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Yes. We optimise your profile, photos, and reviews and target Dudhwa safari and stay searches so wildlife tourists planning a Terai trip discover and book with you.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"My district is huge - how do I rank in my own town?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We create town-specific pages and precise service-area signals so search engines place you in your local area rather than defaulting everything to the district headquarters.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Will optimisation help me sell Tharu crafts or local produce?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It will. We build product pages and optimise listings so buyers searching for Lakhimpur Kheri handloom and Terai produce find your goods and contact you directly.\"
         }
       },
       {
@@ -227,7 +243,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">K</span><span class="char outline-text">h</span><span class="char outline-text">e</span><span class="char outline-text">r</span><span class="char outline-text">i</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Lakhimpur Kheri on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Lakhimpur Kheri on Google for high-intent local searches. Sugarcane and sugar mills · Dudhwa tiger reserve · Terai farm belt · Tharu handloom crafts.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -387,38 +403,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Lakhimpur Kheri</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Sugarcane and sugar mills · Dudhwa tiger reserve · Terai farm belt · Tharu handloom crafts</h2>
         </div>
-        <p class="lede">SEO in Lakhimpur Kheri isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Lakhimpur Kheri is the Terai sugar bowl of Uttar Pradesh bordering Dudhwa National Park, so cane traders, reserve-edge resorts, and town businesses get discovered when buyers and tourists search Google for suppliers, safaris, and stays in this large district.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Sugarcane and sugar economy</h4>
+            <p>Lakhimpur Kheri is a leading cane and sugar district. We help mill-linked traders, equipment dealers, and services rank for the agri-searches that farmers and buyers make across its many towns.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Dudhwa wildlife tourism</h4>
+            <p>Dudhwa National Park brings wildlife tourists seeking safaris and stays. We optimise resorts, guides, and eateries to rank for Dudhwa and Kheri travel searches so visitors book with you.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Covering a large district</h4>
+            <p>As the largest district in Uttar Pradesh, Kheri spreads across many towns. We build location-specific pages and service-area signals so your business ranks in its own town rather than only the district centre.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Terai crafts and rural trade</h4>
+            <p>Tharu handloom and Terai farm produce support local livelihoods. We create pages that help craft sellers and rural traders reach buyers searching for authentic Lakhimpur Kheri goods.</p>
           </div>
         </div>
       </div>
@@ -499,7 +515,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Lalitpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Groundnut and oilseed farms · Bundelkhand granite · Deogarh temple heritage · Betwa dam belt</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -507,7 +523,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Lucknow</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Regional commercial hubs · university networks · professional service providers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Chikankari embroidery · Awadhi hospitality · medical and education hub · Hazratganj retail</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -515,7 +531,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Maharajganj</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Wooden furniture ODOP · sugarcane sugar mills · Nepal border trade · agro-processing</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -523,7 +539,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Mahoba</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Gaura stone craft ODOP · Desawari betel leaf · Bundelkhand granite · Chandela heritage tourism</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -552,20 +568,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            How can my sugarcane-linked business reach more buyers online?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">We build pages targeting cane trade, equipment, and mill-linked services so farmers and buyers across the towns of Lakhimpur Kheri find you through search instead of a generic directory.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            Can local SEO bring tourists to my stay near Dudhwa?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Yes. We optimise your profile, photos, and reviews and target Dudhwa safari and stay searches so wildlife tourists planning a Terai trip discover and book with you.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            My district is huge - how do I rank in my own town?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We create town-specific pages and precise service-area signals so search engines place you in your local area rather than defaulting everything to the district headquarters.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Will optimisation help me sell Tharu crafts or local produce?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It will. We build product pages and optimise listings so buyers searching for Lakhimpur Kheri handloom and Terai produce find your goods and contact you directly.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -635,33 +669,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Lakhimpur Kheri.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Lakhimpur Kheri who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

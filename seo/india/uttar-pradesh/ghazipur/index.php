@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Ghazipur - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Ghazipur. We engineer GBP, citation, on-page and content SEO for Ghazipur businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Ghazipur. We engineer GBP, citation, on-page and content SEO for Ghazipur businesses — jute wall hangings odop · ganga-bank trade · government opium factory · purvanchal expressway. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Ghazipur, SEO company Ghazipur, Ghazipur SEO services, local SEO Ghazipur, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Ghazipur — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Ghazipur — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Ghazipur — engineered to rank your business on Google. Jute wall hangings ODOP · Ganga-bank trade · government opium factory · Purvanchal Expressway.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/ghazipur/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"I make jute wall hangings in Ghazipur. Who is actually searching for these?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"Decor buyers, gift retailers, and export sourcers - mostly outside Purvanchal. They search by product and material rather than by district, so we target those terms directly.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"Does the Purvanchal Expressway change my SEO strategy?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"It can. If you can now deliver to Varanasi or Lucknow, your target area is larger than your district. We widen targeting only as far as you can genuinely serve.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Customers search Varanasi instead of Ghazipur. What do I do?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"You can compete for nearby-city searches if you genuinely serve there, but the fastest wins come from owning Ghazipur searches completely first, then expanding outward.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is SEO affordable for a small Ghazipur business?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Competition here is far lighter than in NCR, so the work needed to rank is proportionally smaller. Most local businesses need consistent basics done well rather than a large budget.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">G</span><span class="char outline-text">h</span><span class="char outline-text">a</span><span class="char outline-text">z</span><span class="char outline-text">i</span><span class="char outline-text">p</span><span class="char outline-text">u</span><span class="char outline-text">r</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Ghazipur on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Ghazipur on Google for high-intent local searches. Jute wall hangings ODOP · Ganga-bank trade · government opium factory · Purvanchal Expressway.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Ghazipur</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Jute wall hangings ODOP · Ganga-bank trade · government opium factory · Purvanchal Expressway</h2>
         </div>
-        <p class="lede">SEO in Ghazipur isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Ghazipur sits on the Ganga in Purvanchal, historically a river trade town and now linked by the Purvanchal Expressway. Its businesses reach buyers in Varanasi and beyond, which makes online visibility the practical route to growth.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Jute craft ODOP reach</h4>
+            <p>Jute wall hangings are the district ODOP product, sold largely to buyers outside Purvanchal. We target the craft and decor searches those buyers run, with Ghazipur as the origin story.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Purvanchal Expressway reach</h4>
+            <p>The expressway pulls Ghazipur closer to Varanasi and Lucknow markets. That widens who you can serve, so we expand targeting to match the delivery radius you can genuinely honour.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Ganga-bank local trade</h4>
+            <p>Riverside trade, ghat-area services, and local retail run on neighbourhood searches. Map accuracy and reviews decide these, since customers pick from the first three results and rarely scroll.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Varanasi market spillover</h4>
+            <p>Ghazipur businesses often lose enquiries to Varanasi by default. We build content that makes the local option visible and credible at the exact moment of comparison.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Gonda</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Food processing ODOP · Devipatan division hub · sugarcane mill belt · Ayodhya-corridor trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Gorakhpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Regional commercial hubs · university networks · professional service providers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Terracotta craft · Gorakhnath temple footfall · AIIMS medical belt · rail and fertiliser hub</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Hamirpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Footwear and shoe craft · Yamuna-Betwa sand trade · pulses mandis · Kanpur-corridor transport</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Hapur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Steel pipe and tube making · Garhmukteshwar pilgrimage · papad processing · NCR-edge logistics</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            I make jute wall hangings in Ghazipur. Who is actually searching for these?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">Decor buyers, gift retailers, and export sourcers - mostly outside Purvanchal. They search by product and material rather than by district, so we target those terms directly.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            Does the Purvanchal Expressway change my SEO strategy?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">It can. If you can now deliver to Varanasi or Lucknow, your target area is larger than your district. We widen targeting only as far as you can genuinely serve.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Customers search Varanasi instead of Ghazipur. What do I do?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">You can compete for nearby-city searches if you genuinely serve there, but the fastest wins come from owning Ghazipur searches completely first, then expanding outward.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Is SEO affordable for a small Ghazipur business?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Competition here is far lighter than in NCR, so the work needed to rank is proportionally smaller. Most local businesses need consistent basics done well rather than a large budget.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Ghazipur.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Ghazipur who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

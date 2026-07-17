@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
-$page_title = "Local SEO agency in Pratapgarh - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Pratapgarh. We engineer GBP, citation, on-page and content SEO for Pratapgarh businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_title = "Local SEO agency in Pratapgarh, Uttar Pradesh - Rankfyno";
+$page_description = "rankfyno is a local SEO agency in Pratapgarh. We engineer GBP, citation, on-page and content SEO for Pratapgarh businesses — amla (aonla) orchards · amla candy and murabba · agro-processing · awadh farm belt. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Pratapgarh, SEO company Pratapgarh, Pratapgarh SEO services, local SEO Pratapgarh, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Pratapgarh — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Pratapgarh — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Pratapgarh — engineered to rank your business on Google. Amla (aonla) orchards · amla candy and murabba · agro-processing · Awadh farm belt.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/pratapgarh/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"How do I sell my Pratapgarh amla products to more buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"We rank your aonla candy, murabba and juice for the product searches wholesalers and health-food shoppers use, so buyers find your Pratapgarh brand directly instead of a competitor or marketplace.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"Can SEO connect my amla processing unit with bulk buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Yes - we target bulk-supply and ingredient searches used by retailers and Ayurvedic brands, so your Pratapgarh unit appears when a buyer is sourcing aonla in volume.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Does search marketing help farm and grain sellers too?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It does; we build local pages that help growers, dealers and cooperatives get found by buyers searching for Pratapgarh produce, connecting farm supply with real trade demand.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"When should I push my amla products online?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We time your content and listings around harvest and festival seasons when aonla demand peaks, so your products rank exactly when buyers are stocking and placing orders.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">P</span><span class="char outline-text">r</span><span class="char outline-text">a</span><span class="char outline-text">t</span><span class="char outline-text">a</span><span class="char outline-text">p</span><span class="char outline-text">g</span><span class="char outline-text">a</span><span class="char outline-text">r</span><span class="char outline-text">h</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Pratapgarh on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Pratapgarh on Google for high-intent local searches. Amla (aonla) orchards · amla candy and murabba · agro-processing · Awadh farm belt.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Pratapgarh</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Amla (aonla) orchards · amla candy and murabba · agro-processing · Awadh farm belt</h2>
         </div>
-        <p class="lede">SEO in Pratapgarh isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Pratapgarh amla (aonla) growers and processors selling candy, murabba and juice depend on being found by wholesalers and health-food buyers online, since most orders for aonla products now start with a search rather than a referral.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Amla product SEO</h4>
+            <p>Pratapgarh amla candy, murabba and juice sell to health-conscious buyers who search online; we rank your aonla brand for these product queries so wholesalers and shoppers find you directly.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Agro-processor B2B leads</h4>
+            <p>Aonla processing units supply retailers and Ayurvedic brands; we target bulk-supply and ingredient searches so your Pratapgarh unit appears when a buyer is sourcing amla in volume.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Farm-to-market visibility</h4>
+            <p>Growers and cooperatives gain when input dealers and buyers can find them in search; we build local pages that connect Pratapgarh amla and grain sellers with the right trade demand.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Seasonal harvest timing</h4>
+            <p>Amla demand spikes around harvest and festival seasons; we time content and local listings so your product ranks exactly when buyers are stocking aonla, capturing orders others miss.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Prayagraj</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Regional commercial hubs · university networks · professional service providers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sangam and Kumbh tourism · civil-services coaching · High Court legal hub · moonj grass craft</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Raebareli</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Heavy engineering · manufacturing plants · industrial trade · logistics</p>
+            <p class="price-desc" style="margin-bottom: 0;">Modern Coach Factory · wood craft (ODOP) · AIIMS healthcare · NTPC power belt</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Rampur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Applique patch work · zari-zardozi · Rampuri knives · Raza Library heritage</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Saharanpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sheesham wood carving exports · handicraft clusters · paper mills · mango and agro trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            How do I sell my Pratapgarh amla products to more buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">We rank your aonla candy, murabba and juice for the product searches wholesalers and health-food shoppers use, so buyers find your Pratapgarh brand directly instead of a competitor or marketplace.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            Can SEO connect my amla processing unit with bulk buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Yes - we target bulk-supply and ingredient searches used by retailers and Ayurvedic brands, so your Pratapgarh unit appears when a buyer is sourcing aonla in volume.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Does search marketing help farm and grain sellers too?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It does; we build local pages that help growers, dealers and cooperatives get found by buyers searching for Pratapgarh produce, connecting farm supply with real trade demand.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            When should I push my amla products online?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We time your content and listings around harvest and festival seasons when aonla demand peaks, so your products rank exactly when buyers are stocking and placing orders.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Pratapgarh.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Pratapgarh who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Hardoi - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Hardoi. We engineer GBP, citation, on-page and content SEO for Hardoi businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Hardoi. We engineer GBP, citation, on-page and content SEO for Hardoi businesses — handloom weaving · sugarcane and sugar mills · sandila laddu · lucknow-corridor trade. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Hardoi, SEO company Hardoi, Hardoi SEO services, local SEO Hardoi, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Hardoi — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Hardoi — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Hardoi — engineered to rank your business on Google. Handloom weaving · sugarcane and sugar mills · Sandila laddu · Lucknow-corridor trade.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/hardoi/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"How do Hardoi handloom weavers reach buyers beyond the local market?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"Through product-first pages. Wholesale and institutional buyers search by fabric and weave type, so we lead with what you make and use Hardoi as a credibility marker rather than the headline.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"My shop sells Sandila laddu. Can search bring in outside orders?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Yes. The product name already carries recognition, so pages built around it plus clear ordering and delivery details tend to attract enquiries from travellers and regional buyers.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do sugarcane-season businesses need year-round SEO?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Rankings build slowly, so the work has to happen before the season peaks. Steady presence through the year means you are already visible when demand suddenly rises.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Can a Hardoi business get customers from Lucknow?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It depends on your service. If you can serve or deliver there, we target Lucknow-facing terms and make your coverage and travel time explicit so buyers do not rule you out on distance.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">H</span><span class="char outline-text">a</span><span class="char outline-text">r</span><span class="char outline-text">d</span><span class="char outline-text">o</span><span class="char outline-text">i</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Hardoi on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Hardoi on Google for high-intent local searches. Handloom weaving · sugarcane and sugar mills · Sandila laddu · Lucknow-corridor trade.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Hardoi</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Handloom weaving · sugarcane and sugar mills · Sandila laddu · Lucknow-corridor trade</h2>
         </div>
-        <p class="lede">SEO in Hardoi isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Hardoi runs on sugarcane, handloom weaving and mandi trade, with Sandila known for its laddu. Buyers here search in plain Hindi-English mixes and by landmark, which most generic listings completely fail to match.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Handloom and weaving</h4>
+            <p>Handloom is Hardoi's ODOP signature, and weavers depend on wholesale and institutional buyers. We build pages that surface fabric type, weave and order capacity to buyers searching outside the district.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Sugarcane belt services</h4>
+            <p>The sugar mill and cane belt supports transport, machinery repair and input suppliers. These businesses get found through seasonal, urgent queries that follow the crushing calendar rather than the year.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Sandila food identity</h4>
+            <p>Sandila laddu carries recognition well beyond the district. Sweet shops and food sellers can use that name recognition in search, provided their pages are structured around the product buyers actually type.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Lucknow corridor reach</h4>
+            <p>Hardoi's road and rail links to Lucknow mean many services compete for capital-city customers. Pages that state travel time and coverage area outperform ones that only name the district.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Hathras</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Asafoetida (hing) trade · spice processing · colour and chemical units · Aligarh-Agra corridor</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Jalaun</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Kalpi handmade paper · Orai commercial hub · Bundelkhand pulses trade · Yamuna-Betwa farms</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Jaunpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Jaunpuri imarti · Shahi Bridge Sharqi heritage · radish and dairy · Varanasi-corridor trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Jhansi</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Regional commercial hubs · university networks · professional service providers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Soft toys craft · Jhansi Fort tourism · defence corridor node · Bundelkhand rail junction</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            How do Hardoi handloom weavers reach buyers beyond the local market?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">Through product-first pages. Wholesale and institutional buyers search by fabric and weave type, so we lead with what you make and use Hardoi as a credibility marker rather than the headline.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            My shop sells Sandila laddu. Can search bring in outside orders?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Yes. The product name already carries recognition, so pages built around it plus clear ordering and delivery details tend to attract enquiries from travellers and regional buyers.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do sugarcane-season businesses need year-round SEO?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Rankings build slowly, so the work has to happen before the season peaks. Steady presence through the year means you are already visible when demand suddenly rises.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Can a Hardoi business get customers from Lucknow?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It depends on your service. If you can serve or deliver there, we target Lucknow-facing terms and make your coverage and travel time explicit so buyers do not rule you out on distance.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Hardoi.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Hardoi who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

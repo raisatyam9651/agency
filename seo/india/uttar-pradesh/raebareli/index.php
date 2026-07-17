@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Raebareli - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Raebareli. We engineer GBP, citation, on-page and content SEO for Raebareli businesses — heavy engineering · manufacturing plants · industrial trade · logistics. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Raebareli. We engineer GBP, citation, on-page and content SEO for Raebareli businesses — modern coach factory · wood craft (odop) · aiims healthcare · ntpc power belt. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Raebareli, SEO company Raebareli, Raebareli SEO services, local SEO Raebareli, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Raebareli — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Raebareli — engineered to rank your business on Google. Heavy engineering · manufacturing plants · industrial trade · logistics.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Raebareli — engineered to rank your business on Google. Modern Coach Factory · wood craft (ODOP) · AIIMS healthcare · NTPC power belt.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/raebareli/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"Can you help my factory rank for wholesale bulk contracts?\",
+        \"name\": \"Can SEO help me supply to units like the Modern Coach Factory?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we specialize in B2B catalog structures, raw materials schemas, and wholesale keyword ranking campaigns across North India.\"
+          \"text\": \"Yes - procurement buyers and vendors search for suppliers and services, so we help your Raebareli business rank for those queries so sourcing teams around the coach factory and NTPC find you.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize Google Business Profiles for industrial zones?\",
+        \"name\": \"How do I sell Raebareli wood-craft to buyers outside the district?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we verify listings, manage map coordinates, and upload geotagged warehouse photos to guarantee map indexation.\"
+          \"text\": \"We build product pages that rank in search, so furniture and decor shoppers beyond Raebareli discover your wood craft directly rather than relying only on local trade.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Does the new AIIMS create opportunities I can market online?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It does; patients and attendants search for clinics, pharmacies, diagnostics and lodging nearby, so we help your Raebareli service rank for health-related and locality searches to reach them.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"How do I get more local customers to my Raebareli shop?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We optimise your local search presence and listings so residents searching for your goods or services in town find you first, before they head to a competitor.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">R</span><span class="char outline-text">a</span><span class="char outline-text">e</span><span class="char outline-text">b</span><span class="char outline-text">a</span><span class="char outline-text">r</span><span class="char outline-text">e</span><span class="char outline-text">l</span><span class="char outline-text">i</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Raebareli on Google for high-intent local searches. Heavy engineering · manufacturing plants · industrial trade · logistics.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Raebareli on Google for high-intent local searches. Modern Coach Factory · wood craft (ODOP) · AIIMS healthcare · NTPC power belt.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Raebareli</span>
-          <h2 class="display">Heavy engineering · manufacturing plants · industrial trade · logistics</h2>
+          <h2 class="display">Modern Coach Factory · wood craft (ODOP) · AIIMS healthcare · NTPC power belt</h2>
         </div>
-        <p class="lede">SEO in Raebareli isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Raebareli businesses - from wood-craft units to suppliers around the Modern Coach Factory and services near AIIMS - are increasingly found in search, as buyers and patients look up local options online before making a call.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>B2B wholesale queries</h4>
-            <p>We rank your industrial manufacturing or logistics plant for high-intent wholesale keywords to connect you with bulk buyers across India.</p>
+            <h4>Industrial ancillary leads</h4>
+            <p>Suppliers and service units around the Modern Coach Factory and NTPC gain from ranking for procurement and vendor searches, so Raebareli businesses reach buyers sourcing parts and services locally.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>NAP map packet audits</h4>
-            <p>Resolving duplicate local pins in congested industrial sectors (Okhla, Dada Nagar, Unnao) to build consistent search signals.</p>
+            <h4>Wood-craft product reach</h4>
+            <p>Raebareli wood-craft artisans reach buyers beyond the district when their work ranks in search; we build product pages so furniture and decor shoppers discover your craft directly.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Route & logistics targeting</h4>
-            <p>We compile programmatic cargo route pages to drive freight and warehousing contract requests directly to you.</p>
+            <h4>Healthcare-hub services</h4>
+            <p>With AIIMS Raebareli drawing patients, clinics, pharmacies, diagnostics and lodging benefit from ranking for health-related and locality searches so visitors find your service near the hospital.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Bilingual trade terms</h4>
-            <p>Trading communities search in Hindi and Hinglish. We optimize bilingual metadata to capture maximum local trade volume.</p>
+            <h4>Local trade visibility</h4>
+            <p>Retailers and service providers across Raebareli compete for nearby customers; we optimise your local presence so residents searching for goods and services in town find you first.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Rampur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Applique patch work · zari-zardozi · Rampuri knives · Raza Library heritage</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Saharanpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sheesham wood carving exports · handicraft clusters · paper mills · mango and agro trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Sambhal</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Horn-and-bone craft · mentha oil trade · Chandausi grain mandis · agro small industry</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Sant Kabir Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Brass utensil craft · Khalilabad trade · Maghar pilgrim tourism · paddy and agro trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Can you help my factory rank for wholesale bulk contracts?
+            Can SEO help me supply to units like the Modern Coach Factory?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we specialize in B2B catalog structures, raw materials schemas, and wholesale keyword ranking campaigns across North India.</div>
+            <div class="faq-a-inner">Yes - procurement buyers and vendors search for suppliers and services, so we help your Raebareli business rank for those queries so sourcing teams around the coach factory and NTPC find you.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize Google Business Profiles for industrial zones?
+            How do I sell Raebareli wood-craft to buyers outside the district?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we verify listings, manage map coordinates, and upload geotagged warehouse photos to guarantee map indexation.</div>
+            <div class="faq-a-inner">We build product pages that rank in search, so furniture and decor shoppers beyond Raebareli discover your wood craft directly rather than relying only on local trade.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Does the new AIIMS create opportunities I can market online?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It does; patients and attendants search for clinics, pharmacies, diagnostics and lodging nearby, so we help your Raebareli service rank for health-related and locality searches to reach them.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            How do I get more local customers to my Raebareli shop?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We optimise your local search presence and listings so residents searching for your goods or services in town find you first, before they head to a competitor.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Raebareli.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Raebareli who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Our leather export manufacturing unit in Kanpur was invisible on Google. rankfyno rebuilt our product directories and optimized our maps listing. Bulk inquiries from out-of-state grew by 3× in 90 days."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">MA</div>
-              <div>
-                <div class="testimonial-name">Mohammad Asif</div>
-                <div class="testimonial-role">Managing Director, Asif Leather Exports · Kanpur</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Chitrakoot - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Chitrakoot. We engineer GBP, citation, on-page and content SEO for Chitrakoot businesses — spiritual tourism · cultural heritage · hospitality services · local trade. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Chitrakoot. We engineer GBP, citation, on-page and content SEO for Chitrakoot businesses — pilgrimage and temple tourism · wooden toys odop · bundelkhand stone · mandakini ghat trade. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Chitrakoot, SEO company Chitrakoot, Chitrakoot SEO services, local SEO Chitrakoot, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Chitrakoot — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Chitrakoot — engineered to rank your business on Google. Spiritual tourism · cultural heritage · hospitality services · local trade.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Chitrakoot — engineered to rank your business on Google. Pilgrimage and temple tourism · wooden toys ODOP · Bundelkhand stone · Mandakini ghat trade.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/chitrakoot/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does tourism SEO help local businesses?\",
+        \"name\": \"I run a guesthouse near the ghats. What brings bookings?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It captures tourists searching for accommodations, dining, shopping, and tours in real-time, sending high-intent leads straight to you.\"
+          \"text\": \"Accurate location, honest photos, clear distance to the main ghats and steady reviews. Pilgrims decide on practical detail and trust, not on descriptive copy.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Can you rank my hotel globally for overseas travelers?\",
+        \"name\": \"When should I invest in SEO given the festival peaks?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We implement multi-region optimizations, clean travel schema, and target international search keywords.\"
+          \"text\": \"Months before the peak. Visibility takes time to build, so work started during the rush usually only pays off in the following season.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Can Chitrakoot wooden toy makers sell beyond visitors?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes, to gift buyers and craft retailers who search for handmade wooden toys. Clear photographs, sizes and shipping terms are what turn interest into orders.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do I need a full website or just a Google listing?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"For visitor-facing businesses, a well-maintained listing does most of the work. A website helps when you need to show rooms, rates, menus or a product range in depth.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">C</span><span class="char outline-text">h</span><span class="char outline-text">i</span><span class="char outline-text">t</span><span class="char outline-text">r</span><span class="char outline-text">a</span><span class="char outline-text">k</span><span class="char outline-text">o</span><span class="char outline-text">o</span><span class="char outline-text">t</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Chitrakoot on Google for high-intent local searches. Spiritual tourism · cultural heritage · hospitality services · local trade.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Chitrakoot on Google for high-intent local searches. Pilgrimage and temple tourism · wooden toys ODOP · Bundelkhand stone · Mandakini ghat trade.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Chitrakoot</span>
-          <h2 class="display">Spiritual tourism · cultural heritage · hospitality services · local trade</h2>
+          <h2 class="display">Pilgrimage and temple tourism · wooden toys ODOP · Bundelkhand stone · Mandakini ghat trade</h2>
         </div>
-        <p class="lede">SEO in Chitrakoot isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Chitrakoot's economy turns on pilgrimage to its ghats and temples, so most searches come from visitors planning a trip. Businesses get discovered when they answer travel questions, not sales pitches.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Spiritual & heritage searches</h4>
-            <p>We optimize your hotel, travel agency, or retail shop to rank for the massive tourist and devotee search traffic visiting UP's historic centers.</p>
+            <h4>Pilgrim travel intent</h4>
+            <p>Visitors search for darshan timings, routes, stays and food before arriving. Businesses that answer those questions honestly get found early, well before the traveller reaches Chitrakoot.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Local maps pack visibility</h4>
-            <p>Positioning your hospitality business at the top of the local 3-pack for highly competitive tourist-intent queries.</p>
+            <h4>Wooden toys and craft</h4>
+            <p>Chitrakoot's wooden toy craft sells to visitors and outside buyers alike. Real photographs, sizes and finish details do more than descriptions, because these are bought by eye.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Voice & mobile tourist queries</h4>
-            <p>Tourists search on-the-go. We implement specialized Schema structures and fast page speeds to capture immediate mobile searches.</p>
+            <h4>Bundelkhand stone trade</h4>
+            <p>Quarrying and stone work support construction supply across the region. Buyers search by stone type, size and delivery reach, so specifics beat general contractor language.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>High-value travel links</h4>
-            <p>Securing editorial link mentions from global travel portals, lifestyle channels, and regional news networks.</p>
+            <h4>Seasonal visitor peaks</h4>
+            <p>Festival periods concentrate demand sharply. Visibility must be built in the quiet months so it is already in place when the pilgrim season arrives and searches spike.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Deoria</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugarcane and jaggery · decorative craft ODOP · Purvanchal agri trade · Bihar-border trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Etah</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Brass and bell metal craft · Jalesar ghungroo casting · dairy and agriculture · Braj-belt trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Etawah</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Textile products ODOP · Chambal ravine tourism · Etawah Safari Park · Yamuna agri-trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Farrukhabad</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Hand block print textiles · Fatehgarh trade · potato belt cold storage · zari craft work</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does tourism SEO help local businesses?
+            I run a guesthouse near the ghats. What brings bookings?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It captures tourists searching for accommodations, dining, shopping, and tours in real-time, sending high-intent leads straight to you.</div>
+            <div class="faq-a-inner">Accurate location, honest photos, clear distance to the main ghats and steady reviews. Pilgrims decide on practical detail and trust, not on descriptive copy.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Can you rank my hotel globally for overseas travelers?
+            When should I invest in SEO given the festival peaks?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We implement multi-region optimizations, clean travel schema, and target international search keywords.</div>
+            <div class="faq-a-inner">Months before the peak. Visibility takes time to build, so work started during the rush usually only pays off in the following season.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Can Chitrakoot wooden toy makers sell beyond visitors?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Yes, to gift buyers and craft retailers who search for handmade wooden toys. Clear photographs, sizes and shipping terms are what turn interest into orders.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do I need a full website or just a Google listing?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">For visitor-facing businesses, a well-maintained listing does most of the work. A website helps when you need to show rooms, rates, menus or a product range in depth.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Chitrakoot.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Chitrakoot who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Operating a premium hotel near the Ayodhya temple, ranking on Google was critical. rankfyno optimized our hotel schemas, updated our maps listing, and doubled our direct bookings in 4 months."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">AS</div>
-              <div>
-                <div class="testimonial-name">Aditya Shrivastav</div>
-                <div class="testimonial-role">General Manager, Heritage Inn · Ayodhya</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

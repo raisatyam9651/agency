@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Firozabad - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Firozabad. We engineer GBP, citation, on-page and content SEO for Firozabad businesses — artisanal exporters · brassware industries · carpet exporters · wood carvers. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Firozabad. We engineer GBP, citation, on-page and content SEO for Firozabad businesses — glass bangles odop · glass furnace clusters · suhag nagar trade · agra-corridor exports. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Firozabad, SEO company Firozabad, Firozabad SEO services, local SEO Firozabad, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Firozabad — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Firozabad — engineered to rank your business on Google. Artisanal exporters · brassware industries · carpet exporters · wood carvers.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Firozabad — engineered to rank your business on Google. Glass bangles ODOP · glass furnace clusters · Suhag Nagar trade · Agra-corridor exports.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/firozabad/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you work with craft exporters seeking B2B buyers?\",
+        \"name\": \"Buyers already know Firozabad for bangles. Why would I need SEO?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.\"
+          \"text\": \"Because they know the city, not your unit. When a buyer searches for a Firozabad bangle supplier, dozens of options appear. SEO decides whose number gets dialled first.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"How long does it take to rank for craft exports?\",
+        \"name\": \"I sell glassware, not bangles. Does that change the approach?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.\"
+          \"text\": \"Yes, considerably. Glassware buyers search by item type and finish rather than by Firozabad, so we target product terms and use the city as a credibility marker.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Can SEO bring export enquiries for my glass unit?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It can bring the enquiry. Overseas and out-of-state buyers search in English by product and capacity, so we build pages that answer their qualification questions before they write to you.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"How do I compete with the bigger glass units in Firozabad?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"By being specific. Large units target broad terms. A smaller unit wins on narrow ones - a particular finish, size, or order range - where intent is high and competition is thin.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">F</span><span class="char outline-text">i</span><span class="char outline-text">r</span><span class="char outline-text">o</span><span class="char outline-text">z</span><span class="char outline-text">a</span><span class="char outline-text">b</span><span class="char outline-text">a</span><span class="char outline-text">d</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Firozabad on Google for high-intent local searches. Artisanal exporters · brassware industries · carpet exporters · wood carvers.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Firozabad on Google for high-intent local searches. Glass bangles ODOP · glass furnace clusters · Suhag Nagar trade · Agra-corridor exports.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Firozabad</span>
-          <h2 class="display">Artisanal exporters · brassware industries · carpet exporters · wood carvers</h2>
+          <h2 class="display">Glass bangles ODOP · glass furnace clusters · Suhag Nagar trade · Agra-corridor exports</h2>
         </div>
-        <p class="lede">SEO in Firozabad isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Firozabad is India's glass city - bangles, glassware, and decorative glass ship from here nationwide. Most of that trade now begins with a buyer searching for a glass supplier, not walking the bangle market.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Export trade visibility</h4>
-            <p>We rank your export business globally, connecting your brassware, carpets, or wood carvings directly with international importers.</p>
+            <h4>Glass bangle buyer search</h4>
+            <p>Firozabad bangles carry national recognition, so buyers search the product and expect a Firozabad source. We make sure your unit is what they find when they do.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Artisanal keyword optimization</h4>
-            <p>We target specialized high-value keywords to capture queries for authentic, handmade regional crafts.</p>
+            <h4>Glassware B2B sourcing</h4>
+            <p>Beyond bangles, Firozabad supplies glassware and decorative glass to distributors and event trades. These buyers search by item, finish, and volume - so pages must speak in those terms.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>High-domain PR backlinks</h4>
-            <p>Acquiring editorial links from international design portals, home decor magazines, and national B2B export directories.</p>
+            <h4>Furnace cluster suppliers</h4>
+            <p>The glass cluster feeds an ecosystem of raw material, packaging, and transport suppliers. We target the narrow B2B searches these firms depend on, which most agencies overlook entirely.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Bilingual trade maps</h4>
-            <p>Mapping bulk purchase intent queries to connect you with retail chains and wholesale buyers nationwide.</p>
+            <h4>Craft trust signals</h4>
+            <p>Glass buyers worry about breakage, finish, and dispatch. Showing process, packing, and shipping practice on-page removes the doubt that stops a first order from being placed.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Gautam Buddha Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">IT parks · software startups · tech centers · corporate advisories</p>
+            <p class="price-desc" style="margin-bottom: 0;">Noida IT and electronics · Greater Noida factories · readymade garments ODOP · Jewar airport</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ghaziabad</h3>
-            <p class="price-desc" style="margin-bottom: 0;">IT parks · software startups · tech centers · corporate advisories</p>
+            <p class="price-desc" style="margin-bottom: 0;">Engineering goods ODOP · auto components · Sahibabad industrial belt · Delhi-Meerut trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ghazipur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Jute wall hangings ODOP · Ganga-bank trade · government opium factory · Purvanchal Expressway</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Gonda</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Food processing ODOP · Devipatan division hub · sugarcane mill belt · Ayodhya-corridor trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you work with craft exporters seeking B2B buyers?
+            Buyers already know Firozabad for bangles. Why would I need SEO?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.</div>
+            <div class="faq-a-inner">Because they know the city, not your unit. When a buyer searches for a Firozabad bangle supplier, dozens of options appear. SEO decides whose number gets dialled first.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How long does it take to rank for craft exports?
+            I sell glassware, not bangles. Does that change the approach?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.</div>
+            <div class="faq-a-inner">Yes, considerably. Glassware buyers search by item type and finish rather than by Firozabad, so we target product terms and use the city as a credibility marker.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Can SEO bring export enquiries for my glass unit?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It can bring the enquiry. Overseas and out-of-state buyers search in English by product and capacity, so we build pages that answer their qualification questions before they write to you.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            How do I compete with the bigger glass units in Firozabad?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">By being specific. Large units target broad terms. A smaller unit wins on narrow ones - a particular finish, size, or order range - where intent is high and competition is thin.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Firozabad.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Firozabad who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Our brassware export house in Moradabad was relying entirely on offline fairs. rankfyno optimized our product directories and ranked us globally. We secured three major importers from Europe in 6 months."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">AA</div>
-              <div>
-                <div class="testimonial-name">Amit Agarwal</div>
-                <div class="testimonial-role">Founder, Moradabad Artisans Export · Moradabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

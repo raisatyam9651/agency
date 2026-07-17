@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Amroha - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Amroha. We engineer GBP, citation, on-page and content SEO for Amroha businesses — artisanal exporters · brassware industries · carpet exporters · wood carvers. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Amroha. We engineer GBP, citation, on-page and content SEO for Amroha businesses — dholak musical instruments · mango orchards · handloom weaving · hasanpur agri trade. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Amroha, SEO company Amroha, Amroha SEO services, local SEO Amroha, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Amroha — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Amroha — engineered to rank your business on Google. Artisanal exporters · brassware industries · carpet exporters · wood carvers.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Amroha — engineered to rank your business on Google. Dholak musical instruments · mango orchards · handloom weaving · Hasanpur agri trade.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/amroha/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you work with craft exporters seeking B2B buyers?\",
+        \"name\": \"How can a dholak workshop reach musicians outside UP?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.\"
+          \"text\": \"Instrument buyers search by type, wood and sound, not by town. Detailed craft and product pages plus shipping information put you in front of national demand.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"How long does it take to rank for craft exports?\",
+        \"name\": \"When should mango traders start SEO work?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.\"
+          \"text\": \"Months before the season. Pages need time to index and gain traction, so content published at peak arrives too late to capture the buying window.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do reviews really change my ranking in Amroha town?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"In tight local packs they matter a lot. Recent, genuine reviews and accurate categories usually separate the top three from everyone below them.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is a website worth it for a handloom unit selling to traders?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes, because traders research before calling. Fabric specifications and lot terms on your own pages qualify buyers and shorten the enquiry cycle.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">A</span><span class="char outline-text">m</span><span class="char outline-text">r</span><span class="char outline-text">o</span><span class="char outline-text">h</span><span class="char outline-text">a</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Amroha on Google for high-intent local searches. Artisanal exporters · brassware industries · carpet exporters · wood carvers.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Amroha on Google for high-intent local searches. Dholak musical instruments · mango orchards · handloom weaving · Hasanpur agri trade.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Amroha</span>
-          <h2 class="display">Artisanal exporters · brassware industries · carpet exporters · wood carvers</h2>
+          <h2 class="display">Dholak musical instruments · mango orchards · handloom weaving · Hasanpur agri trade</h2>
         </div>
-        <p class="lede">SEO in Amroha isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Amroha is known for dholak making and its mango belt, and both attract buyers from outside the district. Local trade meanwhile runs through Maps searches around Amroha town and Hasanpur.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Export trade visibility</h4>
-            <p>We rank your export business globally, connecting your brassware, carpets, or wood carvings directly with international importers.</p>
+            <h4>Dholak craft demand</h4>
+            <p>Amroha ODOP is the dholak. Musicians and instrument dealers search nationally by instrument, wood and tuning, so maker pages with craft detail reach an audience footfall cannot.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Artisanal keyword optimization</h4>
-            <p>We target specialized high-value keywords to capture queries for authentic, handmade regional crafts.</p>
+            <h4>Mango belt seasonality</h4>
+            <p>Orchard and mango trade search spikes hard in season. Pages published and indexed well ahead of harvest capture demand that a page launched in peak week always misses.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>High-domain PR backlinks</h4>
-            <p>Acquiring editorial links from international design portals, home decor magazines, and national B2B export directories.</p>
+            <h4>Handloom product pages</h4>
+            <p>Weaving here sells on fabric specifics. Pages naming the cloth, count and lot size give traders a way to find you by what they are actually sourcing.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Bilingual trade maps</h4>
-            <p>Mapping bulk purchase intent queries to connect you with retail chains and wholesale buyers nationwide.</p>
+            <h4>Town-level local pack</h4>
+            <p>Amroha town and Hasanpur run separate local packs. Category accuracy, real photos and steady reviews decide which shop appears first for everyday service searches.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Auraiya</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Desi ghee and dairy · Dibiyapur industrial node · Yamuna belt agriculture · Phaphund trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ayodhya</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Spiritual tourism · cultural heritage · hospitality services · local trade</p>
+            <p class="price-desc" style="margin-bottom: 0;">Temple pilgrimage economy · Faizabad trade market · jaggery and gur · religious goods retail</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Azamgarh</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Black pottery of Nizamabad · Mubarakpur silk weaving · Gorakhpur road trade · education demand</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Baghpat</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Home furnishings weaving · sugarcane and jaggery belt · Yamuna farmland · NCR fringe trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you work with craft exporters seeking B2B buyers?
+            How can a dholak workshop reach musicians outside UP?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.</div>
+            <div class="faq-a-inner">Instrument buyers search by type, wood and sound, not by town. Detailed craft and product pages plus shipping information put you in front of national demand.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How long does it take to rank for craft exports?
+            When should mango traders start SEO work?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.</div>
+            <div class="faq-a-inner">Months before the season. Pages need time to index and gain traction, so content published at peak arrives too late to capture the buying window.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do reviews really change my ranking in Amroha town?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">In tight local packs they matter a lot. Recent, genuine reviews and accurate categories usually separate the top three from everyone below them.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Is a website worth it for a handloom unit selling to traders?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Yes, because traders research before calling. Fabric specifications and lot terms on your own pages qualify buyers and shorten the enquiry cycle.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Amroha.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Amroha who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Our brassware export house in Moradabad was relying entirely on offline fairs. rankfyno optimized our product directories and ranked us globally. We secured three major importers from Europe in 6 months."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">AA</div>
-              <div>
-                <div class="testimonial-name">Amit Agarwal</div>
-                <div class="testimonial-role">Founder, Moradabad Artisans Export · Moradabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

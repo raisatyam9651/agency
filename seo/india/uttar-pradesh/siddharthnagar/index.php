@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Siddharthnagar - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Siddharthnagar. We engineer GBP, citation, on-page and content SEO for Siddharthnagar businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Siddharthnagar. We engineer GBP, citation, on-page and content SEO for Siddharthnagar businesses — kalanamak scented rice · kapilvastu buddhist site · paddy agro trade · nepal-border commerce. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Siddharthnagar, SEO company Siddharthnagar, Siddharthnagar SEO services, local SEO Siddharthnagar, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Siddharthnagar — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Siddharthnagar — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Siddharthnagar — engineered to rank your business on Google. Kalanamak scented rice · Kapilvastu Buddhist site · paddy agro trade · Nepal-border commerce.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/siddharthnagar/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"How can a Kalanamak rice seller reach buyers outside the district?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"We build pages around Kalanamak and GI scented-rice keywords and improve your visibility so premium buyers in cities and export markets find your produce online.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"Can tourism businesses near Kapilvastu get more visitors from search?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Yes. We optimise your listings for Buddhist-heritage and Piprahwa searches so pilgrims and history travellers planning a Kapilvastu trip discover and choose your service.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do you help farmer producer groups sell Kalanamak online?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We do. We create clear product and origin pages plus listings so producer groups and millers can attract direct buyers seeking authentic Siddharthnagar Kalanamak rice.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is local SEO useful for shops in Naugarh and border towns?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It is. Most buyers search on their phones first, so accurate listings and location pages help nearby and cross-border customers find your shop quickly.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">S</span><span class="char outline-text">i</span><span class="char outline-text">d</span><span class="char outline-text">d</span><span class="char outline-text">h</span><span class="char outline-text">a</span><span class="char outline-text">r</span><span class="char outline-text">t</span><span class="char outline-text">h</span><span class="char outline-text">n</span><span class="char outline-text">a</span><span class="char outline-text">g</span><span class="char outline-text">a</span><span class="char outline-text">r</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Siddharthnagar on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Siddharthnagar on Google for high-intent local searches. Kalanamak scented rice · Kapilvastu Buddhist site · paddy agro trade · Nepal-border commerce.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Siddharthnagar</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Kalanamak scented rice · Kapilvastu Buddhist site · paddy agro trade · Nepal-border commerce</h2>
         </div>
-        <p class="lede">SEO in Siddharthnagar isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Siddharthnagar is the home of GI-tagged Kalanamak rice and the Kapilvastu heritage sites, so growers, millers, and travel businesses here get found when buyers and pilgrims search online for that rice or the Buddha connection.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Kalanamak rice market</h4>
+            <p>We help Kalanamak growers, producer groups, and millers rank for the scented-rice and GI-product searches premium buyers use, opening direct city and export demand beyond local mandis.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Kapilvastu heritage tourism</h4>
+            <p>Near the Piprahwa and Kapilvastu Buddhist sites, we optimise lodges and guides for pilgrim searches so visitors tracing the Buddha story find your stay or service.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Border and agri trade</h4>
+            <p>For agri traders and shops near the India-Nepal border, we build local pages that surface your firm when cross-border and district buyers search for a supplier.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Local service visibility</h4>
+            <p>Clinics, coaching centres, and retailers across Naugarh and the district get mapped for near-me searches, so residents choose you over options in distant towns.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Sitapur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Durrie and carpet weaving · Naimisharanya pilgrimage · sugarcane trade · Khairabad craft</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Sonbhadra</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Power and thermal plants · aluminium and cement · coal and limestone mining · Rihand reservoir</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Sultanpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Gomti agriculture · moonj grass craft · paddy and grain trade · Expressway commerce</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Unnao</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Heavy engineering · manufacturing plants · industrial trade · logistics</p>
+            <p class="price-desc" style="margin-bottom: 0;">Leather tanning and exports · Banthar industry · zari-zardozi craft · Kanpur-Lucknow corridor</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            How can a Kalanamak rice seller reach buyers outside the district?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">We build pages around Kalanamak and GI scented-rice keywords and improve your visibility so premium buyers in cities and export markets find your produce online.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            Can tourism businesses near Kapilvastu get more visitors from search?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Yes. We optimise your listings for Buddhist-heritage and Piprahwa searches so pilgrims and history travellers planning a Kapilvastu trip discover and choose your service.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do you help farmer producer groups sell Kalanamak online?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We do. We create clear product and origin pages plus listings so producer groups and millers can attract direct buyers seeking authentic Siddharthnagar Kalanamak rice.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Is local SEO useful for shops in Naugarh and border towns?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It is. Most buyers search on their phones first, so accurate listings and location pages help nearby and cross-border customers find your shop quickly.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Siddharthnagar.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Siddharthnagar who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

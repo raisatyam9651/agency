@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Kasganj - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Kasganj. We engineer GBP, citation, on-page and content SEO for Kasganj businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Kasganj. We engineer GBP, citation, on-page and content SEO for Kasganj businesses — zari-zardozi embroidery · sugarcane sugar mills · soron ganga ghats · kasganj rail junction. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Kasganj, SEO company Kasganj, Kasganj SEO services, local SEO Kasganj, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Kasganj — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Kasganj — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Kasganj — engineered to rank your business on Google. Zari-zardozi embroidery · sugarcane sugar mills · Soron Ganga ghats · Kasganj rail junction.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/kasganj/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"How can my Kasganj embroidery workshop find garment buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"We target searches like zari zardozi manufacturer and embroidery supplier, optimise your profile with product photos, and build pages so boutiques and wholesalers looking for Kasganj craft reach you directly.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"Can you help businesses that depend on the sugarcane economy?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Yes. We create focused pages for cane traders, equipment sellers, and mill-linked services so farmers and buyers searching around the Kasganj sugar belt find your business quickly.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Will local SEO bring pilgrims to my shop or lodge near Soron?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It can. Many visitors search Maps for stays, food, and pooja items before reaching Soron. We optimise your listing, photos, and reviews so pilgrims choose you.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"My shop is near Kasganj junction - how do I reach travellers?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We optimise your Google profile and location pages for station-area searches so passengers and through-travellers looking for hotels, food, or repairs near Kasganj junction find you fast.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">K</span><span class="char outline-text">a</span><span class="char outline-text">s</span><span class="char outline-text">g</span><span class="char outline-text">a</span><span class="char outline-text">n</span><span class="char outline-text">j</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Kasganj on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Kasganj on Google for high-intent local searches. Zari-zardozi embroidery · sugarcane sugar mills · Soron Ganga ghats · Kasganj rail junction.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Kasganj</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Zari-zardozi embroidery · sugarcane sugar mills · Soron Ganga ghats · Kasganj rail junction</h2>
         </div>
-        <p class="lede">SEO in Kasganj isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Kasganj blends craft, farming, and pilgrimage - so an embroidery unit, a sugar-belt trader, or a shop near Soron ghats gets discovered when local and visiting buyers search Google for services around Kasganj town and its Ganga pilgrimage route.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Zari-zardozi craft trade</h4>
+            <p>Kasganj artisans produce zari and zardozi embroidery for garments and decor. We help units rank for embroidery manufacturer and zari work searches so boutiques and bulk buyers find them online.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Sugar-belt agri-commerce</h4>
+            <p>Sugarcane, sugar mills, and allied trade drive the rural economy. We build pages for cane-linked suppliers, traders, and service firms so agri-buyers around Kasganj find them easily.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Pilgrimage-town footfall</h4>
+            <p>Soron on the Ganga draws pilgrims year round. Lodges, eateries, and pooja-item shops gain when Maps profiles and local pages surface them for visitor searches near the ghats.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Junction-town services</h4>
+            <p>As a busy rail junction, Kasganj sees steady through-traffic. Local SEO helps hotels, repair shops, and travel services capture travellers searching for options close to the station.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kaushambi</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Banana farming and trade · fruit processing · ancient Vatsa heritage · Prayagraj-belt mandis</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Kushinagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Spiritual tourism · cultural heritage · hospitality services · local trade</p>
+            <p class="price-desc" style="margin-bottom: 0;">Buddhist parinirvana site · international airport · banana-fibre craft · sugarcane sugar mills</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Lakhimpur Kheri</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugarcane and sugar mills · Dudhwa tiger reserve · Terai farm belt · Tharu handloom crafts</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Lalitpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Groundnut and oilseed farms · Bundelkhand granite · Deogarh temple heritage · Betwa dam belt</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            How can my Kasganj embroidery workshop find garment buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">We target searches like zari zardozi manufacturer and embroidery supplier, optimise your profile with product photos, and build pages so boutiques and wholesalers looking for Kasganj craft reach you directly.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            Can you help businesses that depend on the sugarcane economy?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Yes. We create focused pages for cane traders, equipment sellers, and mill-linked services so farmers and buyers searching around the Kasganj sugar belt find your business quickly.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Will local SEO bring pilgrims to my shop or lodge near Soron?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It can. Many visitors search Maps for stays, food, and pooja items before reaching Soron. We optimise your listing, photos, and reviews so pilgrims choose you.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            My shop is near Kasganj junction - how do I reach travellers?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We optimise your Google profile and location pages for station-area searches so passengers and through-travellers looking for hotels, food, or repairs near Kasganj junction find you fast.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Kasganj.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Kasganj who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

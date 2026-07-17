@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Mirzapur - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Mirzapur. We engineer GBP, citation, on-page and content SEO for Mirzapur businesses — artisanal exporters · brassware industries · carpet exporters · wood carvers. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Mirzapur. We engineer GBP, citation, on-page and content SEO for Mirzapur businesses — hand-knotted carpets odop · dhurrie weaving · brassware craft · vindhyachal pilgrimage tourism. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Mirzapur, SEO company Mirzapur, Mirzapur SEO services, local SEO Mirzapur, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Mirzapur — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Mirzapur — engineered to rank your business on Google. Artisanal exporters · brassware industries · carpet exporters · wood carvers.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Mirzapur — engineered to rank your business on Google. Hand-knotted carpets ODOP · dhurrie weaving · brassware craft · Vindhyachal pilgrimage tourism.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/mirzapur/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you work with craft exporters seeking B2B buyers?\",
+        \"name\": \"How can my Mirzapur carpet business reach export buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.\"
+          \"text\": \"Wholesale and overseas buyers search online for hand-knotted carpets and dhurries, so ranking for rug keywords and showcasing your range with clear photos brings enquiries from far beyond Mirzapur.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"How long does it take to rank for craft exports?\",
+        \"name\": \"Does local SEO help Mirzapur brassware workshops?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.\"
+          \"text\": \"Yes; buyers search online for brass utensils and homeware, so ranking for those terms and listing your products with photos and reviews opens wholesale and gifting orders beyond the local market.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"How can a hotel near Vindhyachal attract more pilgrims?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Pilgrims plan Vindhyachal visits on Google, so listing your hotel with temple-area photos, accurate directions, and strong reviews helps you rank ahead of nearby options and win more bookings.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Can local SEO help stone suppliers in the Chunar belt?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes; contractors search online for sandstone and building materials, so ranking for construction-supply keywords and listing your yard with photos brings project enquiries from buyers across the Mirzapur region.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">M</span><span class="char outline-text">i</span><span class="char outline-text">r</span><span class="char outline-text">z</span><span class="char outline-text">a</span><span class="char outline-text">p</span><span class="char outline-text">u</span><span class="char outline-text">r</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Mirzapur on Google for high-intent local searches. Artisanal exporters · brassware industries · carpet exporters · wood carvers.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Mirzapur on Google for high-intent local searches. Hand-knotted carpets ODOP · dhurrie weaving · brassware craft · Vindhyachal pilgrimage tourism.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Mirzapur</span>
-          <h2 class="display">Artisanal exporters · brassware industries · carpet exporters · wood carvers</h2>
+          <h2 class="display">Hand-knotted carpets ODOP · dhurrie weaving · brassware craft · Vindhyachal pilgrimage tourism</h2>
         </div>
-        <p class="lede">SEO in Mirzapur isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Mirzapur carpet and dhurrie exporters court overseas buyers online, while Vindhyachal pilgrimage vendors need map visibility, so both depend on ranking for the searches that reach far beyond the district.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Export trade visibility</h4>
-            <p>We rank your export business globally, connecting your brassware, carpets, or wood carvings directly with international importers.</p>
+            <h4>Carpet and dhurrie export</h4>
+            <p>Mirzapur is a renowned hand-knotted carpet and dhurrie centre, so exporters and weavers win by ranking for rug and carpet searches that reach wholesale and overseas buyers.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Artisanal keyword optimization</h4>
-            <p>We target specialized high-value keywords to capture queries for authentic, handmade regional crafts.</p>
+            <h4>Brassware craft trade</h4>
+            <p>Mirzapur's brass utensil and metalware trade serves buyers across regions, so ranking for brassware and homeware searches helps workshops move from local sales to wholesale and gifting orders.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>High-domain PR backlinks</h4>
-            <p>Acquiring editorial links from international design portals, home decor magazines, and national B2B export directories.</p>
+            <h4>Vindhyachal pilgrimage hospitality</h4>
+            <p>Vindhyachal draws pilgrims year-round, so hotels, guesthouses, and vendors near the temple rely on map visibility, helping devotees who plan visits on Google find and book them before arriving.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Bilingual trade maps</h4>
-            <p>Mapping bulk purchase intent queries to connect you with retail chains and wholesale buyers nationwide.</p>
+            <h4>Chunar stone and heritage</h4>
+            <p>The Chunar belt near Mirzapur is known for sandstone and its historic fort, so stone suppliers and heritage-tour operators gain by ranking for construction and tourism searches from outside buyers.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Moradabad</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Brass handicraft exports · metal artware clusters · engineering goods · Ramganga trade belt</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Muzaffarnagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Jaggery (gur) mandi · sugarcane and sugar mills · steel rolling units · paper mills</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Pilibhit</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Bansuri (flute) craft · sugarcane and sugar mills · Terai rice bowl · tiger-reserve tourism</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Pratapgarh</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Amla (aonla) orchards · amla candy and murabba · agro-processing · Awadh farm belt</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you work with craft exporters seeking B2B buyers?
+            How can my Mirzapur carpet business reach export buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we design catalog landing pages and target import-intent search terms to capture wholesale inquiries from B2B buyers globally.</div>
+            <div class="faq-a-inner">Wholesale and overseas buyers search online for hand-knotted carpets and dhurries, so ranking for rug keywords and showcasing your range with clear photos brings enquiries from far beyond Mirzapur.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How long does it take to rank for craft exports?
+            Does local SEO help Mirzapur brassware workshops?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Given the specialized nature of export terms, pages can achieve top ranks for niche keywords in 45-75 days.</div>
+            <div class="faq-a-inner">Yes; buyers search online for brass utensils and homeware, so ranking for those terms and listing your products with photos and reviews opens wholesale and gifting orders beyond the local market.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            How can a hotel near Vindhyachal attract more pilgrims?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Pilgrims plan Vindhyachal visits on Google, so listing your hotel with temple-area photos, accurate directions, and strong reviews helps you rank ahead of nearby options and win more bookings.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Can local SEO help stone suppliers in the Chunar belt?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Yes; contractors search online for sandstone and building materials, so ranking for construction-supply keywords and listing your yard with photos brings project enquiries from buyers across the Mirzapur region.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Mirzapur.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Mirzapur who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Our brassware export house in Moradabad was relying entirely on offline fairs. rankfyno optimized our product directories and ranked us globally. We secured three major importers from Europe in 6 months."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">AA</div>
-              <div>
-                <div class="testimonial-name">Amit Agarwal</div>
-                <div class="testimonial-role">Founder, Moradabad Artisans Export · Moradabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

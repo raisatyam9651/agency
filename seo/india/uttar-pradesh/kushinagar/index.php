@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Kushinagar - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Kushinagar. We engineer GBP, citation, on-page and content SEO for Kushinagar businesses — spiritual tourism · cultural heritage · hospitality services · local trade. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Kushinagar. We engineer GBP, citation, on-page and content SEO for Kushinagar businesses — buddhist parinirvana site · international airport · banana-fibre craft · sugarcane sugar mills. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Kushinagar, SEO company Kushinagar, Kushinagar SEO services, local SEO Kushinagar, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Kushinagar — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Kushinagar — engineered to rank your business on Google. Spiritual tourism · cultural heritage · hospitality services · local trade.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Kushinagar — engineered to rank your business on Google. Buddhist parinirvana site · international airport · banana-fibre craft · sugarcane sugar mills.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/kushinagar/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does tourism SEO help local businesses?\",
+        \"name\": \"How do I get my Kushinagar hotel found by Buddhist pilgrims?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It captures tourists searching for accommodations, dining, shopping, and tours in real-time, sending high-intent leads straight to you.\"
+          \"text\": \"We optimise your Google profile, photos, and reviews and build pages targeting Kushinagar stay and pilgrimage searches so domestic and international visitors booking the Buddhist circuit choose you.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Can you rank my hotel globally for overseas travelers?\",
+        \"name\": \"Can the new airport help my transport or tour business online?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We implement multi-region optimizations, clean travel schema, and target international search keywords.\"
+          \"text\": \"Yes. We target searches for airport transfers, guides, and tours near Kushinagar so arriving pilgrims and agents planning the Buddhist circuit find and book your services.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Will local SEO help me sell banana-fibre crafts and produce?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It will. We create product pages and optimise listings for banana and eco-craft searches so wholesale buyers and visiting shoppers looking for Kushinagar goods reach you directly.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"How can my sugarcane-linked business get more local buyers?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"We build pages targeting cane trade, equipment, and mill-linked service searches so farmers and buyers around the Kushinagar sugar belt find your business instead of a directory.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">K</span><span class="char outline-text">u</span><span class="char outline-text">s</span><span class="char outline-text">h</span><span class="char outline-text">i</span><span class="char outline-text">n</span><span class="char outline-text">a</span><span class="char outline-text">g</span><span class="char outline-text">a</span><span class="char outline-text">r</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Kushinagar on Google for high-intent local searches. Spiritual tourism · cultural heritage · hospitality services · local trade.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Kushinagar on Google for high-intent local searches. Buddhist parinirvana site · international airport · banana-fibre craft · sugarcane sugar mills.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Kushinagar</span>
-          <h2 class="display">Spiritual tourism · cultural heritage · hospitality services · local trade</h2>
+          <h2 class="display">Buddhist parinirvana site · international airport · banana-fibre craft · sugarcane sugar mills</h2>
         </div>
-        <p class="lede">SEO in Kushinagar isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Kushinagar draws Buddhist pilgrims from across Asia to the Mahaparinirvana site, so hotels, tour operators, and craft sellers get discovered when visitors and agents search Google and Maps for stays, guides, and gifts near the temple and new airport.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Spiritual & heritage searches</h4>
-            <p>We optimize your hotel, travel agency, or retail shop to rank for the massive tourist and devotee search traffic visiting UP's historic centers.</p>
+            <h4>Buddhist pilgrimage tourism</h4>
+            <p>Pilgrims and tour groups plan trips to the Mahaparinirvana Temple and Ramabhar Stupa online. We optimise hotels, guides, and operators to rank for Kushinagar stay and tour searches across multiple markets.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Local maps pack visibility</h4>
-            <p>Positioning your hospitality business at the top of the local 3-pack for highly competitive tourist-intent queries.</p>
+            <h4>Airport-gateway visibility</h4>
+            <p>With an international airport serving the Buddhist circuit, arriving visitors search for transport, stays, and food. Local SEO puts your business in front of them at the moment they land.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Voice & mobile tourist queries</h4>
-            <p>Tourists search on-the-go. We implement specialized Schema structures and fast page speeds to capture immediate mobile searches.</p>
+            <h4>Banana and fibre crafts</h4>
+            <p>The banana belt of Kushinagar supports fruit trade and banana-fibre products. We build pages so wholesale buyers and gift shoppers searching for kela and eco-craft from the district find your goods.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>High-value travel links</h4>
-            <p>Securing editorial link mentions from global travel portals, lifestyle channels, and regional news networks.</p>
+            <h4>Sugar-belt agri-trade</h4>
+            <p>Sugarcane and sugar mills anchor the rural economy. We help cane-linked traders, equipment sellers, and services rank for the agri-searches buyers make around Kushinagar.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Lakhimpur Kheri</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Sugarcane and sugar mills · Dudhwa tiger reserve · Terai farm belt · Tharu handloom crafts</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Lalitpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Groundnut and oilseed farms · Bundelkhand granite · Deogarh temple heritage · Betwa dam belt</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Lucknow</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Regional commercial hubs · university networks · professional service providers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Chikankari embroidery · Awadhi hospitality · medical and education hub · Hazratganj retail</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Maharajganj</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Wooden furniture ODOP · sugarcane sugar mills · Nepal border trade · agro-processing</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does tourism SEO help local businesses?
+            How do I get my Kushinagar hotel found by Buddhist pilgrims?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It captures tourists searching for accommodations, dining, shopping, and tours in real-time, sending high-intent leads straight to you.</div>
+            <div class="faq-a-inner">We optimise your Google profile, photos, and reviews and build pages targeting Kushinagar stay and pilgrimage searches so domestic and international visitors booking the Buddhist circuit choose you.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Can you rank my hotel globally for overseas travelers?
+            Can the new airport help my transport or tour business online?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We implement multi-region optimizations, clean travel schema, and target international search keywords.</div>
+            <div class="faq-a-inner">Yes. We target searches for airport transfers, guides, and tours near Kushinagar so arriving pilgrims and agents planning the Buddhist circuit find and book your services.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Will local SEO help me sell banana-fibre crafts and produce?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It will. We create product pages and optimise listings for banana and eco-craft searches so wholesale buyers and visiting shoppers looking for Kushinagar goods reach you directly.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            How can my sugarcane-linked business get more local buyers?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">We build pages targeting cane trade, equipment, and mill-linked service searches so farmers and buyers around the Kushinagar sugar belt find your business instead of a directory.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Kushinagar.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Kushinagar who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Operating a premium hotel near the Ayodhya temple, ranking on Google was critical. rankfyno optimized our hotel schemas, updated our maps listing, and doubled our direct bookings in 4 months."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">AS</div>
-              <div>
-                <div class="testimonial-name">Aditya Shrivastav</div>
-                <div class="testimonial-role">General Manager, Heritage Inn · Ayodhya</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

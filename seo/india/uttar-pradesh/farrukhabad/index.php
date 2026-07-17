@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Farrukhabad - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Farrukhabad. We engineer GBP, citation, on-page and content SEO for Farrukhabad businesses — sugarcane mandis · grain distribution · cold storage · agro-trade networks. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Farrukhabad. We engineer GBP, citation, on-page and content SEO for Farrukhabad businesses — hand block print textiles · fatehgarh trade · potato belt cold storage · zari craft work. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Farrukhabad, SEO company Farrukhabad, Farrukhabad SEO services, local SEO Farrukhabad, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Farrukhabad — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Farrukhabad — engineered to rank your business on Google. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Farrukhabad — engineered to rank your business on Google. Hand block print textiles · Fatehgarh trade · potato belt cold storage · zari craft work.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/farrukhabad/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How does SEO help agricultural traders?\",
+        \"name\": \"Can SEO get my Farrukhabad block print unit noticed by buyers outside UP?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.\"
+          \"text\": \"That is exactly where it pays off. Buyers searching for hand block printed fabric rarely name the district, so we target the product terms and let your Farrukhabad origin build credibility.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize listings for rural postcodes?\",
+        \"name\": \"I run a cold storage near the potato belt. Is SEO worth it for a seasonal business?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.\"
+          \"text\": \"Seasonal demand suits SEO well because it is predictable. We build the pages ahead of the season so you rank when storage and rate searches climb, not after they have passed.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do I need a full website or just a Google listing?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It depends on your buyer. A local shop can go far on a strong listing, but export and wholesale enquiries usually need a site where buyers can check your range and capacity first.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"How long before I see results in a market like Farrukhabad?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Local map results often move within a few months since competition is lighter here. Broader product searches for block printed textiles take longer because you are competing nationally.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">F</span><span class="char outline-text">a</span><span class="char outline-text">r</span><span class="char outline-text">r</span><span class="char outline-text">u</span><span class="char outline-text">k</span><span class="char outline-text">h</span><span class="char outline-text">a</span><span class="char outline-text">b</span><span class="char outline-text">a</span><span class="char outline-text">d</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Farrukhabad on Google for high-intent local searches. Sugarcane mandis · grain distribution · cold storage · agro-trade networks.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Farrukhabad on Google for high-intent local searches. Hand block print textiles · Fatehgarh trade · potato belt cold storage · zari craft work.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Farrukhabad</span>
-          <h2 class="display">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</h2>
+          <h2 class="display">Hand block print textiles · Fatehgarh trade · potato belt cold storage · zari craft work</h2>
         </div>
-        <p class="lede">SEO in Farrukhabad isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Farrukhabad is known for its hand block printed textiles, and most buyers who matter - exporters, boutique sourcers, wholesalers - start on Google rather than the local market. That gap is where visibility turns into orders.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>Agro-input & trader queries</h4>
-            <p>We rank your cold storage facility, mandi trading firm, or fertilizer distribution network for bulk commercial searches.</p>
+            <h4>Block print buyer reach</h4>
+            <p>Farrukhabad hand block printing has a national buyer base that never visits the district. We build pages that show craft, print type, and order capability so remote buyers can qualify you fast.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Mandi trade search optimization</h4>
-            <p>Capturing regional crop queries and buyer intents across major agricultural districts of Uttar Pradesh.</p>
+            <h4>Potato belt cold chain</h4>
+            <p>Farrukhabad sits in a major potato-growing belt. Cold storage operators, traders, and transporters get discovered through seasonal storage and rate queries that spike at harvest.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Local directory citation setups</h4>
-            <p>Enriching local directory signals to align maps listings with local postal codes for strong local pack search power.</p>
+            <h4>Fatehgarh local services</h4>
+            <p>Fatehgarh and its cantonment area anchor steady local demand for clinics, tuition, repair, and retail. We tune map presence to the neighbourhood-level searches these businesses actually receive.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Voice search compatibility</h4>
-            <p>Sugarcane and grain traders search heavily via voice in Hindi. We structure search tags and FAQ schemas for spoken Hindi.</p>
+            <h4>Craft export credibility</h4>
+            <p>Export enquiries hinge on trust signals. We surface certifications, capacity, and process on-page so a first-time buyer from outside UP feels safe sending a sample request.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Fatehpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Bedsheet and home textiles ODOP · doab farming · Bindki trade cluster · Kanpur-Prayagraj road</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Firozabad</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Artisanal exporters · brassware industries · carpet exporters · wood carvers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Glass bangles ODOP · glass furnace clusters · Suhag Nagar trade · Agra-corridor exports</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Gautam Buddha Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">IT parks · software startups · tech centers · corporate advisories</p>
+            <p class="price-desc" style="margin-bottom: 0;">Noida IT and electronics · Greater Noida factories · readymade garments ODOP · Jewar airport</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ghaziabad</h3>
-            <p class="price-desc" style="margin-bottom: 0;">IT parks · software startups · tech centers · corporate advisories</p>
+            <p class="price-desc" style="margin-bottom: 0;">Engineering goods ODOP · auto components · Sahibabad industrial belt · Delhi-Meerut trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How does SEO help agricultural traders?
+            Can SEO get my Farrukhabad block print unit noticed by buyers outside UP?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">It makes you discoverable to crop buyers, food processors, and national bulk purchasers searching for reliable storage or trade partners in UP's mandis.</div>
+            <div class="faq-a-inner">That is exactly where it pays off. Buyers searching for hand block printed fabric rarely name the district, so we target the product terms and let your Farrukhabad origin build credibility.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize listings for rural postcodes?
+            I run a cold storage near the potato belt. Is SEO worth it for a seasonal business?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes. We audit NAP listings, clean up verification details, and configure map pins for precise rural trade area indexation.</div>
+            <div class="faq-a-inner">Seasonal demand suits SEO well because it is predictable. We build the pages ahead of the season so you rank when storage and rate searches climb, not after they have passed.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do I need a full website or just a Google listing?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It depends on your buyer. A local shop can go far on a strong listing, but export and wholesale enquiries usually need a site where buyers can check your range and capacity first.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            How long before I see results in a market like Farrukhabad?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">Local map results often move within a few months since competition is lighter here. Broader product searches for block printed textiles take longer because you are competing nationally.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Farrukhabad.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Farrukhabad who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"We run a cold storage and potato trading business near Farrukhabad. rankfyno built our local listing and ranked us for wholesale cold storage queries. Bulk farmer and trader inquiries doubled."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">YY</div>
-              <div>
-                <div class="testimonial-name">Yogesh Yadav</div>
-                <div class="testimonial-role">Owner, Yadav Cold Storage · Farrukhabad</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

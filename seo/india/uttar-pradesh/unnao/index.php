@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Unnao - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Unnao. We engineer GBP, citation, on-page and content SEO for Unnao businesses — heavy engineering · manufacturing plants · industrial trade · logistics. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Unnao. We engineer GBP, citation, on-page and content SEO for Unnao businesses — leather tanning and exports · banthar industry · zari-zardozi craft · kanpur-lucknow corridor. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Unnao, SEO company Unnao, Unnao SEO services, local SEO Unnao, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Unnao — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Unnao — engineered to rank your business on Google. Heavy engineering · manufacturing plants · industrial trade · logistics.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Unnao — engineered to rank your business on Google. Leather tanning and exports · Banthar industry · zari-zardozi craft · Kanpur-Lucknow corridor.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/unnao/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"Can you help my factory rank for wholesale bulk contracts?\",
+        \"name\": \"How can an Unnao tannery or leather-goods maker find export buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we specialize in B2B catalog structures, raw materials schemas, and wholesale keyword ranking campaigns across North India.\"
+          \"text\": \"We build product pages around finished-leather, footwear, and export keywords and strengthen your profile so importers and wholesale buyers searching online reach your unit.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you optimize Google Business Profiles for industrial zones?\",
+        \"name\": \"Do you help suppliers to the Banthar leather industrial area?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we verify listings, manage map coordinates, and upload geotagged warehouse photos to guarantee map indexation.\"
+          \"text\": \"Yes. We target the chemical, machinery, and service terms tanneries and factories search for, so procurement teams around Banthar and Magarwara find your firm.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Can corridor businesses on the Kanpur-Lucknow highway benefit?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"They can. We optimise listings for near-me and regional searches so transporters, warehouses, and service stops capture buyers moving along the busy corridor.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Will local SEO help my shop compete with nearby Kanpur and Lucknow?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It will. When Unnao residents search nearby, accurate local pages help them choose your business instead of driving to the larger neighbouring cities.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">U</span><span class="char outline-text">n</span><span class="char outline-text">n</span><span class="char outline-text">a</span><span class="char outline-text">o</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Unnao on Google for high-intent local searches. Heavy engineering · manufacturing plants · industrial trade · logistics.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Unnao on Google for high-intent local searches. Leather tanning and exports · Banthar industry · zari-zardozi craft · Kanpur-Lucknow corridor.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Unnao</span>
-          <h2 class="display">Heavy engineering · manufacturing plants · industrial trade · logistics</h2>
+          <h2 class="display">Leather tanning and exports · Banthar industry · zari-zardozi craft · Kanpur-Lucknow corridor</h2>
         </div>
-        <p class="lede">SEO in Unnao isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Unnao anchors part of the Kanpur leather belt with tanneries around Banthar, so leather exporters, industrial suppliers, and corridor businesses are discovered when buyers and procurement teams search online for a maker or vendor near the Kanpur-Lucknow highway.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>B2B wholesale queries</h4>
-            <p>We rank your industrial manufacturing or logistics plant for high-intent wholesale keywords to connect you with bulk buyers across India.</p>
+            <h4>Leather export reach</h4>
+            <p>We help Unnao and Banthar tanneries and leather-goods makers rank for the finished-leather, footwear, and export searches importers and wholesale buyers actually use.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>NAP map packet audits</h4>
-            <p>Resolving duplicate local pins in congested industrial sectors (Okhla, Dada Nagar, Unnao) to build consistent search signals.</p>
+            <h4>Industrial cluster supply</h4>
+            <p>For firms serving the Banthar and Magarwara estates, we target chemicals, machinery, and B2B service keywords so factory procurement teams find your company for sourcing.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Route & logistics targeting</h4>
-            <p>We compile programmatic cargo route pages to drive freight and warehousing contract requests directly to you.</p>
+            <h4>Corridor and logistics trade</h4>
+            <p>Along the Kanpur-Lucknow highway, we help warehouses, transporters, and service businesses rank for regional buyer and near-me searches across the busy corridor.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>Bilingual trade terms</h4>
-            <p>Trading communities search in Hindi and Hinglish. We optimize bilingual metadata to capture maximum local trade volume.</p>
+            <h4>Craft and town services</h4>
+            <p>Zari-zardozi artisans, shops, clinics, and coaching centres in Unnao, Gangaghat, and Shuklaganj get mapped for near-me searches so residents choose you before Kanpur or Lucknow options.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Varanasi</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Spiritual tourism · cultural heritage · hospitality services · local trade</p>
+            <p class="price-desc" style="margin-bottom: 0;">Banarasi silk sarees · ghat and temple tourism · wooden lacquer toys · Kashi hospitality</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Agra</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Spiritual tourism · cultural heritage · hospitality services · local trade</p>
+            <p class="price-desc" style="margin-bottom: 0;">Leather footwear exports · Taj-corridor hospitality · marble inlay craft · petha sweets trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Aligarh</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Regional commercial hubs · university networks · professional service providers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Lock and hardware manufacturing · brass fittings · AMU academic economy · builder hardware</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ambedkar Nagar</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Tanda powerloom textiles · handloom weaving · Akbarpur trade centre · agri and rice processing</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Can you help my factory rank for wholesale bulk contracts?
+            How can an Unnao tannery or leather-goods maker find export buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we specialize in B2B catalog structures, raw materials schemas, and wholesale keyword ranking campaigns across North India.</div>
+            <div class="faq-a-inner">We build product pages around finished-leather, footwear, and export keywords and strengthen your profile so importers and wholesale buyers searching online reach your unit.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you optimize Google Business Profiles for industrial zones?
+            Do you help suppliers to the Banthar leather industrial area?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we verify listings, manage map coordinates, and upload geotagged warehouse photos to guarantee map indexation.</div>
+            <div class="faq-a-inner">Yes. We target the chemical, machinery, and service terms tanneries and factories search for, so procurement teams around Banthar and Magarwara find your firm.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Can corridor businesses on the Kanpur-Lucknow highway benefit?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">They can. We optimise listings for near-me and regional searches so transporters, warehouses, and service stops capture buyers moving along the busy corridor.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Will local SEO help my shop compete with nearby Kanpur and Lucknow?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It will. When Unnao residents search nearby, accurate local pages help them choose your business instead of driving to the larger neighbouring cities.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Unnao.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Unnao who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"Our leather export manufacturing unit in Kanpur was invisible on Google. rankfyno rebuilt our product directories and optimized our maps listing. Bulk inquiries from out-of-state grew by 3× in 90 days."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">MA</div>
-              <div>
-                <div class="testimonial-name">Mohammad Asif</div>
-                <div class="testimonial-role">Managing Director, Asif Leather Exports · Kanpur</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">

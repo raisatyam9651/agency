@@ -1,3 +1,16 @@
+# =============================================================================
+# RETIRED / DEAD CODE - DO NOT RUN. See DEPRECATED.md in this folder.
+#
+# This generator emits pre-rebrand static HTML ("NEXUS", <!DOCTYPE html>) and is
+# out of sync with the live site, which is now dynamic PHP ("rankfyno", header.php
+# includes). More importantly, it assigned every district a shared "archetype"
+# (CATEGORIES_COPIES), which produced 48 byte-identical "agriculture_trade" pages
+# and triggered Google duplicate/doorway-page flags.
+#
+# The 75 live UP pages now carry hand-maintained, per-district content and are the
+# single source of truth. Running this script would OVERWRITE that work with stale,
+# duplicated copy. It is intentionally disabled below.
+# =============================================================================
 import os
 import sys
 
@@ -1730,4 +1743,10 @@ def main():
     print("All UP pages generated successfully!")
 
 if __name__ == "__main__":
-    main()
+    sys.exit(
+        "REFUSING TO RUN: this generator is retired dead code and would overwrite "
+        "the live per-district UP pages with stale, duplicated archetype content.\n"
+        "See DEPRECATED.md in this folder. If you truly need to regenerate, remove "
+        "this guard deliberately and update the template to dynamic PHP first."
+    )
+    main()  # unreachable

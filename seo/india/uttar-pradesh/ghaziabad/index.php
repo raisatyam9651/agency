@@ -1,7 +1,7 @@
 <?php
 $base_path = '../../../../';
 $page_title = "Local SEO agency in Ghaziabad - Rankfyno";
-$page_description = "rankfyno is a local SEO agency in Ghaziabad. We engineer GBP, citation, on-page and content SEO for Ghaziabad businesses — it parks · software startups · tech centers · corporate advisories. Real rankings. Real leads.";
+$page_description = "rankfyno is a local SEO agency in Ghaziabad. We engineer GBP, citation, on-page and content SEO for Ghaziabad businesses — engineering goods odop · auto components · sahibabad industrial belt · delhi-meerut trade. Real rankings. Real leads.";
 $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <!-- SEO: Primary meta -->
   <meta name=\"keywords\" content=\"SEO agency Ghaziabad, SEO company Ghaziabad, Ghaziabad SEO services, local SEO Ghaziabad, technical SEO, content SEO, rankfyno SEO\" />
@@ -12,7 +12,7 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
   <meta property=\"og:type\" content=\"website\" />
   <meta property=\"og:site_name\" content=\"rankfyno\" />
   <meta property=\"og:title\" content=\"SEO Agency in Ghaziabad — rankfyno Local SEO\" />
-  <meta property=\"og:description\" content=\"Local SEO in Ghaziabad — engineered to rank your business on Google. IT parks · software startups · tech centers · corporate advisories.\" />
+  <meta property=\"og:description\" content=\"Local SEO in Ghaziabad — engineered to rank your business on Google. Engineering goods ODOP · auto components · Sahibabad industrial belt · Delhi-Meerut trade.\" />
   <meta property=\"og:url\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/ghaziabad/\" />
   <meta property=\"og:locale\" content=\"en_IN\" />
   <meta property=\"og:image\" content=\"https://rankfyno.com/seo/india/uttar-pradesh/images/hero.jpg\" />
@@ -97,18 +97,34 @@ $custom_head = "<meta name=\"theme-color\" content=\"#0a0a0a\" />
     \"mainEntity\": [
       {
         \"@type\": \"Question\",
-        \"name\": \"How long does SEO take for Noida tech companies?\",
+        \"name\": \"Delhi companies outrank me for Ghaziabad searches. How do I push back?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Given the high concentration of IT firms in Noida, expect map pack rankings in 60 days, while global B2B keywords require 4-6 months to build competitive topical maps.\"
+          \"text\": \"With signals they cannot fake - a verified Ghaziabad address, local reviews, and locality pages. Google favours genuine proximity for service searches, and that is your structural edge.\"
         }
       },
       {
         \"@type\": \"Question\",
-        \"name\": \"Do you handle SEO for e-commerce brands in Ghaziabad?\",
+        \"name\": \"I supply engineering components in Sahibabad. Will SEO reach procurement buyers?\",
         \"acceptedAnswer\": {
           \"@type\": \"Answer\",
-          \"text\": \"Yes, we specialize in Shopify and WooCommerce setups, category indexation, and product structured data to drive sales.\"
+          \"text\": \"Yes, if the pages speak their language. Procurement searches by specification, not by supplier name, so we build pages around part type, material, and capacity.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Do I need separate pages for Indirapuram and Vaishali?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"If you genuinely serve both, yes - but each page must have real, distinct content. Duplicated locality pages get flagged and can pull your whole site down.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"How does the Delhi-Meerut Expressway affect my visibility?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"It widens your realistic service area, which changes who you should target. We adjust radius and content to match where you can actually deliver, not just where you sit.\"
         }
       },
       {
@@ -226,7 +242,7 @@ include $base_path . 'header.php';
         <div class="word"><span class="char outline-text">G</span><span class="char outline-text">h</span><span class="char outline-text">a</span><span class="char outline-text">z</span><span class="char outline-text">i</span><span class="char outline-text">a</span><span class="char outline-text">b</span><span class="char outline-text">a</span><span class="char outline-text">d</span></div>
       </h1>
 
-      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Ghaziabad on Google for high-intent local searches. IT parks · software startups · tech centers · corporate advisories.</p>
+      <p class="hero-sub">Uttar Pradesh local SEO — engineered to rank your business in Ghaziabad on Google for high-intent local searches. Engineering goods ODOP · auto components · Sahibabad industrial belt · Delhi-Meerut trade.</p>
 
       <div class="hero-cta">
         <a href="../../../../contact.php" class="btn btn-primary" data-cursor-hover>
@@ -386,38 +402,38 @@ include $base_path . 'header.php';
       <div class="section-head reveal">
         <div>
           <span class="eyebrow"><span class="dot"></span> Why Ghaziabad</span>
-          <h2 class="display">IT parks · software startups · tech centers · corporate advisories</h2>
+          <h2 class="display">Engineering goods ODOP · auto components · Sahibabad industrial belt · Delhi-Meerut trade</h2>
         </div>
-        <p class="lede">SEO in Ghaziabad isn't generic — it follows the local economy, the buyer language, and the way people here actually search. We engineer around all three.</p>
+        <p class="lede">Ghaziabad is an industrial gateway to Delhi with distinct pockets - Sahibabad, Indirapuram, Vaishali, Raj Nagar - that behave like separate markets in search. A single city-wide page rarely wins any of them.</p>
       </div>
 
       <div class="why-pillars reveal-stagger" style="margin-top: 60px;">
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ A</div>
           <div>
-            <h4>NCR IT infrastructure</h4>
-            <p>We rank your tech startup or B2B consultancy for high-value organic search terms. Optimizing for tech parks, software clusters, and corporate headquarters.</p>
+            <h4>Locality-split targeting</h4>
+            <p>Indirapuram, Vaishali, and Raj Nagar Extension each pull their own searches. We split targeting by locality so you appear where your customers actually are, not city-wide and nowhere.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ B</div>
           <div>
-            <h4>Enterprise link building</h4>
-            <p>Acquiring premium links from global technology publications, startup portals, and high-authority business directories.</p>
+            <h4>Engineering goods B2B</h4>
+            <p>Engineering goods are the district ODOP line, backed by real industrial depth. We target the specification-level searches procurement teams run - part type, tolerance, capacity - not vague company terms.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ C</div>
           <div>
-            <h4>Mobile-first & JS rendering</h4>
-            <p>Noida & Ghaziabad tech search is mobile-heavy. We configure secure server response paths, fast Core Web Vitals, and JS framework indexes.</p>
+            <h4>Delhi spillover competition</h4>
+            <p>Delhi firms bid on Ghaziabad terms without being here. We turn genuine proximity into the advantage - faster service, real address, local reviews - that a distant competitor cannot claim.</p>
           </div>
         </div>
         <div class="pillar" data-cursor-hover>
           <div class="pillar-num">/ D</div>
           <div>
-            <h4>E-E-A-T trust signals</h4>
-            <p>Aligning directory schema with corporate postal prefixes (201301, 201001, etc.) and building clear author profiles for high-trust rankings.</p>
+            <h4>Sahibabad industrial belt</h4>
+            <p>The Sahibabad industrial area concentrates manufacturing and its supplier chain. Suppliers there win on narrow B2B searches, where the right page beats the biggest advertising budget.</p>
           </div>
         </div>
       </div>
@@ -498,7 +514,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 01</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Ghazipur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Jute wall hangings ODOP · Ganga-bank trade · government opium factory · Purvanchal Expressway</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -506,7 +522,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 02</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Gonda</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Food processing ODOP · Devipatan division hub · sugarcane mill belt · Ayodhya-corridor trade</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -514,7 +530,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 03</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Gorakhpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Regional commercial hubs · university networks · professional service providers</p>
+            <p class="price-desc" style="margin-bottom: 0;">Terracotta craft · Gorakhnath temple footfall · AIIMS medical belt · rail and fertiliser hub</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -522,7 +538,7 @@ include $base_path . 'header.php';
           <div>
             <span class="price-name">/ 04</span>
             <h3 style="margin-top: 12px; margin-bottom: 8px;">Hamirpur</h3>
-            <p class="price-desc" style="margin-bottom: 0;">Sugarcane mandis · grain distribution · cold storage · agro-trade networks</p>
+            <p class="price-desc" style="margin-bottom: 0;">Footwear and shoe craft · Yamuna-Betwa sand trade · pulses mandis · Kanpur-corridor transport</p>
           </div>
           <span class="btn-ghost" style="display: inline-flex; align-items: center; gap: 8px; font-size: 12px; padding: 8px 16px; border-radius: 100px; width: fit-content; margin-top: 16px;">Explore →</span>
         </a>
@@ -551,20 +567,38 @@ include $base_path . 'header.php';
       <div class="faq-list reveal-stagger" style="margin-top: 60px; max-width: 800px; margin-left: auto; margin-right: auto;">
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            How long does SEO take for Noida tech companies?
+            Delhi companies outrank me for Ghaziabad searches. How do I push back?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Given the high concentration of IT firms in Noida, expect map pack rankings in 60 days, while global B2B keywords require 4-6 months to build competitive topical maps.</div>
+            <div class="faq-a-inner">With signals they cannot fake - a verified Ghaziabad address, local reviews, and locality pages. Google favours genuine proximity for service searches, and that is your structural edge.</div>
           </div>
         </div>
         <div class="faq-item">
           <button class="faq-q" data-cursor-hover>
-            Do you handle SEO for e-commerce brands in Ghaziabad?
+            I supply engineering components in Sahibabad. Will SEO reach procurement buyers?
             <span class="icon"></span>
           </button>
           <div class="faq-a">
-            <div class="faq-a-inner">Yes, we specialize in Shopify and WooCommerce setups, category indexation, and product structured data to drive sales.</div>
+            <div class="faq-a-inner">Yes, if the pages speak their language. Procurement searches by specification, not by supplier name, so we build pages around part type, material, and capacity.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            Do I need separate pages for Indirapuram and Vaishali?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">If you genuinely serve both, yes - but each page must have real, distinct content. Duplicated locality pages get flagged and can pull your whole site down.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" data-cursor-hover>
+            How does the Delhi-Meerut Expressway affect my visibility?
+            <span class="icon"></span>
+          </button>
+          <div class="faq-a">
+            <div class="faq-a-inner">It widens your realistic service area, which changes who you should target. We adjust radius and content to match where you can actually deliver, not just where you sit.</div>
           </div>
         </div>
         <div class="faq-item">
@@ -634,33 +668,6 @@ include $base_path . 'header.php';
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section style="padding: 80px 0; border-top: 1px solid var(--border);">
-    <div class="container">
-      <div class="section-head reveal">
-        <div>
-          <span class="eyebrow"><span class="dot"></span> Client voices</span>
-          <h2 class="display">Operators who<br/><span class="gradient-text">build with us in Ghaziabad.</span></h2>
-        </div>
-        <p class="lede">Hear from local business owners, coaches, and directors in Ghaziabad who rank on page-1.</p>
-      </div>
-
-      <div class="testimonial-stage reveal" style="margin-top: 60px;">
-        <div class="testimonial-track" id="testimonial-track">
-          <div class="testimonial active">
-            <p class="testimonial-quote">"rankfyno took over our B2B SaaS startup's organic campaign from our Noida sector-62 office. In 5 months, they drove our organic traffic up by 4.5× and ranked us #1 for major CRM software queries."</p>
-            <div class="testimonial-author">
-              <div class="testimonial-avatar">VS</div>
-              <div>
-                <div class="testimonial-name">Vikash Singhal</div>
-                <div class="testimonial-role">CEO, CloudSphere Solutions · Noida</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- CTA Section -->
   <div class="cta-wrap" id="cta">
